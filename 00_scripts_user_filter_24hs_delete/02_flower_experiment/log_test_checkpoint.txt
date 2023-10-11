@@ -1,0 +1,602 @@
+myFlowerExperiment | INFO flwr 2023-10-09 22:47:08,508 | app.py:175 | Starting Flower simulation, config: ServerConfig(num_rounds=2, round_timeout=None)
+myFlowerExperiment | INFO flwr 2023-10-09 22:47:12,052 | app.py:210 | Flower VCE: Ray initialized with resources: {'node:__internal_head__': 1.0, 'node:172.30.126.159': 1.0, 'object_store_memory': 1865712844.0, 'memory': 3731425691.0, 'CPU': 16.0}
+myFlowerExperiment | INFO flwr 2023-10-09 22:47:12,055 | app.py:224 | Flower VCE: Resources for each Virtual Client: {'num_cpus': 1}
+myFlowerExperiment | INFO flwr 2023-10-09 22:47:12,079 | app.py:270 | Flower VCE: Creating VirtualClientEngineActorPool with 16 actors
+myFlowerExperiment | INFO flwr 2023-10-09 22:47:12,082 | server.py:89 | Initializing global parameters
+myFlowerExperiment | INFO flwr 2023-10-09 22:47:12,122 | server.py:276 | Requesting initial parameters from one random client
+myFlowerExperiment | INFO flwr 2023-10-09 22:47:19,054 | server.py:280 | Received initial parameters from one random client
+myFlowerExperiment | INFO flwr 2023-10-09 22:47:19,056 | server.py:91 | Evaluating initial parameters
+myFlowerExperiment | ERROR flwr 2023-10-09 22:47:37,558 | app.py:294 | name 'self' is not defined
+myFlowerExperiment | ERROR flwr 2023-10-09 22:47:37,559 | app.py:295 | Your simulation crashed :(. This could be because of several reasons.The most common are: 
+	 > Your system couldn't fit a single VirtualClient: try lowering `client_resources`.
+	 > All the actors in your pool crashed. This could be because: 
+		 - You clients hit an out-of-memory (OOM) error and actors couldn't recover from it. Try launching your simulation with more generous `client_resources` setting (i.e. it seems {'num_cpus': 1} is not enough for your workload). Use fewer concurrent actors. 
+		 - You were running a multi-node simulation and all worker nodes disconnected. The head node might still be alive but cannot accommodate any actor with resources: {'num_cpus': 1}.
+myFlowerExperiment | INFO flwr 2023-10-09 22:52:04,895 | app.py:175 | Starting Flower simulation, config: ServerConfig(num_rounds=2, round_timeout=None)
+myFlowerExperiment | INFO flwr 2023-10-09 22:52:10,173 | app.py:210 | Flower VCE: Ray initialized with resources: {'node:172.30.126.159': 1.0, 'CPU': 16.0, 'memory': 3210731520.0, 'object_store_memory': 1605365760.0, 'node:__internal_head__': 1.0}
+myFlowerExperiment | INFO flwr 2023-10-09 22:52:10,174 | app.py:224 | Flower VCE: Resources for each Virtual Client: {'num_cpus': 1}
+myFlowerExperiment | INFO flwr 2023-10-09 22:52:10,196 | app.py:270 | Flower VCE: Creating VirtualClientEngineActorPool with 16 actors
+myFlowerExperiment | INFO flwr 2023-10-09 22:52:10,197 | server.py:89 | Initializing global parameters
+myFlowerExperiment | INFO flwr 2023-10-09 22:52:10,199 | server.py:276 | Requesting initial parameters from one random client
+myFlowerExperiment | INFO flwr 2023-10-09 22:52:18,743 | server.py:280 | Received initial parameters from one random client
+myFlowerExperiment | INFO flwr 2023-10-09 22:52:18,745 | server.py:91 | Evaluating initial parameters
+myFlowerExperiment | INFO flwr 2023-10-09 22:52:47,736 | server.py:94 | initial parameters (loss, other metrics): 0.5582451820373535, {'accuracy': 0.8053792715072632}
+myFlowerExperiment | INFO flwr 2023-10-09 22:52:47,737 | server.py:104 | FL starting
+myFlowerExperiment | DEBUG flwr 2023-10-09 22:52:47,738 | server.py:222 | fit_round 1: strategy sampled 2 clients (out of 2)
+myFlowerExperiment | DEBUG flwr 2023-10-09 22:52:56,932 | server.py:236 | fit_round 1 received 2 results and 0 failures
+myFlowerExperiment | WARNING flwr 2023-10-09 22:52:56,936 | fedavg.py:242 | No fit_metrics_aggregation_fn provided
+myFlowerExperiment | INFO flwr 2023-10-09 22:53:20,713 | server.py:125 | fit progress: (1, 0.479485422372818, {'accuracy': 0.813660204410553}, 32.97528341299949)
+myFlowerExperiment | DEBUG flwr 2023-10-09 22:53:20,714 | server.py:173 | evaluate_round 1: strategy sampled 2 clients (out of 2)
+myFlowerExperiment | DEBUG flwr 2023-10-09 22:53:20,836 | server.py:187 | evaluate_round 1 received 0 results and 2 failures
+myFlowerExperiment | DEBUG flwr 2023-10-09 22:53:20,837 | server.py:222 | fit_round 2: strategy sampled 2 clients (out of 2)
+myFlowerExperiment | DEBUG flwr 2023-10-09 22:53:28,796 | server.py:236 | fit_round 2 received 2 results and 0 failures
+myFlowerExperiment | INFO flwr 2023-10-09 22:53:52,387 | server.py:125 | fit progress: (2, 0.4991990029811859, {'accuracy': 0.813660204410553}, 64.64908624800046)
+myFlowerExperiment | DEBUG flwr 2023-10-09 22:53:52,388 | server.py:173 | evaluate_round 2: strategy sampled 2 clients (out of 2)
+myFlowerExperiment | DEBUG flwr 2023-10-09 22:53:52,471 | server.py:187 | evaluate_round 2 received 0 results and 2 failures
+myFlowerExperiment | INFO flwr 2023-10-09 22:53:52,472 | server.py:153 | FL finished in 64.73449804499978
+myFlowerExperiment | INFO flwr 2023-10-09 22:53:52,473 | app.py:225 | app_fit: losses_distributed []
+myFlowerExperiment | INFO flwr 2023-10-09 22:53:52,474 | app.py:226 | app_fit: metrics_distributed_fit {}
+myFlowerExperiment | INFO flwr 2023-10-09 22:53:52,475 | app.py:227 | app_fit: metrics_distributed {}
+myFlowerExperiment | INFO flwr 2023-10-09 22:53:52,475 | app.py:228 | app_fit: losses_centralized [(0, 0.5582451820373535), (1, 0.479485422372818), (2, 0.4991990029811859)]
+myFlowerExperiment | INFO flwr 2023-10-09 22:53:52,476 | app.py:229 | app_fit: metrics_centralized {'accuracy': [(0, 0.8053792715072632), (1, 0.813660204410553), (2, 0.813660204410553)]}
+myFlowerExperiment | INFO flwr 2023-10-09 23:27:36,486 | app.py:175 | Starting Flower simulation, config: ServerConfig(num_rounds=2, round_timeout=None)
+myFlowerExperiment | INFO flwr 2023-10-09 23:27:36,486 | app.py:175 | Starting Flower simulation, config: ServerConfig(num_rounds=2, round_timeout=None)
+myFlowerExperiment | INFO flwr 2023-10-09 23:27:41,540 | app.py:210 | Flower VCE: Ray initialized with resources: {'CPU': 16.0, 'node:172.30.126.159': 1.0, 'object_store_memory': 1720576819.0, 'memory': 3441153639.0, 'node:__internal_head__': 1.0}
+myFlowerExperiment | INFO flwr 2023-10-09 23:27:41,540 | app.py:210 | Flower VCE: Ray initialized with resources: {'CPU': 16.0, 'node:172.30.126.159': 1.0, 'object_store_memory': 1720576819.0, 'memory': 3441153639.0, 'node:__internal_head__': 1.0}
+myFlowerExperiment | INFO flwr 2023-10-09 23:27:41,542 | app.py:224 | Flower VCE: Resources for each Virtual Client: {'num_cpus': 1}
+myFlowerExperiment | INFO flwr 2023-10-09 23:27:41,542 | app.py:224 | Flower VCE: Resources for each Virtual Client: {'num_cpus': 1}
+myFlowerExperiment | INFO flwr 2023-10-09 23:27:41,560 | app.py:270 | Flower VCE: Creating VirtualClientEngineActorPool with 16 actors
+myFlowerExperiment | INFO flwr 2023-10-09 23:27:41,560 | app.py:270 | Flower VCE: Creating VirtualClientEngineActorPool with 16 actors
+myFlowerExperiment | INFO flwr 2023-10-09 23:27:41,563 | server.py:89 | Initializing global parameters
+myFlowerExperiment | INFO flwr 2023-10-09 23:27:41,563 | server.py:89 | Initializing global parameters
+myFlowerExperiment | INFO flwr 2023-10-09 23:27:41,565 | server.py:272 | Using initial parameters provided by strategy
+myFlowerExperiment | INFO flwr 2023-10-09 23:27:41,565 | server.py:272 | Using initial parameters provided by strategy
+myFlowerExperiment | INFO flwr 2023-10-09 23:27:41,567 | server.py:91 | Evaluating initial parameters
+myFlowerExperiment | INFO flwr 2023-10-09 23:27:41,567 | server.py:91 | Evaluating initial parameters
+myFlowerExperiment | ERROR flwr 2023-10-09 23:27:41,571 | app.py:294 | Layer sequential_2 weight shape (9, 16) is not compatible with provided weight shape ().
+myFlowerExperiment | ERROR flwr 2023-10-09 23:27:41,571 | app.py:294 | Layer sequential_2 weight shape (9, 16) is not compatible with provided weight shape ().
+myFlowerExperiment | ERROR flwr 2023-10-09 23:27:41,574 | app.py:295 | Your simulation crashed :(. This could be because of several reasons.The most common are: 
+	 > Your system couldn't fit a single VirtualClient: try lowering `client_resources`.
+	 > All the actors in your pool crashed. This could be because: 
+		 - You clients hit an out-of-memory (OOM) error and actors couldn't recover from it. Try launching your simulation with more generous `client_resources` setting (i.e. it seems {'num_cpus': 1} is not enough for your workload). Use fewer concurrent actors. 
+		 - You were running a multi-node simulation and all worker nodes disconnected. The head node might still be alive but cannot accommodate any actor with resources: {'num_cpus': 1}.
+myFlowerExperiment | ERROR flwr 2023-10-09 23:27:41,574 | app.py:295 | Your simulation crashed :(. This could be because of several reasons.The most common are: 
+	 > Your system couldn't fit a single VirtualClient: try lowering `client_resources`.
+	 > All the actors in your pool crashed. This could be because: 
+		 - You clients hit an out-of-memory (OOM) error and actors couldn't recover from it. Try launching your simulation with more generous `client_resources` setting (i.e. it seems {'num_cpus': 1} is not enough for your workload). Use fewer concurrent actors. 
+		 - You were running a multi-node simulation and all worker nodes disconnected. The head node might still be alive but cannot accommodate any actor with resources: {'num_cpus': 1}.
+myFlowerExperiment | INFO flwr 2023-10-09 23:36:33,556 | app.py:175 | Starting Flower simulation, config: ServerConfig(num_rounds=2, round_timeout=None)
+myFlowerExperiment | INFO flwr 2023-10-09 23:36:33,556 | app.py:175 | Starting Flower simulation, config: ServerConfig(num_rounds=2, round_timeout=None)
+myFlowerExperiment | INFO flwr 2023-10-09 23:38:17,566 | app.py:175 | Starting Flower simulation, config: ServerConfig(num_rounds=2, round_timeout=None)
+myFlowerExperiment | INFO flwr 2023-10-09 23:38:17,566 | app.py:175 | Starting Flower simulation, config: ServerConfig(num_rounds=2, round_timeout=None)
+myFlowerExperiment | INFO flwr 2023-10-09 23:38:20,883 | app.py:210 | Flower VCE: Ray initialized with resources: {'node:__internal_head__': 1.0, 'node:172.30.126.159': 1.0, 'CPU': 16.0, 'memory': 3466828187.0, 'object_store_memory': 1733414092.0}
+myFlowerExperiment | INFO flwr 2023-10-09 23:38:20,883 | app.py:210 | Flower VCE: Ray initialized with resources: {'node:__internal_head__': 1.0, 'node:172.30.126.159': 1.0, 'CPU': 16.0, 'memory': 3466828187.0, 'object_store_memory': 1733414092.0}
+myFlowerExperiment | INFO flwr 2023-10-09 23:38:20,885 | app.py:224 | Flower VCE: Resources for each Virtual Client: {'num_cpus': 1}
+myFlowerExperiment | INFO flwr 2023-10-09 23:38:20,885 | app.py:224 | Flower VCE: Resources for each Virtual Client: {'num_cpus': 1}
+myFlowerExperiment | INFO flwr 2023-10-09 23:38:20,913 | app.py:270 | Flower VCE: Creating VirtualClientEngineActorPool with 16 actors
+myFlowerExperiment | INFO flwr 2023-10-09 23:38:20,913 | app.py:270 | Flower VCE: Creating VirtualClientEngineActorPool with 16 actors
+myFlowerExperiment | INFO flwr 2023-10-09 23:38:20,916 | server.py:89 | Initializing global parameters
+myFlowerExperiment | INFO flwr 2023-10-09 23:38:20,916 | server.py:89 | Initializing global parameters
+myFlowerExperiment | INFO flwr 2023-10-09 23:38:20,919 | server.py:272 | Using initial parameters provided by strategy
+myFlowerExperiment | INFO flwr 2023-10-09 23:38:20,919 | server.py:272 | Using initial parameters provided by strategy
+myFlowerExperiment | INFO flwr 2023-10-09 23:38:20,923 | server.py:91 | Evaluating initial parameters
+myFlowerExperiment | INFO flwr 2023-10-09 23:38:20,923 | server.py:91 | Evaluating initial parameters
+myFlowerExperiment | ERROR flwr 2023-10-09 23:38:20,926 | app.py:294 | 'list' object has no attribute 'tensors'
+myFlowerExperiment | ERROR flwr 2023-10-09 23:38:20,926 | app.py:294 | 'list' object has no attribute 'tensors'
+myFlowerExperiment | ERROR flwr 2023-10-09 23:38:20,928 | app.py:295 | Your simulation crashed :(. This could be because of several reasons.The most common are: 
+	 > Your system couldn't fit a single VirtualClient: try lowering `client_resources`.
+	 > All the actors in your pool crashed. This could be because: 
+		 - You clients hit an out-of-memory (OOM) error and actors couldn't recover from it. Try launching your simulation with more generous `client_resources` setting (i.e. it seems {'num_cpus': 1} is not enough for your workload). Use fewer concurrent actors. 
+		 - You were running a multi-node simulation and all worker nodes disconnected. The head node might still be alive but cannot accommodate any actor with resources: {'num_cpus': 1}.
+myFlowerExperiment | ERROR flwr 2023-10-09 23:38:20,928 | app.py:295 | Your simulation crashed :(. This could be because of several reasons.The most common are: 
+	 > Your system couldn't fit a single VirtualClient: try lowering `client_resources`.
+	 > All the actors in your pool crashed. This could be because: 
+		 - You clients hit an out-of-memory (OOM) error and actors couldn't recover from it. Try launching your simulation with more generous `client_resources` setting (i.e. it seems {'num_cpus': 1} is not enough for your workload). Use fewer concurrent actors. 
+		 - You were running a multi-node simulation and all worker nodes disconnected. The head node might still be alive but cannot accommodate any actor with resources: {'num_cpus': 1}.
+myFlowerExperiment | INFO flwr 2023-10-09 23:43:10,613 | app.py:175 | Starting Flower simulation, config: ServerConfig(num_rounds=2, round_timeout=None)
+myFlowerExperiment | INFO flwr 2023-10-09 23:43:10,613 | app.py:175 | Starting Flower simulation, config: ServerConfig(num_rounds=2, round_timeout=None)
+myFlowerExperiment | INFO flwr 2023-10-09 23:43:15,404 | app.py:210 | Flower VCE: Ray initialized with resources: {'node:172.30.126.159': 1.0, 'CPU': 16.0, 'node:__internal_head__': 1.0, 'memory': 3500359680.0, 'object_store_memory': 1750179840.0}
+myFlowerExperiment | INFO flwr 2023-10-09 23:43:15,404 | app.py:210 | Flower VCE: Ray initialized with resources: {'node:172.30.126.159': 1.0, 'CPU': 16.0, 'node:__internal_head__': 1.0, 'memory': 3500359680.0, 'object_store_memory': 1750179840.0}
+myFlowerExperiment | INFO flwr 2023-10-09 23:43:15,405 | app.py:224 | Flower VCE: Resources for each Virtual Client: {'num_cpus': 1}
+myFlowerExperiment | INFO flwr 2023-10-09 23:43:15,405 | app.py:224 | Flower VCE: Resources for each Virtual Client: {'num_cpus': 1}
+myFlowerExperiment | INFO flwr 2023-10-09 23:43:15,436 | app.py:270 | Flower VCE: Creating VirtualClientEngineActorPool with 16 actors
+myFlowerExperiment | INFO flwr 2023-10-09 23:43:15,436 | app.py:270 | Flower VCE: Creating VirtualClientEngineActorPool with 16 actors
+myFlowerExperiment | INFO flwr 2023-10-09 23:43:15,439 | server.py:89 | Initializing global parameters
+myFlowerExperiment | INFO flwr 2023-10-09 23:43:15,439 | server.py:89 | Initializing global parameters
+myFlowerExperiment | INFO flwr 2023-10-09 23:43:15,441 | server.py:272 | Using initial parameters provided by strategy
+myFlowerExperiment | INFO flwr 2023-10-09 23:43:15,441 | server.py:272 | Using initial parameters provided by strategy
+myFlowerExperiment | INFO flwr 2023-10-09 23:43:15,444 | server.py:91 | Evaluating initial parameters
+myFlowerExperiment | INFO flwr 2023-10-09 23:43:15,444 | server.py:91 | Evaluating initial parameters
+myFlowerExperiment | INFO flwr 2023-10-09 23:43:45,557 | server.py:94 | initial parameters (loss, other metrics): 0.4991990029811859, {'accuracy': 0.813660204410553}
+myFlowerExperiment | INFO flwr 2023-10-09 23:43:45,557 | server.py:94 | initial parameters (loss, other metrics): 0.4991990029811859, {'accuracy': 0.813660204410553}
+myFlowerExperiment | INFO flwr 2023-10-09 23:43:45,559 | server.py:104 | FL starting
+myFlowerExperiment | INFO flwr 2023-10-09 23:43:45,559 | server.py:104 | FL starting
+myFlowerExperiment | DEBUG flwr 2023-10-09 23:43:45,560 | server.py:222 | fit_round 1: strategy sampled 2 clients (out of 2)
+myFlowerExperiment | DEBUG flwr 2023-10-09 23:43:45,560 | server.py:222 | fit_round 1: strategy sampled 2 clients (out of 2)
+myFlowerExperiment | DEBUG flwr 2023-10-09 23:43:55,890 | server.py:236 | fit_round 1 received 2 results and 0 failures
+myFlowerExperiment | DEBUG flwr 2023-10-09 23:43:55,890 | server.py:236 | fit_round 1 received 2 results and 0 failures
+myFlowerExperiment | WARNING flwr 2023-10-09 23:43:55,893 | fedavg.py:242 | No fit_metrics_aggregation_fn provided
+myFlowerExperiment | WARNING flwr 2023-10-09 23:43:55,893 | fedavg.py:242 | No fit_metrics_aggregation_fn provided
+myFlowerExperiment | INFO flwr 2023-10-09 23:44:19,597 | server.py:125 | fit progress: (1, 0.5423669815063477, {'accuracy': 0.8125407695770264}, 34.037192630999925)
+myFlowerExperiment | INFO flwr 2023-10-09 23:44:19,597 | server.py:125 | fit progress: (1, 0.5423669815063477, {'accuracy': 0.8125407695770264}, 34.037192630999925)
+myFlowerExperiment | DEBUG flwr 2023-10-09 23:44:19,599 | server.py:173 | evaluate_round 1: strategy sampled 2 clients (out of 2)
+myFlowerExperiment | DEBUG flwr 2023-10-09 23:44:19,599 | server.py:173 | evaluate_round 1: strategy sampled 2 clients (out of 2)
+myFlowerExperiment | DEBUG flwr 2023-10-09 23:44:19,734 | server.py:187 | evaluate_round 1 received 0 results and 2 failures
+myFlowerExperiment | DEBUG flwr 2023-10-09 23:44:19,734 | server.py:187 | evaluate_round 1 received 0 results and 2 failures
+myFlowerExperiment | DEBUG flwr 2023-10-09 23:44:19,736 | server.py:222 | fit_round 2: strategy sampled 2 clients (out of 2)
+myFlowerExperiment | DEBUG flwr 2023-10-09 23:44:19,736 | server.py:222 | fit_round 2: strategy sampled 2 clients (out of 2)
+myFlowerExperiment | DEBUG flwr 2023-10-09 23:44:27,852 | server.py:236 | fit_round 2 received 2 results and 0 failures
+myFlowerExperiment | DEBUG flwr 2023-10-09 23:44:27,852 | server.py:236 | fit_round 2 received 2 results and 0 failures
+myFlowerExperiment | INFO flwr 2023-10-09 23:44:51,449 | server.py:125 | fit progress: (2, 0.5505384206771851, {'accuracy': 0.8080481290817261}, 65.88938286699886)
+myFlowerExperiment | INFO flwr 2023-10-09 23:44:51,449 | server.py:125 | fit progress: (2, 0.5505384206771851, {'accuracy': 0.8080481290817261}, 65.88938286699886)
+myFlowerExperiment | DEBUG flwr 2023-10-09 23:44:51,451 | server.py:173 | evaluate_round 2: strategy sampled 2 clients (out of 2)
+myFlowerExperiment | DEBUG flwr 2023-10-09 23:44:51,451 | server.py:173 | evaluate_round 2: strategy sampled 2 clients (out of 2)
+myFlowerExperiment | DEBUG flwr 2023-10-09 23:44:51,600 | server.py:187 | evaluate_round 2 received 0 results and 2 failures
+myFlowerExperiment | DEBUG flwr 2023-10-09 23:44:51,600 | server.py:187 | evaluate_round 2 received 0 results and 2 failures
+myFlowerExperiment | INFO flwr 2023-10-09 23:44:51,601 | server.py:153 | FL finished in 66.04092158599997
+myFlowerExperiment | INFO flwr 2023-10-09 23:44:51,601 | server.py:153 | FL finished in 66.04092158599997
+myFlowerExperiment | INFO flwr 2023-10-09 23:44:51,602 | app.py:225 | app_fit: losses_distributed []
+myFlowerExperiment | INFO flwr 2023-10-09 23:44:51,602 | app.py:225 | app_fit: losses_distributed []
+myFlowerExperiment | INFO flwr 2023-10-09 23:44:51,604 | app.py:226 | app_fit: metrics_distributed_fit {}
+myFlowerExperiment | INFO flwr 2023-10-09 23:44:51,604 | app.py:226 | app_fit: metrics_distributed_fit {}
+myFlowerExperiment | INFO flwr 2023-10-09 23:44:51,605 | app.py:227 | app_fit: metrics_distributed {}
+myFlowerExperiment | INFO flwr 2023-10-09 23:44:51,605 | app.py:227 | app_fit: metrics_distributed {}
+myFlowerExperiment | INFO flwr 2023-10-09 23:44:51,607 | app.py:228 | app_fit: losses_centralized [(0, 0.4991990029811859), (1, 0.5423669815063477), (2, 0.5505384206771851)]
+myFlowerExperiment | INFO flwr 2023-10-09 23:44:51,607 | app.py:228 | app_fit: losses_centralized [(0, 0.4991990029811859), (1, 0.5423669815063477), (2, 0.5505384206771851)]
+myFlowerExperiment | INFO flwr 2023-10-09 23:44:51,608 | app.py:229 | app_fit: metrics_centralized {'accuracy': [(0, 0.813660204410553), (1, 0.8125407695770264), (2, 0.8080481290817261)]}
+myFlowerExperiment | INFO flwr 2023-10-09 23:44:51,608 | app.py:229 | app_fit: metrics_centralized {'accuracy': [(0, 0.813660204410553), (1, 0.8125407695770264), (2, 0.8080481290817261)]}
+myFlowerExperiment | INFO flwr 2023-10-09 23:58:17,634 | app.py:175 | Starting Flower simulation, config: ServerConfig(num_rounds=2, round_timeout=None)
+myFlowerExperiment | INFO flwr 2023-10-09 23:58:17,634 | app.py:175 | Starting Flower simulation, config: ServerConfig(num_rounds=2, round_timeout=None)
+myFlowerExperiment | INFO flwr 2023-10-09 23:58:17,634 | app.py:175 | Starting Flower simulation, config: ServerConfig(num_rounds=2, round_timeout=None)
+myFlowerExperiment | INFO flwr 2023-10-09 23:58:22,500 | app.py:210 | Flower VCE: Ray initialized with resources: {'memory': 3682806990.0, 'object_store_memory': 1841403494.0, 'CPU': 16.0, 'node:172.30.126.159': 1.0, 'node:__internal_head__': 1.0}
+myFlowerExperiment | INFO flwr 2023-10-09 23:58:22,500 | app.py:210 | Flower VCE: Ray initialized with resources: {'memory': 3682806990.0, 'object_store_memory': 1841403494.0, 'CPU': 16.0, 'node:172.30.126.159': 1.0, 'node:__internal_head__': 1.0}
+myFlowerExperiment | INFO flwr 2023-10-09 23:58:22,500 | app.py:210 | Flower VCE: Ray initialized with resources: {'memory': 3682806990.0, 'object_store_memory': 1841403494.0, 'CPU': 16.0, 'node:172.30.126.159': 1.0, 'node:__internal_head__': 1.0}
+myFlowerExperiment | INFO flwr 2023-10-09 23:58:22,501 | app.py:224 | Flower VCE: Resources for each Virtual Client: {'num_cpus': 1}
+myFlowerExperiment | INFO flwr 2023-10-09 23:58:22,501 | app.py:224 | Flower VCE: Resources for each Virtual Client: {'num_cpus': 1}
+myFlowerExperiment | INFO flwr 2023-10-09 23:58:22,501 | app.py:224 | Flower VCE: Resources for each Virtual Client: {'num_cpus': 1}
+myFlowerExperiment | INFO flwr 2023-10-09 23:58:22,524 | app.py:270 | Flower VCE: Creating VirtualClientEngineActorPool with 16 actors
+myFlowerExperiment | INFO flwr 2023-10-09 23:58:22,524 | app.py:270 | Flower VCE: Creating VirtualClientEngineActorPool with 16 actors
+myFlowerExperiment | INFO flwr 2023-10-09 23:58:22,524 | app.py:270 | Flower VCE: Creating VirtualClientEngineActorPool with 16 actors
+myFlowerExperiment | INFO flwr 2023-10-09 23:58:22,529 | server.py:89 | Initializing global parameters
+myFlowerExperiment | INFO flwr 2023-10-09 23:58:22,529 | server.py:89 | Initializing global parameters
+myFlowerExperiment | INFO flwr 2023-10-09 23:58:22,529 | server.py:89 | Initializing global parameters
+myFlowerExperiment | INFO flwr 2023-10-09 23:58:22,534 | server.py:272 | Using initial parameters provided by strategy
+myFlowerExperiment | INFO flwr 2023-10-09 23:58:22,534 | server.py:272 | Using initial parameters provided by strategy
+myFlowerExperiment | INFO flwr 2023-10-09 23:58:22,534 | server.py:272 | Using initial parameters provided by strategy
+myFlowerExperiment | INFO flwr 2023-10-09 23:58:22,539 | server.py:91 | Evaluating initial parameters
+myFlowerExperiment | INFO flwr 2023-10-09 23:58:22,539 | server.py:91 | Evaluating initial parameters
+myFlowerExperiment | INFO flwr 2023-10-09 23:58:22,539 | server.py:91 | Evaluating initial parameters
+myFlowerExperiment | INFO flwr 2023-10-09 23:58:49,972 | server.py:94 | initial parameters (loss, other metrics): 0.4991990029811859, {'accuracy': 0.813660204410553}
+myFlowerExperiment | INFO flwr 2023-10-09 23:58:49,972 | server.py:94 | initial parameters (loss, other metrics): 0.4991990029811859, {'accuracy': 0.813660204410553}
+myFlowerExperiment | INFO flwr 2023-10-09 23:58:49,972 | server.py:94 | initial parameters (loss, other metrics): 0.4991990029811859, {'accuracy': 0.813660204410553}
+myFlowerExperiment | INFO flwr 2023-10-09 23:58:49,974 | server.py:104 | FL starting
+myFlowerExperiment | INFO flwr 2023-10-09 23:58:49,974 | server.py:104 | FL starting
+myFlowerExperiment | INFO flwr 2023-10-09 23:58:49,974 | server.py:104 | FL starting
+myFlowerExperiment | DEBUG flwr 2023-10-09 23:58:49,975 | server.py:222 | fit_round 1: strategy sampled 2 clients (out of 2)
+myFlowerExperiment | DEBUG flwr 2023-10-09 23:58:49,975 | server.py:222 | fit_round 1: strategy sampled 2 clients (out of 2)
+myFlowerExperiment | DEBUG flwr 2023-10-09 23:58:49,975 | server.py:222 | fit_round 1: strategy sampled 2 clients (out of 2)
+myFlowerExperiment | DEBUG flwr 2023-10-09 23:58:58,770 | server.py:236 | fit_round 1 received 2 results and 0 failures
+myFlowerExperiment | DEBUG flwr 2023-10-09 23:58:58,770 | server.py:236 | fit_round 1 received 2 results and 0 failures
+myFlowerExperiment | DEBUG flwr 2023-10-09 23:58:58,770 | server.py:236 | fit_round 1 received 2 results and 0 failures
+myFlowerExperiment | WARNING flwr 2023-10-09 23:58:58,774 | fedavg.py:242 | No fit_metrics_aggregation_fn provided
+myFlowerExperiment | WARNING flwr 2023-10-09 23:58:58,774 | fedavg.py:242 | No fit_metrics_aggregation_fn provided
+myFlowerExperiment | WARNING flwr 2023-10-09 23:58:58,774 | fedavg.py:242 | No fit_metrics_aggregation_fn provided
+myFlowerExperiment | ERROR flwr 2023-10-09 23:58:58,776 | app.py:294 | _save_dispatcher() takes from 2 to 4 positional arguments but 7 were given
+myFlowerExperiment | ERROR flwr 2023-10-09 23:58:58,776 | app.py:294 | _save_dispatcher() takes from 2 to 4 positional arguments but 7 were given
+myFlowerExperiment | ERROR flwr 2023-10-09 23:58:58,776 | app.py:294 | _save_dispatcher() takes from 2 to 4 positional arguments but 7 were given
+myFlowerExperiment | ERROR flwr 2023-10-09 23:58:58,778 | app.py:295 | Your simulation crashed :(. This could be because of several reasons.The most common are: 
+	 > Your system couldn't fit a single VirtualClient: try lowering `client_resources`.
+	 > All the actors in your pool crashed. This could be because: 
+		 - You clients hit an out-of-memory (OOM) error and actors couldn't recover from it. Try launching your simulation with more generous `client_resources` setting (i.e. it seems {'num_cpus': 1} is not enough for your workload). Use fewer concurrent actors. 
+		 - You were running a multi-node simulation and all worker nodes disconnected. The head node might still be alive but cannot accommodate any actor with resources: {'num_cpus': 1}.
+myFlowerExperiment | ERROR flwr 2023-10-09 23:58:58,778 | app.py:295 | Your simulation crashed :(. This could be because of several reasons.The most common are: 
+	 > Your system couldn't fit a single VirtualClient: try lowering `client_resources`.
+	 > All the actors in your pool crashed. This could be because: 
+		 - You clients hit an out-of-memory (OOM) error and actors couldn't recover from it. Try launching your simulation with more generous `client_resources` setting (i.e. it seems {'num_cpus': 1} is not enough for your workload). Use fewer concurrent actors. 
+		 - You were running a multi-node simulation and all worker nodes disconnected. The head node might still be alive but cannot accommodate any actor with resources: {'num_cpus': 1}.
+myFlowerExperiment | ERROR flwr 2023-10-09 23:58:58,778 | app.py:295 | Your simulation crashed :(. This could be because of several reasons.The most common are: 
+	 > Your system couldn't fit a single VirtualClient: try lowering `client_resources`.
+	 > All the actors in your pool crashed. This could be because: 
+		 - You clients hit an out-of-memory (OOM) error and actors couldn't recover from it. Try launching your simulation with more generous `client_resources` setting (i.e. it seems {'num_cpus': 1} is not enough for your workload). Use fewer concurrent actors. 
+		 - You were running a multi-node simulation and all worker nodes disconnected. The head node might still be alive but cannot accommodate any actor with resources: {'num_cpus': 1}.
+myFlowerExperiment | INFO flwr 2023-10-10 00:06:56,281 | app.py:175 | Starting Flower simulation, config: ServerConfig(num_rounds=2, round_timeout=None)
+myFlowerExperiment | INFO flwr 2023-10-10 00:06:59,656 | app.py:210 | Flower VCE: Ray initialized with resources: {'node:172.30.126.159': 1.0, 'node:__internal_head__': 1.0, 'CPU': 16.0, 'object_store_memory': 1846799155.0, 'memory': 3693598311.0}
+myFlowerExperiment | INFO flwr 2023-10-10 00:06:59,658 | app.py:224 | Flower VCE: Resources for each Virtual Client: {'num_cpus': 1}
+myFlowerExperiment | INFO flwr 2023-10-10 00:06:59,676 | app.py:270 | Flower VCE: Creating VirtualClientEngineActorPool with 16 actors
+myFlowerExperiment | INFO flwr 2023-10-10 00:06:59,677 | server.py:89 | Initializing global parameters
+myFlowerExperiment | INFO flwr 2023-10-10 00:06:59,679 | server.py:272 | Using initial parameters provided by strategy
+myFlowerExperiment | INFO flwr 2023-10-10 00:06:59,681 | server.py:91 | Evaluating initial parameters
+myFlowerExperiment | INFO flwr 2023-10-10 00:07:34,068 | server.py:94 | initial parameters (loss, other metrics): 0.4991990029811859, {'accuracy': 0.813660204410553}
+myFlowerExperiment | INFO flwr 2023-10-10 00:07:34,069 | server.py:104 | FL starting
+myFlowerExperiment | DEBUG flwr 2023-10-10 00:07:34,070 | server.py:222 | fit_round 1: strategy sampled 2 clients (out of 2)
+myFlowerExperiment | DEBUG flwr 2023-10-10 00:07:43,356 | server.py:236 | fit_round 1 received 2 results and 0 failures
+myFlowerExperiment | WARNING flwr 2023-10-10 00:07:43,359 | fedavg.py:242 | No fit_metrics_aggregation_fn provided
+myFlowerExperiment | INFO flwr 2023-10-10 00:08:08,643 | server.py:125 | fit progress: (1, 0.5334047079086304, {'accuracy': 0.8118735551834106}, 34.572995059003006)
+myFlowerExperiment | DEBUG flwr 2023-10-10 00:08:08,644 | server.py:173 | evaluate_round 1: strategy sampled 2 clients (out of 2)
+myFlowerExperiment | DEBUG flwr 2023-10-10 00:08:08,734 | server.py:187 | evaluate_round 1 received 0 results and 2 failures
+myFlowerExperiment | DEBUG flwr 2023-10-10 00:08:08,735 | server.py:222 | fit_round 2: strategy sampled 2 clients (out of 2)
+myFlowerExperiment | ERROR flwr 2023-10-10 00:08:10,143 | ray_client_proxy.py:147 | Traceback (most recent call last):
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/flwr/simulation/ray_transport/ray_client_proxy.py", line 140, in _submit_job
+    res = self.actor_pool.get_client_result(self.cid, timeout)
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/flwr/simulation/ray_transport/ray_actor.py", line 402, in get_client_result
+    return self._fetch_future_result(cid)
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/flwr/simulation/ray_transport/ray_actor.py", line 288, in _fetch_future_result
+    res_cid, res = ray.get(future)  # type: (str, ClientRes)
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/ray/_private/auto_init_hook.py", line 24, in auto_init_wrapper
+    return fn(*args, **kwargs)
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/ray/_private/client_mode_hook.py", line 103, in wrapper
+    return func(*args, **kwargs)
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/ray/_private/worker.py", line 2526, in get
+    raise value
+ray.exceptions.OutOfMemoryError: Task was killed due to the node running low on memory.
+Memory on the node (IP: 172.30.126.159, ID: e37529d88a701ab1967a936ef1fe81c2db7423b62bad1a06e6285c87) where the task (actor ID: 86357ae6f466390cd71ed0b601000000, name=DefaultActor.__init__, pid=28623, memory used=0.38GB) was running was 7.07GB / 7.44GB (0.950642), which exceeds the memory usage threshold of 0.95. Ray killed this worker (ID: f8ba5281a37fc1f62e3d2e59afde4101a323b0e3d4f8744b88151d8e) because it was the most recently scheduled task; to see more information about memory usage on this node, use `ray logs raylet.out -ip 172.30.126.159`. To see the logs of the worker, use `ray logs worker-f8ba5281a37fc1f62e3d2e59afde4101a323b0e3d4f8744b88151d8e*out -ip 172.30.126.159. Top 10 memory users:
+PID	MEM(GB)	COMMAND
+27959	2.13	/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/bin/python -m ipykernel_launcher -f /home/...
+28623	0.38	ray::DefaultActor.run
+28624	0.38	ray::DefaultActor.run
+28616	0.25	ray::DefaultActor
+28614	0.25	ray::DefaultActor
+28610	0.25	ray::DefaultActor
+28620	0.25	ray::DefaultActor
+28621	0.25	ray::DefaultActor
+28611	0.25	ray::DefaultActor
+28608	0.25	ray::DefaultActor
+Refer to the documentation on how to address the out of memory issue: https://docs.ray.io/en/latest/ray-core/scheduling/ray-oom-prevention.html. Consider provisioning more memory on this node or reducing task parallelism by requesting more CPUs per task. Set max_restarts and max_task_retries to enable retry when the task crashes due to OOM. To adjust the kill threshold, set the environment variable `RAY_memory_usage_threshold` when starting Ray. To disable worker killing, set the environment variable `RAY_memory_monitor_refresh_ms` to zero.
+
+myFlowerExperiment | ERROR flwr 2023-10-10 00:08:10,145 | ray_client_proxy.py:148 | Task was killed due to the node running low on memory.
+Memory on the node (IP: 172.30.126.159, ID: e37529d88a701ab1967a936ef1fe81c2db7423b62bad1a06e6285c87) where the task (actor ID: 86357ae6f466390cd71ed0b601000000, name=DefaultActor.__init__, pid=28623, memory used=0.38GB) was running was 7.07GB / 7.44GB (0.950642), which exceeds the memory usage threshold of 0.95. Ray killed this worker (ID: f8ba5281a37fc1f62e3d2e59afde4101a323b0e3d4f8744b88151d8e) because it was the most recently scheduled task; to see more information about memory usage on this node, use `ray logs raylet.out -ip 172.30.126.159`. To see the logs of the worker, use `ray logs worker-f8ba5281a37fc1f62e3d2e59afde4101a323b0e3d4f8744b88151d8e*out -ip 172.30.126.159. Top 10 memory users:
+PID	MEM(GB)	COMMAND
+27959	2.13	/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/bin/python -m ipykernel_launcher -f /home/...
+28623	0.38	ray::DefaultActor.run
+28624	0.38	ray::DefaultActor.run
+28616	0.25	ray::DefaultActor
+28614	0.25	ray::DefaultActor
+28610	0.25	ray::DefaultActor
+28620	0.25	ray::DefaultActor
+28621	0.25	ray::DefaultActor
+28611	0.25	ray::DefaultActor
+28608	0.25	ray::DefaultActor
+Refer to the documentation on how to address the out of memory issue: https://docs.ray.io/en/latest/ray-core/scheduling/ray-oom-prevention.html. Consider provisioning more memory on this node or reducing task parallelism by requesting more CPUs per task. Set max_restarts and max_task_retries to enable retry when the task crashes due to OOM. To adjust the kill threshold, set the environment variable `RAY_memory_usage_threshold` when starting Ray. To disable worker killing, set the environment variable `RAY_memory_monitor_refresh_ms` to zero.
+myFlowerExperiment | DEBUG flwr 2023-10-10 00:08:17,017 | server.py:236 | fit_round 2 received 1 results and 1 failures
+myFlowerExperiment | INFO flwr 2023-10-10 00:08:42,110 | server.py:125 | fit progress: (2, 0.624189019203186, {'accuracy': 0.813660204410553}, 68.03978084300252)
+myFlowerExperiment | DEBUG flwr 2023-10-10 00:08:42,111 | server.py:173 | evaluate_round 2: strategy sampled 2 clients (out of 2)
+myFlowerExperiment | ERROR flwr 2023-10-10 00:08:42,148 | ray_client_proxy.py:147 | Traceback (most recent call last):
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/flwr/simulation/ray_transport/ray_client_proxy.py", line 140, in _submit_job
+    res = self.actor_pool.get_client_result(self.cid, timeout)
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/flwr/simulation/ray_transport/ray_actor.py", line 402, in get_client_result
+    return self._fetch_future_result(cid)
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/flwr/simulation/ray_transport/ray_actor.py", line 288, in _fetch_future_result
+    res_cid, res = ray.get(future)  # type: (str, ClientRes)
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/ray/_private/auto_init_hook.py", line 24, in auto_init_wrapper
+    return fn(*args, **kwargs)
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/ray/_private/client_mode_hook.py", line 103, in wrapper
+    return func(*args, **kwargs)
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/ray/_private/worker.py", line 2526, in get
+    raise value
+ray.exceptions.OutOfMemoryError: Task was killed due to the node running low on memory.
+Memory on the node (IP: 172.30.126.159, ID: e37529d88a701ab1967a936ef1fe81c2db7423b62bad1a06e6285c87) where the task (actor ID: 86357ae6f466390cd71ed0b601000000, name=DefaultActor.__init__, pid=28623, memory used=0.38GB) was running was 7.07GB / 7.44GB (0.950642), which exceeds the memory usage threshold of 0.95. Ray killed this worker (ID: f8ba5281a37fc1f62e3d2e59afde4101a323b0e3d4f8744b88151d8e) because it was the most recently scheduled task; to see more information about memory usage on this node, use `ray logs raylet.out -ip 172.30.126.159`. To see the logs of the worker, use `ray logs worker-f8ba5281a37fc1f62e3d2e59afde4101a323b0e3d4f8744b88151d8e*out -ip 172.30.126.159. Top 10 memory users:
+PID	MEM(GB)	COMMAND
+27959	2.13	/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/bin/python -m ipykernel_launcher -f /home/...
+28623	0.38	ray::DefaultActor.run
+28624	0.38	ray::DefaultActor.run
+28616	0.25	ray::DefaultActor
+28614	0.25	ray::DefaultActor
+28610	0.25	ray::DefaultActor
+28620	0.25	ray::DefaultActor
+28621	0.25	ray::DefaultActor
+28611	0.25	ray::DefaultActor
+28608	0.25	ray::DefaultActor
+Refer to the documentation on how to address the out of memory issue: https://docs.ray.io/en/latest/ray-core/scheduling/ray-oom-prevention.html. Consider provisioning more memory on this node or reducing task parallelism by requesting more CPUs per task. Set max_restarts and max_task_retries to enable retry when the task crashes due to OOM. To adjust the kill threshold, set the environment variable `RAY_memory_usage_threshold` when starting Ray. To disable worker killing, set the environment variable `RAY_memory_monitor_refresh_ms` to zero.
+
+myFlowerExperiment | ERROR flwr 2023-10-10 00:08:42,149 | ray_client_proxy.py:148 | Task was killed due to the node running low on memory.
+Memory on the node (IP: 172.30.126.159, ID: e37529d88a701ab1967a936ef1fe81c2db7423b62bad1a06e6285c87) where the task (actor ID: 86357ae6f466390cd71ed0b601000000, name=DefaultActor.__init__, pid=28623, memory used=0.38GB) was running was 7.07GB / 7.44GB (0.950642), which exceeds the memory usage threshold of 0.95. Ray killed this worker (ID: f8ba5281a37fc1f62e3d2e59afde4101a323b0e3d4f8744b88151d8e) because it was the most recently scheduled task; to see more information about memory usage on this node, use `ray logs raylet.out -ip 172.30.126.159`. To see the logs of the worker, use `ray logs worker-f8ba5281a37fc1f62e3d2e59afde4101a323b0e3d4f8744b88151d8e*out -ip 172.30.126.159. Top 10 memory users:
+PID	MEM(GB)	COMMAND
+27959	2.13	/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/bin/python -m ipykernel_launcher -f /home/...
+28623	0.38	ray::DefaultActor.run
+28624	0.38	ray::DefaultActor.run
+28616	0.25	ray::DefaultActor
+28614	0.25	ray::DefaultActor
+28610	0.25	ray::DefaultActor
+28620	0.25	ray::DefaultActor
+28621	0.25	ray::DefaultActor
+28611	0.25	ray::DefaultActor
+28608	0.25	ray::DefaultActor
+Refer to the documentation on how to address the out of memory issue: https://docs.ray.io/en/latest/ray-core/scheduling/ray-oom-prevention.html. Consider provisioning more memory on this node or reducing task parallelism by requesting more CPUs per task. Set max_restarts and max_task_retries to enable retry when the task crashes due to OOM. To adjust the kill threshold, set the environment variable `RAY_memory_usage_threshold` when starting Ray. To disable worker killing, set the environment variable `RAY_memory_monitor_refresh_ms` to zero.
+myFlowerExperiment | DEBUG flwr 2023-10-10 00:08:42,168 | server.py:187 | evaluate_round 2 received 0 results and 2 failures
+myFlowerExperiment | INFO flwr 2023-10-10 00:08:42,169 | server.py:153 | FL finished in 68.0991872170016
+myFlowerExperiment | INFO flwr 2023-10-10 00:08:42,170 | app.py:225 | app_fit: losses_distributed []
+myFlowerExperiment | INFO flwr 2023-10-10 00:08:42,171 | app.py:226 | app_fit: metrics_distributed_fit {}
+myFlowerExperiment | INFO flwr 2023-10-10 00:08:42,172 | app.py:227 | app_fit: metrics_distributed {}
+myFlowerExperiment | INFO flwr 2023-10-10 00:08:42,173 | app.py:228 | app_fit: losses_centralized [(0, 0.4991990029811859), (1, 0.5334047079086304), (2, 0.624189019203186)]
+myFlowerExperiment | INFO flwr 2023-10-10 00:08:42,173 | app.py:229 | app_fit: metrics_centralized {'accuracy': [(0, 0.813660204410553), (1, 0.8118735551834106), (2, 0.813660204410553)]}
+myFlowerExperiment | INFO flwr 2023-10-10 00:26:36,656 | app.py:175 | Starting Flower simulation, config: ServerConfig(num_rounds=2, round_timeout=None)
+myFlowerExperiment | INFO flwr 2023-10-10 00:26:36,656 | app.py:175 | Starting Flower simulation, config: ServerConfig(num_rounds=2, round_timeout=None)
+myFlowerExperiment | INFO flwr 2023-10-10 00:26:36,656 | app.py:175 | Starting Flower simulation, config: ServerConfig(num_rounds=2, round_timeout=None)
+myFlowerExperiment | INFO flwr 2023-10-10 00:26:39,938 | app.py:210 | Flower VCE: Ray initialized with resources: {'node:__internal_head__': 1.0, 'memory': 3607171892.0, 'object_store_memory': 1803585945.0, 'node:172.30.126.159': 1.0, 'CPU': 16.0}
+myFlowerExperiment | INFO flwr 2023-10-10 00:26:39,938 | app.py:210 | Flower VCE: Ray initialized with resources: {'node:__internal_head__': 1.0, 'memory': 3607171892.0, 'object_store_memory': 1803585945.0, 'node:172.30.126.159': 1.0, 'CPU': 16.0}
+myFlowerExperiment | INFO flwr 2023-10-10 00:26:39,938 | app.py:210 | Flower VCE: Ray initialized with resources: {'node:__internal_head__': 1.0, 'memory': 3607171892.0, 'object_store_memory': 1803585945.0, 'node:172.30.126.159': 1.0, 'CPU': 16.0}
+myFlowerExperiment | INFO flwr 2023-10-10 00:26:39,940 | app.py:224 | Flower VCE: Resources for each Virtual Client: {'num_cpus': 1}
+myFlowerExperiment | INFO flwr 2023-10-10 00:26:39,940 | app.py:224 | Flower VCE: Resources for each Virtual Client: {'num_cpus': 1}
+myFlowerExperiment | INFO flwr 2023-10-10 00:26:39,940 | app.py:224 | Flower VCE: Resources for each Virtual Client: {'num_cpus': 1}
+myFlowerExperiment | INFO flwr 2023-10-10 00:26:39,956 | app.py:270 | Flower VCE: Creating VirtualClientEngineActorPool with 16 actors
+myFlowerExperiment | INFO flwr 2023-10-10 00:26:39,956 | app.py:270 | Flower VCE: Creating VirtualClientEngineActorPool with 16 actors
+myFlowerExperiment | INFO flwr 2023-10-10 00:26:39,956 | app.py:270 | Flower VCE: Creating VirtualClientEngineActorPool with 16 actors
+myFlowerExperiment | INFO flwr 2023-10-10 00:26:39,959 | server.py:89 | Initializing global parameters
+myFlowerExperiment | INFO flwr 2023-10-10 00:26:39,959 | server.py:89 | Initializing global parameters
+myFlowerExperiment | INFO flwr 2023-10-10 00:26:39,959 | server.py:89 | Initializing global parameters
+myFlowerExperiment | INFO flwr 2023-10-10 00:26:39,962 | server.py:276 | Requesting initial parameters from one random client
+myFlowerExperiment | INFO flwr 2023-10-10 00:26:39,962 | server.py:276 | Requesting initial parameters from one random client
+myFlowerExperiment | INFO flwr 2023-10-10 00:26:39,962 | server.py:276 | Requesting initial parameters from one random client
+myFlowerExperiment | INFO flwr 2023-10-10 00:26:47,267 | server.py:280 | Received initial parameters from one random client
+myFlowerExperiment | INFO flwr 2023-10-10 00:26:47,267 | server.py:280 | Received initial parameters from one random client
+myFlowerExperiment | INFO flwr 2023-10-10 00:26:47,267 | server.py:280 | Received initial parameters from one random client
+myFlowerExperiment | INFO flwr 2023-10-10 00:26:47,271 | server.py:91 | Evaluating initial parameters
+myFlowerExperiment | INFO flwr 2023-10-10 00:26:47,271 | server.py:91 | Evaluating initial parameters
+myFlowerExperiment | INFO flwr 2023-10-10 00:26:47,271 | server.py:91 | Evaluating initial parameters
+myFlowerExperiment | ERROR flwr 2023-10-10 00:26:47,274 | app.py:294 | evaluate() takes 2 positional arguments but 3 were given
+myFlowerExperiment | ERROR flwr 2023-10-10 00:26:47,274 | app.py:294 | evaluate() takes 2 positional arguments but 3 were given
+myFlowerExperiment | ERROR flwr 2023-10-10 00:26:47,274 | app.py:294 | evaluate() takes 2 positional arguments but 3 were given
+myFlowerExperiment | ERROR flwr 2023-10-10 00:26:47,276 | app.py:295 | Your simulation crashed :(. This could be because of several reasons.The most common are: 
+	 > Your system couldn't fit a single VirtualClient: try lowering `client_resources`.
+	 > All the actors in your pool crashed. This could be because: 
+		 - You clients hit an out-of-memory (OOM) error and actors couldn't recover from it. Try launching your simulation with more generous `client_resources` setting (i.e. it seems {'num_cpus': 1} is not enough for your workload). Use fewer concurrent actors. 
+		 - You were running a multi-node simulation and all worker nodes disconnected. The head node might still be alive but cannot accommodate any actor with resources: {'num_cpus': 1}.
+myFlowerExperiment | ERROR flwr 2023-10-10 00:26:47,276 | app.py:295 | Your simulation crashed :(. This could be because of several reasons.The most common are: 
+	 > Your system couldn't fit a single VirtualClient: try lowering `client_resources`.
+	 > All the actors in your pool crashed. This could be because: 
+		 - You clients hit an out-of-memory (OOM) error and actors couldn't recover from it. Try launching your simulation with more generous `client_resources` setting (i.e. it seems {'num_cpus': 1} is not enough for your workload). Use fewer concurrent actors. 
+		 - You were running a multi-node simulation and all worker nodes disconnected. The head node might still be alive but cannot accommodate any actor with resources: {'num_cpus': 1}.
+myFlowerExperiment | ERROR flwr 2023-10-10 00:26:47,276 | app.py:295 | Your simulation crashed :(. This could be because of several reasons.The most common are: 
+	 > Your system couldn't fit a single VirtualClient: try lowering `client_resources`.
+	 > All the actors in your pool crashed. This could be because: 
+		 - You clients hit an out-of-memory (OOM) error and actors couldn't recover from it. Try launching your simulation with more generous `client_resources` setting (i.e. it seems {'num_cpus': 1} is not enough for your workload). Use fewer concurrent actors. 
+		 - You were running a multi-node simulation and all worker nodes disconnected. The head node might still be alive but cannot accommodate any actor with resources: {'num_cpus': 1}.
+myFlowerExperiment | INFO flwr 2023-10-10 00:28:26,029 | app.py:175 | Starting Flower simulation, config: ServerConfig(num_rounds=2, round_timeout=None)
+myFlowerExperiment | INFO flwr 2023-10-10 00:28:29,328 | app.py:210 | Flower VCE: Ray initialized with resources: {'node:__internal_head__': 1.0, 'CPU': 16.0, 'node:172.30.126.159': 1.0, 'memory': 3537334272.0, 'object_store_memory': 1768667136.0}
+myFlowerExperiment | INFO flwr 2023-10-10 00:28:29,329 | app.py:224 | Flower VCE: Resources for each Virtual Client: {'num_cpus': 1}
+myFlowerExperiment | INFO flwr 2023-10-10 00:28:29,343 | app.py:270 | Flower VCE: Creating VirtualClientEngineActorPool with 16 actors
+myFlowerExperiment | INFO flwr 2023-10-10 00:28:29,345 | server.py:89 | Initializing global parameters
+myFlowerExperiment | INFO flwr 2023-10-10 00:28:29,346 | server.py:276 | Requesting initial parameters from one random client
+myFlowerExperiment | INFO flwr 2023-10-10 00:28:35,461 | server.py:280 | Received initial parameters from one random client
+myFlowerExperiment | INFO flwr 2023-10-10 00:28:35,462 | server.py:91 | Evaluating initial parameters
+myFlowerExperiment | ERROR flwr 2023-10-10 00:28:35,464 | app.py:294 | evaluate() takes 2 positional arguments but 3 were given
+myFlowerExperiment | ERROR flwr 2023-10-10 00:28:35,465 | app.py:295 | Your simulation crashed :(. This could be because of several reasons.The most common are: 
+	 > Your system couldn't fit a single VirtualClient: try lowering `client_resources`.
+	 > All the actors in your pool crashed. This could be because: 
+		 - You clients hit an out-of-memory (OOM) error and actors couldn't recover from it. Try launching your simulation with more generous `client_resources` setting (i.e. it seems {'num_cpus': 1} is not enough for your workload). Use fewer concurrent actors. 
+		 - You were running a multi-node simulation and all worker nodes disconnected. The head node might still be alive but cannot accommodate any actor with resources: {'num_cpus': 1}.
+myFlowerExperiment | INFO flwr 2023-10-10 00:29:36,108 | app.py:175 | Starting Flower simulation, config: ServerConfig(num_rounds=2, round_timeout=None)
+myFlowerExperiment | INFO flwr 2023-10-10 00:29:41,392 | app.py:210 | Flower VCE: Ray initialized with resources: {'node:172.30.126.159': 1.0, 'memory': 3519366759.0, 'object_store_memory': 1759683379.0, 'CPU': 16.0, 'node:__internal_head__': 1.0}
+myFlowerExperiment | INFO flwr 2023-10-10 00:29:41,393 | app.py:224 | Flower VCE: Resources for each Virtual Client: {'num_cpus': 1}
+myFlowerExperiment | INFO flwr 2023-10-10 00:29:41,409 | app.py:270 | Flower VCE: Creating VirtualClientEngineActorPool with 16 actors
+myFlowerExperiment | INFO flwr 2023-10-10 00:29:41,411 | server.py:89 | Initializing global parameters
+myFlowerExperiment | INFO flwr 2023-10-10 00:29:41,413 | server.py:276 | Requesting initial parameters from one random client
+myFlowerExperiment | INFO flwr 2023-10-10 00:29:48,509 | server.py:280 | Received initial parameters from one random client
+myFlowerExperiment | INFO flwr 2023-10-10 00:29:48,510 | server.py:91 | Evaluating initial parameters
+myFlowerExperiment | ERROR flwr 2023-10-10 00:29:48,533 | app.py:294 | name 'self' is not defined
+myFlowerExperiment | ERROR flwr 2023-10-10 00:29:48,534 | app.py:295 | Your simulation crashed :(. This could be because of several reasons.The most common are: 
+	 > Your system couldn't fit a single VirtualClient: try lowering `client_resources`.
+	 > All the actors in your pool crashed. This could be because: 
+		 - You clients hit an out-of-memory (OOM) error and actors couldn't recover from it. Try launching your simulation with more generous `client_resources` setting (i.e. it seems {'num_cpus': 1} is not enough for your workload). Use fewer concurrent actors. 
+		 - You were running a multi-node simulation and all worker nodes disconnected. The head node might still be alive but cannot accommodate any actor with resources: {'num_cpus': 1}.
+myFlowerExperiment | INFO flwr 2023-10-10 00:30:31,974 | app.py:175 | Starting Flower simulation, config: ServerConfig(num_rounds=2, round_timeout=None)
+myFlowerExperiment | INFO flwr 2023-10-10 00:30:36,829 | app.py:210 | Flower VCE: Ray initialized with resources: {'node:172.30.126.159': 1.0, 'CPU': 16.0, 'node:__internal_head__': 1.0, 'object_store_memory': 1756071936.0, 'memory': 3512143872.0}
+myFlowerExperiment | INFO flwr 2023-10-10 00:30:36,830 | app.py:224 | Flower VCE: Resources for each Virtual Client: {'num_cpus': 1}
+myFlowerExperiment | INFO flwr 2023-10-10 00:30:36,844 | app.py:270 | Flower VCE: Creating VirtualClientEngineActorPool with 16 actors
+myFlowerExperiment | INFO flwr 2023-10-10 00:30:36,846 | server.py:89 | Initializing global parameters
+myFlowerExperiment | INFO flwr 2023-10-10 00:30:36,848 | server.py:276 | Requesting initial parameters from one random client
+myFlowerExperiment | INFO flwr 2023-10-10 00:30:44,670 | server.py:280 | Received initial parameters from one random client
+myFlowerExperiment | INFO flwr 2023-10-10 00:30:44,671 | server.py:91 | Evaluating initial parameters
+myFlowerExperiment | INFO flwr 2023-10-10 00:31:17,089 | server.py:94 | initial parameters (loss, other metrics): 0.8364399671554565, {'accuracy': 0.37895143032073975}
+myFlowerExperiment | INFO flwr 2023-10-10 00:31:17,091 | server.py:104 | FL starting
+myFlowerExperiment | DEBUG flwr 2023-10-10 00:31:17,092 | server.py:222 | fit_round 1: strategy sampled 2 clients (out of 2)
+myFlowerExperiment | DEBUG flwr 2023-10-10 00:31:26,369 | server.py:236 | fit_round 1 received 2 results and 0 failures
+myFlowerExperiment | WARNING flwr 2023-10-10 00:31:26,373 | fedavg.py:242 | No fit_metrics_aggregation_fn provided
+myFlowerExperiment | INFO flwr 2023-10-10 00:31:52,532 | server.py:125 | fit progress: (1, 0.47292113304138184, {'accuracy': 0.8136528134346008}, 35.439432196999405)
+myFlowerExperiment | DEBUG flwr 2023-10-10 00:31:52,533 | server.py:173 | evaluate_round 1: strategy sampled 2 clients (out of 2)
+myFlowerExperiment | DEBUG flwr 2023-10-10 00:31:52,608 | server.py:187 | evaluate_round 1 received 0 results and 2 failures
+myFlowerExperiment | DEBUG flwr 2023-10-10 00:31:52,609 | server.py:222 | fit_round 2: strategy sampled 2 clients (out of 2)
+myFlowerExperiment | DEBUG flwr 2023-10-10 00:32:00,929 | server.py:236 | fit_round 2 received 2 results and 0 failures
+myFlowerExperiment | INFO flwr 2023-10-10 00:32:25,908 | server.py:125 | fit progress: (2, 0.5064367055892944, {'accuracy': 0.7957342267036438}, 68.81531529099811)
+myFlowerExperiment | DEBUG flwr 2023-10-10 00:32:25,909 | server.py:173 | evaluate_round 2: strategy sampled 2 clients (out of 2)
+myFlowerExperiment | DEBUG flwr 2023-10-10 00:32:26,011 | server.py:187 | evaluate_round 2 received 0 results and 2 failures
+myFlowerExperiment | INFO flwr 2023-10-10 00:32:26,012 | server.py:153 | FL finished in 68.91946811699745
+myFlowerExperiment | INFO flwr 2023-10-10 00:32:26,013 | app.py:225 | app_fit: losses_distributed []
+myFlowerExperiment | INFO flwr 2023-10-10 00:32:26,014 | app.py:226 | app_fit: metrics_distributed_fit {}
+myFlowerExperiment | INFO flwr 2023-10-10 00:32:26,015 | app.py:227 | app_fit: metrics_distributed {}
+myFlowerExperiment | INFO flwr 2023-10-10 00:32:26,016 | app.py:228 | app_fit: losses_centralized [(0, 0.8364399671554565), (1, 0.47292113304138184), (2, 0.5064367055892944)]
+myFlowerExperiment | INFO flwr 2023-10-10 00:32:26,017 | app.py:229 | app_fit: metrics_centralized {'accuracy': [(0, 0.37895143032073975), (1, 0.8136528134346008), (2, 0.7957342267036438)]}
+myFlowerExperiment | INFO flwr 2023-10-10 00:34:26,282 | app.py:175 | Starting Flower simulation, config: ServerConfig(num_rounds=2, round_timeout=None)
+myFlowerExperiment | INFO flwr 2023-10-10 00:34:29,754 | app.py:210 | Flower VCE: Ray initialized with resources: {'node:__internal_head__': 1.0, 'node:172.30.126.159': 1.0, 'CPU': 16.0, 'memory': 3666739200.0, 'object_store_memory': 1833369600.0}
+myFlowerExperiment | INFO flwr 2023-10-10 00:34:29,755 | app.py:224 | Flower VCE: Resources for each Virtual Client: {'num_cpus': 1}
+myFlowerExperiment | INFO flwr 2023-10-10 00:34:29,778 | app.py:270 | Flower VCE: Creating VirtualClientEngineActorPool with 16 actors
+myFlowerExperiment | INFO flwr 2023-10-10 00:34:29,781 | server.py:89 | Initializing global parameters
+myFlowerExperiment | INFO flwr 2023-10-10 00:34:29,783 | server.py:272 | Using initial parameters provided by strategy
+myFlowerExperiment | INFO flwr 2023-10-10 00:34:29,785 | server.py:91 | Evaluating initial parameters
+myFlowerExperiment | INFO flwr 2023-10-10 00:35:00,473 | server.py:94 | initial parameters (loss, other metrics): 0.5064367055892944, {'accuracy': 0.7957342267036438}
+myFlowerExperiment | INFO flwr 2023-10-10 00:35:00,474 | server.py:104 | FL starting
+myFlowerExperiment | DEBUG flwr 2023-10-10 00:35:00,475 | server.py:222 | fit_round 1: strategy sampled 2 clients (out of 2)
+myFlowerExperiment | ERROR flwr 2023-10-10 00:35:00,926 | ray_client_proxy.py:147 | Traceback (most recent call last):
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/flwr/simulation/ray_transport/ray_client_proxy.py", line 140, in _submit_job
+    res = self.actor_pool.get_client_result(self.cid, timeout)
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/flwr/simulation/ray_transport/ray_actor.py", line 402, in get_client_result
+    return self._fetch_future_result(cid)
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/flwr/simulation/ray_transport/ray_actor.py", line 288, in _fetch_future_result
+    res_cid, res = ray.get(future)  # type: (str, ClientRes)
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/ray/_private/auto_init_hook.py", line 24, in auto_init_wrapper
+    return fn(*args, **kwargs)
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/ray/_private/client_mode_hook.py", line 103, in wrapper
+    return func(*args, **kwargs)
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/ray/_private/worker.py", line 2526, in get
+    raise value
+ray.exceptions.OutOfMemoryError: Task was killed due to the node running low on memory.
+Memory on the node (IP: 172.30.126.159, ID: c9ca792ebbaf5c462380bcb328105860bafe5489ac76a7fe4ec2d27c) where the task (actor ID: 3bc0030d3795b19456626f5901000000, name=DefaultActor.__init__, pid=3193, memory used=0.28GB) was running was 7.07GB / 7.44GB (0.95118), which exceeds the memory usage threshold of 0.95. Ray killed this worker (ID: d8c12bfd4137e7382f723490b71486099c923e80726d322ae3a8a430) because it was the most recently scheduled task; to see more information about memory usage on this node, use `ray logs raylet.out -ip 172.30.126.159`. To see the logs of the worker, use `ray logs worker-d8c12bfd4137e7382f723490b71486099c923e80726d322ae3a8a430*out -ip 172.30.126.159. Top 10 memory users:
+PID	MEM(GB)	COMMAND
+2530	2.21	/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/bin/python -m ipykernel_launcher -f /home/...
+3193	0.28	ray::DefaultActor.run
+3192	0.27	ray::DefaultActor.run
+3188	0.25	ray::DefaultActor
+3177	0.25	ray::DefaultActor
+3184	0.25	ray::DefaultActor
+3180	0.25	ray::DefaultActor
+3183	0.25	ray::DefaultActor
+3186	0.25	ray::DefaultActor
+3189	0.25	ray::DefaultActor
+Refer to the documentation on how to address the out of memory issue: https://docs.ray.io/en/latest/ray-core/scheduling/ray-oom-prevention.html. Consider provisioning more memory on this node or reducing task parallelism by requesting more CPUs per task. Set max_restarts and max_task_retries to enable retry when the task crashes due to OOM. To adjust the kill threshold, set the environment variable `RAY_memory_usage_threshold` when starting Ray. To disable worker killing, set the environment variable `RAY_memory_monitor_refresh_ms` to zero.
+
+myFlowerExperiment | ERROR flwr 2023-10-10 00:35:00,927 | ray_client_proxy.py:148 | Task was killed due to the node running low on memory.
+Memory on the node (IP: 172.30.126.159, ID: c9ca792ebbaf5c462380bcb328105860bafe5489ac76a7fe4ec2d27c) where the task (actor ID: 3bc0030d3795b19456626f5901000000, name=DefaultActor.__init__, pid=3193, memory used=0.28GB) was running was 7.07GB / 7.44GB (0.95118), which exceeds the memory usage threshold of 0.95. Ray killed this worker (ID: d8c12bfd4137e7382f723490b71486099c923e80726d322ae3a8a430) because it was the most recently scheduled task; to see more information about memory usage on this node, use `ray logs raylet.out -ip 172.30.126.159`. To see the logs of the worker, use `ray logs worker-d8c12bfd4137e7382f723490b71486099c923e80726d322ae3a8a430*out -ip 172.30.126.159. Top 10 memory users:
+PID	MEM(GB)	COMMAND
+2530	2.21	/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/bin/python -m ipykernel_launcher -f /home/...
+3193	0.28	ray::DefaultActor.run
+3192	0.27	ray::DefaultActor.run
+3188	0.25	ray::DefaultActor
+3177	0.25	ray::DefaultActor
+3184	0.25	ray::DefaultActor
+3180	0.25	ray::DefaultActor
+3183	0.25	ray::DefaultActor
+3186	0.25	ray::DefaultActor
+3189	0.25	ray::DefaultActor
+Refer to the documentation on how to address the out of memory issue: https://docs.ray.io/en/latest/ray-core/scheduling/ray-oom-prevention.html. Consider provisioning more memory on this node or reducing task parallelism by requesting more CPUs per task. Set max_restarts and max_task_retries to enable retry when the task crashes due to OOM. To adjust the kill threshold, set the environment variable `RAY_memory_usage_threshold` when starting Ray. To disable worker killing, set the environment variable `RAY_memory_monitor_refresh_ms` to zero.
+myFlowerExperiment | DEBUG flwr 2023-10-10 00:35:09,274 | server.py:236 | fit_round 1 received 1 results and 1 failures
+myFlowerExperiment | WARNING flwr 2023-10-10 00:35:09,277 | fedavg.py:242 | No fit_metrics_aggregation_fn provided
+myFlowerExperiment | INFO flwr 2023-10-10 00:35:33,783 | server.py:125 | fit progress: (1, 0.49569064378738403, {'accuracy': 0.8144312500953674}, 33.30851527399864)
+myFlowerExperiment | DEBUG flwr 2023-10-10 00:35:33,784 | server.py:173 | evaluate_round 1: strategy sampled 2 clients (out of 2)
+myFlowerExperiment | ERROR flwr 2023-10-10 00:35:33,820 | ray_client_proxy.py:147 | Traceback (most recent call last):
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/flwr/simulation/ray_transport/ray_client_proxy.py", line 140, in _submit_job
+    res = self.actor_pool.get_client_result(self.cid, timeout)
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/flwr/simulation/ray_transport/ray_actor.py", line 402, in get_client_result
+    return self._fetch_future_result(cid)
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/flwr/simulation/ray_transport/ray_actor.py", line 288, in _fetch_future_result
+    res_cid, res = ray.get(future)  # type: (str, ClientRes)
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/ray/_private/auto_init_hook.py", line 24, in auto_init_wrapper
+    return fn(*args, **kwargs)
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/ray/_private/client_mode_hook.py", line 103, in wrapper
+    return func(*args, **kwargs)
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/ray/_private/worker.py", line 2526, in get
+    raise value
+ray.exceptions.OutOfMemoryError: Task was killed due to the node running low on memory.
+Memory on the node (IP: 172.30.126.159, ID: c9ca792ebbaf5c462380bcb328105860bafe5489ac76a7fe4ec2d27c) where the task (actor ID: 3bc0030d3795b19456626f5901000000, name=DefaultActor.__init__, pid=3193, memory used=0.28GB) was running was 7.07GB / 7.44GB (0.95118), which exceeds the memory usage threshold of 0.95. Ray killed this worker (ID: d8c12bfd4137e7382f723490b71486099c923e80726d322ae3a8a430) because it was the most recently scheduled task; to see more information about memory usage on this node, use `ray logs raylet.out -ip 172.30.126.159`. To see the logs of the worker, use `ray logs worker-d8c12bfd4137e7382f723490b71486099c923e80726d322ae3a8a430*out -ip 172.30.126.159. Top 10 memory users:
+PID	MEM(GB)	COMMAND
+2530	2.21	/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/bin/python -m ipykernel_launcher -f /home/...
+3193	0.28	ray::DefaultActor.run
+3192	0.27	ray::DefaultActor.run
+3188	0.25	ray::DefaultActor
+3177	0.25	ray::DefaultActor
+3184	0.25	ray::DefaultActor
+3180	0.25	ray::DefaultActor
+3183	0.25	ray::DefaultActor
+3186	0.25	ray::DefaultActor
+3189	0.25	ray::DefaultActor
+Refer to the documentation on how to address the out of memory issue: https://docs.ray.io/en/latest/ray-core/scheduling/ray-oom-prevention.html. Consider provisioning more memory on this node or reducing task parallelism by requesting more CPUs per task. Set max_restarts and max_task_retries to enable retry when the task crashes due to OOM. To adjust the kill threshold, set the environment variable `RAY_memory_usage_threshold` when starting Ray. To disable worker killing, set the environment variable `RAY_memory_monitor_refresh_ms` to zero.
+
+myFlowerExperiment | ERROR flwr 2023-10-10 00:35:33,821 | ray_client_proxy.py:148 | Task was killed due to the node running low on memory.
+Memory on the node (IP: 172.30.126.159, ID: c9ca792ebbaf5c462380bcb328105860bafe5489ac76a7fe4ec2d27c) where the task (actor ID: 3bc0030d3795b19456626f5901000000, name=DefaultActor.__init__, pid=3193, memory used=0.28GB) was running was 7.07GB / 7.44GB (0.95118), which exceeds the memory usage threshold of 0.95. Ray killed this worker (ID: d8c12bfd4137e7382f723490b71486099c923e80726d322ae3a8a430) because it was the most recently scheduled task; to see more information about memory usage on this node, use `ray logs raylet.out -ip 172.30.126.159`. To see the logs of the worker, use `ray logs worker-d8c12bfd4137e7382f723490b71486099c923e80726d322ae3a8a430*out -ip 172.30.126.159. Top 10 memory users:
+PID	MEM(GB)	COMMAND
+2530	2.21	/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/bin/python -m ipykernel_launcher -f /home/...
+3193	0.28	ray::DefaultActor.run
+3192	0.27	ray::DefaultActor.run
+3188	0.25	ray::DefaultActor
+3177	0.25	ray::DefaultActor
+3184	0.25	ray::DefaultActor
+3180	0.25	ray::DefaultActor
+3183	0.25	ray::DefaultActor
+3186	0.25	ray::DefaultActor
+3189	0.25	ray::DefaultActor
+Refer to the documentation on how to address the out of memory issue: https://docs.ray.io/en/latest/ray-core/scheduling/ray-oom-prevention.html. Consider provisioning more memory on this node or reducing task parallelism by requesting more CPUs per task. Set max_restarts and max_task_retries to enable retry when the task crashes due to OOM. To adjust the kill threshold, set the environment variable `RAY_memory_usage_threshold` when starting Ray. To disable worker killing, set the environment variable `RAY_memory_monitor_refresh_ms` to zero.
+myFlowerExperiment | DEBUG flwr 2023-10-10 00:35:33,842 | server.py:187 | evaluate_round 1 received 0 results and 2 failures
+myFlowerExperiment | DEBUG flwr 2023-10-10 00:35:33,843 | server.py:222 | fit_round 2: strategy sampled 2 clients (out of 2)
+myFlowerExperiment | ERROR flwr 2023-10-10 00:35:33,877 | ray_client_proxy.py:147 | Traceback (most recent call last):
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/flwr/simulation/ray_transport/ray_client_proxy.py", line 140, in _submit_job
+    res = self.actor_pool.get_client_result(self.cid, timeout)
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/flwr/simulation/ray_transport/ray_actor.py", line 402, in get_client_result
+    return self._fetch_future_result(cid)
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/flwr/simulation/ray_transport/ray_actor.py", line 288, in _fetch_future_result
+    res_cid, res = ray.get(future)  # type: (str, ClientRes)
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/ray/_private/auto_init_hook.py", line 24, in auto_init_wrapper
+    return fn(*args, **kwargs)
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/ray/_private/client_mode_hook.py", line 103, in wrapper
+    return func(*args, **kwargs)
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/ray/_private/worker.py", line 2526, in get
+    raise value
+ray.exceptions.OutOfMemoryError: Task was killed due to the node running low on memory.
+Memory on the node (IP: 172.30.126.159, ID: c9ca792ebbaf5c462380bcb328105860bafe5489ac76a7fe4ec2d27c) where the task (actor ID: 3bc0030d3795b19456626f5901000000, name=DefaultActor.__init__, pid=3193, memory used=0.28GB) was running was 7.07GB / 7.44GB (0.95118), which exceeds the memory usage threshold of 0.95. Ray killed this worker (ID: d8c12bfd4137e7382f723490b71486099c923e80726d322ae3a8a430) because it was the most recently scheduled task; to see more information about memory usage on this node, use `ray logs raylet.out -ip 172.30.126.159`. To see the logs of the worker, use `ray logs worker-d8c12bfd4137e7382f723490b71486099c923e80726d322ae3a8a430*out -ip 172.30.126.159. Top 10 memory users:
+PID	MEM(GB)	COMMAND
+2530	2.21	/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/bin/python -m ipykernel_launcher -f /home/...
+3193	0.28	ray::DefaultActor.run
+3192	0.27	ray::DefaultActor.run
+3188	0.25	ray::DefaultActor
+3177	0.25	ray::DefaultActor
+3184	0.25	ray::DefaultActor
+3180	0.25	ray::DefaultActor
+3183	0.25	ray::DefaultActor
+3186	0.25	ray::DefaultActor
+3189	0.25	ray::DefaultActor
+Refer to the documentation on how to address the out of memory issue: https://docs.ray.io/en/latest/ray-core/scheduling/ray-oom-prevention.html. Consider provisioning more memory on this node or reducing task parallelism by requesting more CPUs per task. Set max_restarts and max_task_retries to enable retry when the task crashes due to OOM. To adjust the kill threshold, set the environment variable `RAY_memory_usage_threshold` when starting Ray. To disable worker killing, set the environment variable `RAY_memory_monitor_refresh_ms` to zero.
+
+myFlowerExperiment | ERROR flwr 2023-10-10 00:35:33,878 | ray_client_proxy.py:148 | Task was killed due to the node running low on memory.
+Memory on the node (IP: 172.30.126.159, ID: c9ca792ebbaf5c462380bcb328105860bafe5489ac76a7fe4ec2d27c) where the task (actor ID: 3bc0030d3795b19456626f5901000000, name=DefaultActor.__init__, pid=3193, memory used=0.28GB) was running was 7.07GB / 7.44GB (0.95118), which exceeds the memory usage threshold of 0.95. Ray killed this worker (ID: d8c12bfd4137e7382f723490b71486099c923e80726d322ae3a8a430) because it was the most recently scheduled task; to see more information about memory usage on this node, use `ray logs raylet.out -ip 172.30.126.159`. To see the logs of the worker, use `ray logs worker-d8c12bfd4137e7382f723490b71486099c923e80726d322ae3a8a430*out -ip 172.30.126.159. Top 10 memory users:
+PID	MEM(GB)	COMMAND
+2530	2.21	/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/bin/python -m ipykernel_launcher -f /home/...
+3193	0.28	ray::DefaultActor.run
+3192	0.27	ray::DefaultActor.run
+3188	0.25	ray::DefaultActor
+3177	0.25	ray::DefaultActor
+3184	0.25	ray::DefaultActor
+3180	0.25	ray::DefaultActor
+3183	0.25	ray::DefaultActor
+3186	0.25	ray::DefaultActor
+3189	0.25	ray::DefaultActor
+Refer to the documentation on how to address the out of memory issue: https://docs.ray.io/en/latest/ray-core/scheduling/ray-oom-prevention.html. Consider provisioning more memory on this node or reducing task parallelism by requesting more CPUs per task. Set max_restarts and max_task_retries to enable retry when the task crashes due to OOM. To adjust the kill threshold, set the environment variable `RAY_memory_usage_threshold` when starting Ray. To disable worker killing, set the environment variable `RAY_memory_monitor_refresh_ms` to zero.
+myFlowerExperiment | DEBUG flwr 2023-10-10 00:35:41,384 | server.py:236 | fit_round 2 received 1 results and 1 failures
+myFlowerExperiment | INFO flwr 2023-10-10 00:36:04,671 | server.py:125 | fit progress: (2, 0.49953171610832214, {'accuracy': 0.8134526610374451}, 64.19612357000005)
+myFlowerExperiment | DEBUG flwr 2023-10-10 00:36:04,672 | server.py:173 | evaluate_round 2: strategy sampled 2 clients (out of 2)
+myFlowerExperiment | ERROR flwr 2023-10-10 00:36:04,702 | ray_client_proxy.py:147 | Traceback (most recent call last):
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/flwr/simulation/ray_transport/ray_client_proxy.py", line 140, in _submit_job
+    res = self.actor_pool.get_client_result(self.cid, timeout)
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/flwr/simulation/ray_transport/ray_actor.py", line 402, in get_client_result
+    return self._fetch_future_result(cid)
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/flwr/simulation/ray_transport/ray_actor.py", line 288, in _fetch_future_result
+    res_cid, res = ray.get(future)  # type: (str, ClientRes)
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/ray/_private/auto_init_hook.py", line 24, in auto_init_wrapper
+    return fn(*args, **kwargs)
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/ray/_private/client_mode_hook.py", line 103, in wrapper
+    return func(*args, **kwargs)
+  File "/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/lib/python3.9/site-packages/ray/_private/worker.py", line 2526, in get
+    raise value
+ray.exceptions.OutOfMemoryError: Task was killed due to the node running low on memory.
+Memory on the node (IP: 172.30.126.159, ID: c9ca792ebbaf5c462380bcb328105860bafe5489ac76a7fe4ec2d27c) where the task (actor ID: 3bc0030d3795b19456626f5901000000, name=DefaultActor.__init__, pid=3193, memory used=0.28GB) was running was 7.07GB / 7.44GB (0.95118), which exceeds the memory usage threshold of 0.95. Ray killed this worker (ID: d8c12bfd4137e7382f723490b71486099c923e80726d322ae3a8a430) because it was the most recently scheduled task; to see more information about memory usage on this node, use `ray logs raylet.out -ip 172.30.126.159`. To see the logs of the worker, use `ray logs worker-d8c12bfd4137e7382f723490b71486099c923e80726d322ae3a8a430*out -ip 172.30.126.159. Top 10 memory users:
+PID	MEM(GB)	COMMAND
+2530	2.21	/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/bin/python -m ipykernel_launcher -f /home/...
+3193	0.28	ray::DefaultActor.run
+3192	0.27	ray::DefaultActor.run
+3188	0.25	ray::DefaultActor
+3177	0.25	ray::DefaultActor
+3184	0.25	ray::DefaultActor
+3180	0.25	ray::DefaultActor
+3183	0.25	ray::DefaultActor
+3186	0.25	ray::DefaultActor
+3189	0.25	ray::DefaultActor
+Refer to the documentation on how to address the out of memory issue: https://docs.ray.io/en/latest/ray-core/scheduling/ray-oom-prevention.html. Consider provisioning more memory on this node or reducing task parallelism by requesting more CPUs per task. Set max_restarts and max_task_retries to enable retry when the task crashes due to OOM. To adjust the kill threshold, set the environment variable `RAY_memory_usage_threshold` when starting Ray. To disable worker killing, set the environment variable `RAY_memory_monitor_refresh_ms` to zero.
+
+myFlowerExperiment | ERROR flwr 2023-10-10 00:36:04,703 | ray_client_proxy.py:148 | Task was killed due to the node running low on memory.
+Memory on the node (IP: 172.30.126.159, ID: c9ca792ebbaf5c462380bcb328105860bafe5489ac76a7fe4ec2d27c) where the task (actor ID: 3bc0030d3795b19456626f5901000000, name=DefaultActor.__init__, pid=3193, memory used=0.28GB) was running was 7.07GB / 7.44GB (0.95118), which exceeds the memory usage threshold of 0.95. Ray killed this worker (ID: d8c12bfd4137e7382f723490b71486099c923e80726d322ae3a8a430) because it was the most recently scheduled task; to see more information about memory usage on this node, use `ray logs raylet.out -ip 172.30.126.159`. To see the logs of the worker, use `ray logs worker-d8c12bfd4137e7382f723490b71486099c923e80726d322ae3a8a430*out -ip 172.30.126.159. Top 10 memory users:
+PID	MEM(GB)	COMMAND
+2530	2.21	/home/guilherme/cpu-tensorflow-marcelo/nvidia-smi/envs/tf/bin/python -m ipykernel_launcher -f /home/...
+3193	0.28	ray::DefaultActor.run
+3192	0.27	ray::DefaultActor.run
+3188	0.25	ray::DefaultActor
+3177	0.25	ray::DefaultActor
+3184	0.25	ray::DefaultActor
+3180	0.25	ray::DefaultActor
+3183	0.25	ray::DefaultActor
+3186	0.25	ray::DefaultActor
+3189	0.25	ray::DefaultActor
+Refer to the documentation on how to address the out of memory issue: https://docs.ray.io/en/latest/ray-core/scheduling/ray-oom-prevention.html. Consider provisioning more memory on this node or reducing task parallelism by requesting more CPUs per task. Set max_restarts and max_task_retries to enable retry when the task crashes due to OOM. To adjust the kill threshold, set the environment variable `RAY_memory_usage_threshold` when starting Ray. To disable worker killing, set the environment variable `RAY_memory_monitor_refresh_ms` to zero.
+myFlowerExperiment | DEBUG flwr 2023-10-10 00:36:04,725 | server.py:187 | evaluate_round 2 received 0 results and 2 failures
+myFlowerExperiment | INFO flwr 2023-10-10 00:36:04,726 | server.py:153 | FL finished in 64.2516323819982
+myFlowerExperiment | INFO flwr 2023-10-10 00:36:04,727 | app.py:225 | app_fit: losses_distributed []
+myFlowerExperiment | INFO flwr 2023-10-10 00:36:04,728 | app.py:226 | app_fit: metrics_distributed_fit {}
+myFlowerExperiment | INFO flwr 2023-10-10 00:36:04,729 | app.py:227 | app_fit: metrics_distributed {}
+myFlowerExperiment | INFO flwr 2023-10-10 00:36:04,730 | app.py:228 | app_fit: losses_centralized [(0, 0.5064367055892944), (1, 0.49569064378738403), (2, 0.49953171610832214)]
+myFlowerExperiment | INFO flwr 2023-10-10 00:36:04,731 | app.py:229 | app_fit: metrics_centralized {'accuracy': [(0, 0.7957342267036438), (1, 0.8144312500953674), (2, 0.8134526610374451)]}

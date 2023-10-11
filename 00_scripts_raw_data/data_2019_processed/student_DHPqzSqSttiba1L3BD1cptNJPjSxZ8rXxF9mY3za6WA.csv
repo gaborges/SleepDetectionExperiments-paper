@@ -1,0 +1,1713 @@
+activity,location,distanceHome,showActuation,timestamp,time_to_next_alarm,sound,proximity,phone_lock,light,day_of_week,minutes_day,timestamp_text,class
+Unknown,Other,0,False,1526567432,0.0,0,0.0,not locked,46,Thursday,930,2018-05-17 15:30:32+00:00,awake
+Unknown,Other,0,False,1526567432,0.0,0,0.0,not locked,46,Thursday,930,2018-05-17 15:30:32+00:00,awake
+Unknown,Other,0,False,1526567472,0.0,0,0.0,not locked,200,Thursday,931,2018-05-17 15:31:12+00:00,awake
+Still,University,0,False,1526567502,583740000.0,18169,5.000305176,not locked,139,Thursday,931,2018-05-17 15:31:42+00:00,awake
+Unknown,University,0,False,1526567533,583680000.0,18169,5.000305176,not locked,265,Thursday,932,2018-05-17 15:32:13+00:00,awake
+Unknown,University,0,False,1526567593,583620000.0,25007,5.000305176,not locked,169,Thursday,933,2018-05-17 15:33:13+00:00,awake
+Unknown,Other,0,False,1526567604,0.0,0,0.0,not locked,154,Thursday,933,2018-05-17 15:33:24+00:00,awake
+Exercise,House,0,False,1526567664,583560000.0,27071,5.000305176,not locked,242,Thursday,934,2018-05-17 15:34:24+00:00,awake
+Unknown,Other,0,False,1526889009,0.0,0,0.0,not locked,18,Monday,530,2018-05-21 08:50:09+00:00,awake
+Still,Other,0,False,1526889039,16800000.0,1778,5.000305176,not locked,14,Monday,530,2018-05-21 08:50:39+00:00,awake
+Still,Other,0,False,1526889069,16740000.0,1778,5.000305176,not locked,16,Monday,531,2018-05-21 08:51:09+00:00,awake
+Still,House,0,False,1528246817,-1.0,20165,8.0,not locked,0,Tuesday,120,2018-06-06 02:00:17+00:00,awake
+Still,House,0,False,1528246847,-1.0,20165,8.0,not locked,0,Tuesday,120,2018-06-06 02:00:47+00:00,awake
+Still,House,0,False,1528246877,-1.0,11204,8.0,not locked,0,Tuesday,121,2018-06-06 02:01:17+00:00,awake
+Unknown,Other,0,False,1528246888,-1.0,0,8.0,not locked,0,Tuesday,121,2018-06-06 02:01:28+00:00,awake
+Unknown,Other,0,False,1528246900,-1.0,0,8.0,not locked,0,Tuesday,121,2018-06-06 02:01:40+00:00,awake
+Unknown,House,0,False,1528246930,-1.0,11468,8.0,not locked,0,Tuesday,122,2018-06-06 02:02:10+00:00,awake
+Unknown,Other,0,False,1528246982,-1.0,0,8.0,not locked,0,Tuesday,123,2018-06-06 02:03:02+00:00,awake
+Still,House,0,False,1528247012,-1.0,6031,8.0,not locked,0,Tuesday,123,2018-06-06 02:03:32+00:00,awake
+Still,House,0,False,1528247277,-1.0,5779,8.0,locked,0,Tuesday,127,2018-06-06 02:07:57+00:00,awake
+Still,House,0,False,1528247307,-1.0,5779,8.0,locked,0,Tuesday,128,2018-06-06 02:08:27+00:00,awake
+Still,House,0,False,1528247337,-1.0,3651,8.0,locked,0,Tuesday,128,2018-06-06 02:08:57+00:00,awake
+Still,House,0,False,1528247367,-1.0,3651,8.0,locked,0,Tuesday,129,2018-06-06 02:09:27+00:00,awake
+Still,House,0,False,1528247397,-1.0,2984,8.0,locked,0,Tuesday,129,2018-06-06 02:09:57+00:00,awake
+Still,House,0,False,1528247457,-1.0,3636,8.0,locked,0,Tuesday,130,2018-06-06 02:10:57+00:00,awake
+Still,House,0,False,1528247487,-1.0,3636,8.0,locked,0,Tuesday,131,2018-06-06 02:11:27+00:00,awake
+Still,House,0,False,1528247517,-1.0,2299,8.0,locked,0,Tuesday,131,2018-06-06 02:11:57+00:00,awake
+Still,House,0,False,1528247547,-1.0,2299,8.0,locked,0,Tuesday,132,2018-06-06 02:12:27+00:00,awake
+Still,House,0,False,1528247578,-1.0,1611,8.0,locked,0,Tuesday,132,2018-06-06 02:12:58+00:00,awake
+Still,House,0,False,1528247753,-1.0,2834,8.0,locked,0,Tuesday,135,2018-06-06 02:15:53+00:00,awake
+Unknown,House,0,False,1528247896,-1.0,22752,8.0,not locked,0,Tuesday,138,2018-06-06 02:18:16+00:00,awake
+Still,House,0,False,1528248096,-1.0,32767,8.0,locked,0,Tuesday,141,2018-06-06 02:21:36+00:00,awake
+Still,House,0,False,1528248245,-1.0,2454,8.0,locked,0,Tuesday,144,2018-06-06 02:24:05+00:00,awake
+Still,House,0,False,1528248565,-1.0,2454,8.0,locked,0,Tuesday,149,2018-06-06 02:29:25+00:00,awake
+Still,House,0,False,1528248689,-1.0,9629,8.0,not locked,0,Tuesday,151,2018-06-06 02:31:29+00:00,awake
+Still,House,0,False,1528248719,-1.0,2441,8.0,not locked,0,Tuesday,151,2018-06-06 02:31:59+00:00,awake
+Unknown,Other,0,False,1528245319,-1.0,12248,8.0,not locked,0,Tuesday,95,2018-06-06 01:35:19+00:00,awake
+Still,Other,0,False,1528245447,-1.0,7881,8.0,not locked,0,Tuesday,97,2018-06-06 01:37:27+00:00,awake
+Still,Other,0,False,1528245478,-1.0,31758,8.0,not locked,0,Tuesday,97,2018-06-06 01:37:58+00:00,awake
+Still,Other,0,False,1528245508,-1.0,31758,8.0,not locked,0,Tuesday,98,2018-06-06 01:38:28+00:00,awake
+Still,Other,0,False,1528245538,-1.0,10184,8.0,not locked,0,Tuesday,98,2018-06-06 01:38:58+00:00,awake
+Unknown,Other,0,False,1528245568,-1.0,10184,8.0,not locked,0,Tuesday,99,2018-06-06 01:39:28+00:00,awake
+Unknown,Other,0,False,1528245576,-1.0,0,8.0,not locked,0,Tuesday,99,2018-06-06 01:39:36+00:00,awake
+Exercise,Other,0,False,1528245666,-1.0,9114,8.0,not locked,0,Tuesday,101,2018-06-06 01:41:06+00:00,awake
+Still,Other,0,False,1528245756,-1.0,2720,8.0,not locked,0,Tuesday,102,2018-06-06 01:42:36+00:00,awake
+Still,Other,0,False,1528245787,-1.0,10443,8.0,not locked,0,Tuesday,103,2018-06-06 01:43:07+00:00,awake
+Still,Other,0,False,1528245817,-1.0,10443,8.0,not locked,0,Tuesday,103,2018-06-06 01:43:37+00:00,awake
+Still,House,0,False,1528245877,-1.0,8309,8.0,not locked,0,Tuesday,104,2018-06-06 01:44:37+00:00,awake
+Unknown,Other,0,False,1528245907,-1.0,0,8.0,not locked,0,Tuesday,105,2018-06-06 01:45:07+00:00,awake
+Unknown,Other,0,False,1528245945,-1.0,0,8.0,not locked,0,Tuesday,105,2018-06-06 01:45:45+00:00,awake
+Still,House,0,False,1528246005,-1.0,5074,8.0,not locked,0,Tuesday,106,2018-06-06 01:46:45+00:00,awake
+Unknown,House,0,False,1528246095,-1.0,13016,8.0,not locked,0,Tuesday,108,2018-06-06 01:48:15+00:00,awake
+Unknown,House,0,False,1528246185,-1.0,4205,8.0,not locked,0,Tuesday,109,2018-06-06 01:49:45+00:00,awake
+Still,House,0,False,1528246215,-1.0,4281,8.0,not locked,0,Tuesday,110,2018-06-06 01:50:15+00:00,awake
+Still,House,0,False,1528246245,-1.0,4281,8.0,not locked,0,Tuesday,110,2018-06-06 01:50:45+00:00,awake
+Unknown,House,0,False,1528246312,-1.0,20021,8.0,not locked,0,Tuesday,111,2018-06-06 01:51:52+00:00,awake
+Still,House,0,False,1528246342,-1.0,32767,8.0,not locked,0,Tuesday,112,2018-06-06 01:52:22+00:00,awake
+Unknown,House,0,False,1528246372,-1.0,32767,8.0,not locked,0,Tuesday,112,2018-06-06 01:52:52+00:00,awake
+Still,House,0,False,1528246402,-1.0,7055,8.0,not locked,0,Tuesday,113,2018-06-06 01:53:22+00:00,awake
+Unknown,Other,0,False,1528246426,-1.0,0,8.0,not locked,0,Tuesday,113,2018-06-06 01:53:46+00:00,awake
+Still,House,0,False,1528246456,-1.0,18868,8.0,not locked,0,Tuesday,114,2018-06-06 01:54:16+00:00,awake
+Still,House,0,False,1528246486,-1.0,18868,8.0,not locked,0,Tuesday,114,2018-06-06 01:54:46+00:00,awake
+Still,House,0,False,1528246516,-1.0,27800,8.0,not locked,0,Tuesday,115,2018-06-06 01:55:16+00:00,awake
+Still,House,0,False,1528246546,-1.0,27800,0.0,locked,0,Tuesday,115,2018-06-06 01:55:46+00:00,awake
+Still,House,0,False,1528246577,-1.0,11191,0.0,locked,0,Tuesday,116,2018-06-06 01:56:17+00:00,awake
+Still,House,0,False,1528246667,-1.0,9328,0.0,locked,0,Tuesday,117,2018-06-06 01:57:47+00:00,awake
+Still,House,0,False,1528247723,-1.0,1611,8.0,locked,0,Tuesday,135,2018-06-06 02:15:23+00:00,awake
+Still,House,0,False,1528248749,-1.0,2441,8.0,locked,0,Tuesday,152,2018-06-06 02:32:29+00:00,awake
+Still,House,0,False,1528248875,-1.0,4758,8.0,locked,0,Tuesday,154,2018-06-06 02:34:35+00:00,awake
+Still,House,0,False,1528249091,-1.0,4758,8.0,locked,0,Tuesday,158,2018-06-06 02:38:11+00:00,awake
+Still,House,0,False,1528249280,-1.0,571,8.0,locked,0,Tuesday,161,2018-06-06 02:41:20+00:00,awake
+Still,House,0,False,1528249585,-1.0,273,8.0,locked,0,Tuesday,166,2018-06-06 02:46:25+00:00,awake
+Still,House,0,False,1528249620,-1.0,1913,8.0,locked,0,Tuesday,167,2018-06-06 02:47:00+00:00,awake
+Still,House,0,False,1528249725,-1.0,2695,8.0,locked,0,Tuesday,168,2018-06-06 02:48:45+00:00,awake
+Still,House,0,False,1528249913,-1.0,2695,8.0,locked,0,Tuesday,171,2018-06-06 02:51:53+00:00,awake
+Still,House,0,False,1528249943,-1.0,2518,8.0,locked,0,Tuesday,172,2018-06-06 02:52:23+00:00,awake
+Still,House,0,False,1528250005,-1.0,2518,8.0,locked,0,Tuesday,173,2018-06-06 02:53:25+00:00,awake
+Still,House,0,False,1528250274,-1.0,1800,8.0,locked,0,Tuesday,177,2018-06-06 02:57:54+00:00,awake
+Still,House,0,False,1528250390,-1.0,17815,8.0,not locked,0,Tuesday,179,2018-06-06 02:59:50+00:00,awake
+Still,House,0,False,1528250420,-1.0,17815,8.0,not locked,0,Tuesday,180,2018-06-06 03:00:20+00:00,awake
+Still,House,0,False,1528250721,-1.0,1498,8.0,locked,0,Tuesday,185,2018-06-06 03:05:21+00:00,awake
+Still,House,0,False,1528250937,-1.0,1498,8.0,locked,0,Tuesday,188,2018-06-06 03:08:57+00:00,awake
+Still,House,0,False,1528250967,-1.0,1473,8.0,locked,0,Tuesday,189,2018-06-06 03:09:27+00:00,awake
+Still,House,0,False,1528251247,-1.0,1473,8.0,locked,0,Tuesday,194,2018-06-06 03:14:07+00:00,awake
+Still,House,0,False,1528251277,-1.0,1167,8.0,locked,0,Tuesday,194,2018-06-06 03:14:37+00:00,awake
+Still,House,0,False,1528251498,-1.0,1167,8.0,locked,0,Tuesday,198,2018-06-06 03:18:18+00:00,awake
+Still,House,0,False,1528251681,-1.0,1662,8.0,locked,0,Tuesday,201,2018-06-06 03:21:21+00:00,awake
+Still,House,0,False,1528251961,-1.0,12298,8.0,not locked,0,Tuesday,206,2018-06-06 03:26:01+00:00,awake
+Still,House,0,False,1528252455,-1.0,1039,8.0,locked,0,Tuesday,214,2018-06-06 03:34:15+00:00,awake
+Still,Other,0,False,1528245636,-1.0,4997,8.0,not locked,0,Tuesday,100,2018-06-06 01:40:36+00:00,awake
+Unknown,Other,0,False,1528246252,0.0,0,8.0,not locked,0,Tuesday,110,2018-06-06 01:50:52+00:00,awake
+Still,House,0,False,1528253201,-1.0,2216,8.0,locked,0,Tuesday,226,2018-06-06 03:46:41+00:00,awake
+Still,House,0,False,1528253231,-1.0,2706,8.0,locked,0,Tuesday,227,2018-06-06 03:47:11+00:00,awake
+Still,House,0,False,1528253377,-1.0,2706,8.0,locked,0,Tuesday,229,2018-06-06 03:49:37+00:00,awake
+Still,House,0,False,1528254310,-1.0,2380,8.0,locked,0,Tuesday,245,2018-06-06 04:05:10+00:00,awake
+Still,House,0,False,1528254822,-1.0,1711,8.0,locked,0,Tuesday,253,2018-06-06 04:13:42+00:00,awake
+Still,House,0,False,1528255013,-1.0,1711,8.0,locked,0,Tuesday,256,2018-06-06 04:16:53+00:00,awake
+Still,House,0,False,1528255491,-1.0,942,8.0,locked,0,Tuesday,264,2018-06-06 04:24:51+00:00,awake
+Still,House,0,False,1528255957,-1.0,495,8.0,locked,0,Tuesday,272,2018-06-06 04:32:37+00:00,awake
+Still,House,0,False,1528256234,-1.0,495,8.0,locked,0,Tuesday,277,2018-06-06 04:37:14+00:00,awake
+Still,House,0,False,1528256311,-1.0,1917,8.0,locked,0,Tuesday,278,2018-06-06 04:38:31+00:00,awake
+Still,House,0,False,1528256341,-1.0,462,8.0,locked,0,Tuesday,279,2018-06-06 04:39:01+00:00,awake
+Still,House,0,False,1528256588,-1.0,457,8.0,locked,0,Tuesday,283,2018-06-06 04:43:08+00:00,awake
+Still,House,0,False,1528256872,-1.0,457,8.0,locked,0,Tuesday,287,2018-06-06 04:47:52+00:00,awake
+Still,House,0,False,1528257015,-1.0,473,8.0,locked,0,Tuesday,290,2018-06-06 04:50:15+00:00,awake
+Still,House,0,False,1528257055,-1.0,430,8.0,locked,0,Tuesday,290,2018-06-06 04:50:55+00:00,awake
+Still,House,0,False,1528257135,-1.0,430,8.0,locked,0,Tuesday,292,2018-06-06 04:52:15+00:00,awake
+Still,House,0,False,1528257165,-1.0,503,8.0,locked,0,Tuesday,292,2018-06-06 04:52:45+00:00,awake
+Still,House,0,False,1528257261,-1.0,503,8.0,locked,0,Tuesday,294,2018-06-06 04:54:21+00:00,awake
+Still,House,0,False,1528257291,-1.0,2114,8.0,locked,0,Tuesday,294,2018-06-06 04:54:51+00:00,awake
+Still,House,0,False,1528257392,-1.0,2114,8.0,locked,0,Tuesday,296,2018-06-06 04:56:32+00:00,awake
+Still,House,0,False,1528257422,-1.0,233,8.0,locked,0,Tuesday,297,2018-06-06 04:57:02+00:00,awake
+Still,House,0,False,1528257636,-1.0,113,8.0,locked,0,Wednesday,300,2018-06-06 05:00:36+00:00,awake
+Still,House,0,False,1528257738,-1.0,183,8.0,locked,0,Wednesday,302,2018-06-06 05:02:18+00:00,awake
+Still,House,0,False,1528257777,-1.0,204,8.0,locked,0,Wednesday,302,2018-06-06 05:02:57+00:00,awake
+Still,House,0,False,1528257941,-1.0,204,8.0,locked,0,Wednesday,305,2018-06-06 05:05:41+00:00,awake
+Still,House,0,False,1528258089,-1.0,260,8.0,locked,0,Wednesday,308,2018-06-06 05:08:09+00:00,awake
+Still,House,0,False,1528258122,-1.0,90,8.0,locked,0,Wednesday,308,2018-06-06 05:08:42+00:00,awake
+Still,House,0,False,1528258360,-1.0,626,8.0,locked,0,Wednesday,312,2018-06-06 05:12:40+00:00,awake
+Still,House,0,False,1528258680,-1.0,112,8.0,locked,0,Wednesday,318,2018-06-06 05:18:00+00:00,awake
+Still,House,0,False,1528258719,-1.0,100,8.0,locked,0,Wednesday,318,2018-06-06 05:18:39+00:00,awake
+Still,House,0,False,1528258825,-1.0,100,8.0,locked,0,Wednesday,320,2018-06-06 05:20:25+00:00,awake
+Still,House,0,False,1528258994,-1.0,173,8.0,locked,0,Wednesday,323,2018-06-06 05:23:14+00:00,awake
+Still,House,0,False,1528259297,-1.0,113,8.0,locked,0,Wednesday,328,2018-06-06 05:28:17+00:00,awake
+Still,House,0,False,1528259590,-1.0,113,8.0,locked,0,Wednesday,333,2018-06-06 05:33:10+00:00,awake
+Still,House,0,False,1528260043,-1.0,183,8.0,locked,0,Wednesday,340,2018-06-06 05:40:43+00:00,awake
+Still,House,0,False,1528260197,-1.0,184,8.0,locked,0,Wednesday,343,2018-06-06 05:43:17+00:00,awake
+Still,House,0,False,1528261067,-1.0,113,8.0,locked,0,Wednesday,357,2018-06-06 05:57:47+00:00,awake
+Still,House,0,False,1528261141,-1.0,113,8.0,locked,0,Wednesday,359,2018-06-06 05:59:01+00:00,awake
+Still,House,0,False,1528261333,-1.0,124,8.0,locked,0,Wednesday,362,2018-06-06 06:02:13+00:00,awake
+Still,House,0,False,1528261363,-1.0,123,8.0,locked,0,Wednesday,362,2018-06-06 06:02:43+00:00,awake
+Still,House,0,False,1528261934,-1.0,198,8.0,locked,0,Wednesday,372,2018-06-06 06:12:14+00:00,awake
+Still,House,0,False,1528261781,-1.0,198,8.0,locked,0,Wednesday,369,2018-06-06 06:09:41+00:00,awake
+Still,House,0,False,1528262364,-1.0,182,8.0,locked,0,Wednesday,379,2018-06-06 06:19:24+00:00,awake
+Still,House,0,False,1528262623,-1.0,208,8.0,locked,0,Wednesday,383,2018-06-06 06:23:43+00:00,awake
+Still,House,0,False,1528262744,-1.0,208,8.0,locked,0,Wednesday,385,2018-06-06 06:25:44+00:00,awake
+Still,House,0,False,1528263253,-1.0,157,8.0,locked,0,Wednesday,394,2018-06-06 06:34:13+00:00,awake
+Still,House,0,False,1528263407,-1.0,436,8.0,locked,0,Wednesday,396,2018-06-06 06:36:47+00:00,awake
+Still,House,0,False,1528263438,-1.0,514,8.0,locked,0,Wednesday,397,2018-06-06 06:37:18+00:00,awake
+Still,House,0,False,1528263489,-1.0,514,8.0,locked,0,Wednesday,398,2018-06-06 06:38:09+00:00,awake
+Still,House,0,False,1528263572,-1.0,147,8.0,locked,0,Wednesday,399,2018-06-06 06:39:32+00:00,awake
+Still,House,0,False,1528263650,-1.0,395,8.0,locked,0,Wednesday,400,2018-06-06 06:40:50+00:00,awake
+Still,House,0,False,1528263682,-1.0,560,8.0,locked,0,Wednesday,401,2018-06-06 06:41:22+00:00,awake
+Still,House,0,False,1528263781,-1.0,560,8.0,locked,0,Wednesday,403,2018-06-06 06:43:01+00:00,awake
+Still,House,0,False,1528263816,-1.0,171,8.0,locked,0,Wednesday,403,2018-06-06 06:43:36+00:00,awake
+Still,House,0,False,1528263909,-1.0,171,8.0,locked,0,Wednesday,405,2018-06-06 06:45:09+00:00,awake
+Still,House,0,False,1528264230,-1.0,245,8.0,locked,0,Wednesday,410,2018-06-06 06:50:30+00:00,awake
+Still,House,0,False,1528264474,-1.0,159,8.0,locked,0,Wednesday,414,2018-06-06 06:54:34+00:00,awake
+Still,House,0,False,1528264524,-1.0,159,8.0,locked,0,Wednesday,415,2018-06-06 06:55:24+00:00,awake
+Still,House,0,False,1528264768,-1.0,158,8.0,locked,0,Wednesday,419,2018-06-06 06:59:28+00:00,awake
+Still,House,0,False,1528264799,-1.0,182,8.0,locked,0,Wednesday,419,2018-06-06 06:59:59+00:00,awake
+Still,House,0,False,1528264996,-1.0,182,8.0,locked,0,Wednesday,423,2018-06-06 07:03:16+00:00,awake
+Still,House,0,False,1528265106,-1.0,101,8.0,locked,0,Wednesday,425,2018-06-06 07:05:06+00:00,awake
+Still,House,0,False,1528265136,-1.0,101,8.0,locked,0,Wednesday,425,2018-06-06 07:05:36+00:00,awake
+Still,House,0,False,1528265371,-1.0,113,8.0,locked,0,Wednesday,429,2018-06-06 07:09:31+00:00,awake
+Still,House,0,False,1528265424,-1.0,113,8.0,locked,0,Wednesday,430,2018-06-06 07:10:24+00:00,awake
+Still,House,0,False,1528265459,-1.0,161,8.0,locked,0,Wednesday,430,2018-06-06 07:10:59+00:00,awake
+Still,House,0,False,1528265533,-1.0,161,8.0,locked,0,Wednesday,432,2018-06-06 07:12:13+00:00,awake
+Still,House,0,False,1528265570,-1.0,101,8.0,locked,0,Wednesday,432,2018-06-06 07:12:50+00:00,awake
+Still,House,0,False,1528265724,-1.0,101,8.0,locked,0,Wednesday,435,2018-06-06 07:15:24+00:00,awake
+Still,House,0,False,1528265760,-1.0,454,8.0,locked,0,Wednesday,436,2018-06-06 07:16:00+00:00,awake
+Still,House,0,False,1528265993,-1.0,454,8.0,locked,0,Wednesday,439,2018-06-06 07:19:53+00:00,awake
+Still,House,0,False,1528266101,-1.0,621,8.0,locked,0,Wednesday,441,2018-06-06 07:21:41+00:00,awake
+Still,House,0,False,1528266170,-1.0,238,8.0,locked,0,Wednesday,442,2018-06-06 07:22:50+00:00,awake
+Still,House,0,False,1528266200,-1.0,112,8.0,locked,0,Wednesday,443,2018-06-06 07:23:20+00:00,awake
+Still,House,0,False,1528266247,-1.0,112,8.0,locked,0,Wednesday,444,2018-06-06 07:24:07+00:00,awake
+Still,House,0,False,1528266277,-1.0,90,8.0,locked,0,Wednesday,444,2018-06-06 07:24:37+00:00,awake
+Still,House,0,False,1528266408,-1.0,101,8.0,locked,0,Wednesday,446,2018-06-06 07:26:48+00:00,awake
+Still,House,0,False,1528266503,-1.0,100,8.0,locked,0,Wednesday,448,2018-06-06 07:28:23+00:00,awake
+Still,House,0,False,1528266655,-1.0,129,8.0,locked,0,Wednesday,450,2018-06-06 07:30:55+00:00,awake
+Still,House,0,False,1528266685,-1.0,100,8.0,locked,0,Wednesday,451,2018-06-06 07:31:25+00:00,awake
+Still,House,0,False,1528267206,-1.0,307,8.0,locked,0,Wednesday,460,2018-06-06 07:40:06+00:00,awake
+Still,House,0,False,1528267813,-1.0,101,8.0,locked,0,Wednesday,470,2018-06-06 07:50:13+00:00,awake
+Still,House,0,False,1528267991,-1.0,100,8.0,locked,0,Wednesday,473,2018-06-06 07:53:11+00:00,awake
+Still,House,0,False,1528268177,-1.0,1384,8.0,locked,0,Wednesday,476,2018-06-06 07:56:17+00:00,awake
+Still,House,0,False,1528268426,-1.0,100,8.0,locked,0,Wednesday,480,2018-06-06 08:00:26+00:00,awake
+Still,House,0,False,1528268457,-1.0,322,8.0,locked,0,Wednesday,480,2018-06-06 08:00:57+00:00,awake
+Still,House,0,False,1528268634,-1.0,101,8.0,locked,0,Wednesday,483,2018-06-06 08:03:54+00:00,awake
+Still,House,0,False,1528269020,-1.0,146,8.0,locked,0,Wednesday,490,2018-06-06 08:10:20+00:00,awake
+Still,House,0,False,1528269161,-1.0,170,8.0,locked,0,Wednesday,492,2018-06-06 08:12:41+00:00,awake
+Still,House,0,False,1528269850,-1.0,101,8.0,locked,0,Wednesday,504,2018-06-06 08:24:10+00:00,awake
+Still,House,0,False,1528270483,-1.0,114,8.0,locked,0,Wednesday,514,2018-06-06 08:34:43+00:00,awake
+Still,House,0,False,1528270617,-1.0,90,8.0,locked,0,Wednesday,516,2018-06-06 08:36:57+00:00,awake
+Still,House,0,False,1528270724,-1.0,216,8.0,locked,0,Wednesday,518,2018-06-06 08:38:44+00:00,awake
+Still,House,0,False,1528270967,-1.0,113,8.0,locked,0,Wednesday,522,2018-06-06 08:42:47+00:00,awake
+Still,House,0,False,1528271140,-1.0,463,8.0,locked,0,Wednesday,525,2018-06-06 08:45:40+00:00,awake
+Still,House,0,False,1528271300,-1.0,194,8.0,locked,0,Wednesday,528,2018-06-06 08:48:20+00:00,awake
+Still,House,0,False,1528271814,-1.0,159,8.0,locked,0,Wednesday,536,2018-06-06 08:56:54+00:00,awake
+Still,House,0,False,1528271966,-1.0,1156,8.0,locked,0,Wednesday,539,2018-06-06 08:59:26+00:00,awake
+Still,House,0,False,1528272617,-1.0,101,8.0,locked,0,Wednesday,550,2018-06-06 09:10:17+00:00,awake
+Still,House,0,False,1528272770,-1.0,125,8.0,locked,0,Wednesday,552,2018-06-06 09:12:50+00:00,awake
+Still,House,0,False,1528272857,-1.0,101,8.0,locked,0,Wednesday,554,2018-06-06 09:14:17+00:00,awake
+Still,House,0,False,1528272952,-1.0,101,8.0,locked,0,Wednesday,555,2018-06-06 09:15:52+00:00,awake
+Still,House,0,False,1528272985,-1.0,250,8.0,locked,0,Wednesday,556,2018-06-06 09:16:25+00:00,awake
+Still,House,0,False,1528273051,-1.0,250,8.0,locked,0,Wednesday,557,2018-06-06 09:17:31+00:00,awake
+Still,House,0,False,1528273081,-1.0,158,8.0,locked,0,Wednesday,558,2018-06-06 09:18:01+00:00,awake
+Still,House,0,False,1528273111,-1.0,158,8.0,locked,0,Wednesday,558,2018-06-06 09:18:31+00:00,awake
+Still,House,0,False,1528273142,-1.0,124,8.0,locked,0,Wednesday,559,2018-06-06 09:19:02+00:00,awake
+Still,House,0,False,1528273306,-1.0,124,8.0,locked,0,Wednesday,561,2018-06-06 09:21:46+00:00,awake
+Still,House,0,False,1528273337,-1.0,113,8.0,locked,0,Wednesday,562,2018-06-06 09:22:17+00:00,awake
+Still,House,0,False,1528273427,-1.0,113,8.0,locked,0,Wednesday,563,2018-06-06 09:23:47+00:00,awake
+Still,House,0,False,1528273457,-1.0,113,8.0,locked,0,Wednesday,564,2018-06-06 09:24:17+00:00,awake
+Still,House,0,False,1528273489,-1.0,101,8.0,locked,0,Wednesday,564,2018-06-06 09:24:49+00:00,awake
+Still,House,0,False,1528273566,-1.0,101,8.0,locked,0,Wednesday,566,2018-06-06 09:26:06+00:00,awake
+Still,House,0,False,1528273596,-1.0,293,8.0,locked,0,Wednesday,566,2018-06-06 09:26:36+00:00,awake
+Still,House,0,False,1528273716,-1.0,293,8.0,locked,0,Wednesday,568,2018-06-06 09:28:36+00:00,awake
+Still,House,0,False,1528273757,-1.0,2194,8.0,locked,0,Wednesday,569,2018-06-06 09:29:17+00:00,awake
+Still,House,0,False,1528273869,-1.0,2194,8.0,locked,0,Wednesday,571,2018-06-06 09:31:09+00:00,awake
+Still,House,0,False,1528273899,-1.0,101,8.0,locked,0,Wednesday,571,2018-06-06 09:31:39+00:00,awake
+Still,House,0,False,1528274046,-1.0,619,8.0,locked,0,Wednesday,574,2018-06-06 09:34:06+00:00,awake
+Still,House,0,False,1528274076,-1.0,159,8.0,locked,0,Wednesday,574,2018-06-06 09:34:36+00:00,awake
+Still,House,0,False,1528274138,-1.0,159,8.0,locked,0,Wednesday,575,2018-06-06 09:35:38+00:00,awake
+Still,House,0,False,1528274168,-1.0,171,8.0,locked,0,Wednesday,576,2018-06-06 09:36:08+00:00,awake
+Still,House,0,False,1528274297,-1.0,171,8.0,locked,0,Wednesday,578,2018-06-06 09:38:17+00:00,awake
+Still,House,0,False,1528274327,-1.0,170,8.0,locked,0,Wednesday,578,2018-06-06 09:38:47+00:00,awake
+Still,House,0,False,1528274428,-1.0,170,8.0,locked,0,Wednesday,580,2018-06-06 09:40:28+00:00,awake
+Still,House,0,False,1528274458,-1.0,146,8.0,locked,0,Wednesday,580,2018-06-06 09:40:58+00:00,awake
+Still,House,0,False,1528274740,-1.0,146,8.0,locked,0,Wednesday,585,2018-06-06 09:45:40+00:00,awake
+Still,House,0,False,1528274775,-1.0,237,8.0,locked,0,Wednesday,586,2018-06-06 09:46:15+00:00,awake
+Still,House,0,False,1528275049,-1.0,5068,8.0,locked,0,Wednesday,590,2018-06-06 09:50:49+00:00,awake
+Still,House,0,False,1528275112,-1.0,101,8.0,locked,0,Wednesday,591,2018-06-06 09:51:52+00:00,awake
+Still,House,0,False,1528275209,-1.0,101,8.0,locked,0,Wednesday,593,2018-06-06 09:53:29+00:00,awake
+Still,House,0,False,1528275241,-1.0,391,8.0,locked,0,Wednesday,594,2018-06-06 09:54:01+00:00,awake
+Still,Other,0,False,1528275335,-1.0,391,8.0,locked,0,Wednesday,595,2018-06-06 09:55:35+00:00,awake
+Still,Other,0,False,1528275365,-1.0,636,8.0,locked,0,Wednesday,596,2018-06-06 09:56:05+00:00,awake
+Still,House,0,False,1528275395,-1.0,636,8.0,locked,0,Wednesday,596,2018-06-06 09:56:35+00:00,awake
+Still,House,0,False,1528275425,-1.0,11721,8.0,not locked,0,Wednesday,597,2018-06-06 09:57:05+00:00,awake
+Still,House,0,False,1528275486,-1.0,146,8.0,locked,0,Wednesday,598,2018-06-06 09:58:06+00:00,awake
+Still,House,0,False,1528275531,-1.0,146,8.0,locked,0,Wednesday,598,2018-06-06 09:58:51+00:00,awake
+Still,House,0,False,1528275564,-1.0,316,8.0,locked,0,Wednesday,599,2018-06-06 09:59:24+00:00,awake
+Still,House,0,False,1528275668,-1.0,316,8.0,locked,0,Wednesday,601,2018-06-06 10:01:08+00:00,awake
+Still,House,0,False,1528275698,-1.0,169,8.0,locked,0,Wednesday,601,2018-06-06 10:01:38+00:00,awake
+Still,House,0,False,1528275775,-1.0,169,8.0,locked,0,Wednesday,602,2018-06-06 10:02:55+00:00,awake
+Still,House,0,False,1528275810,-1.0,201,8.0,locked,0,Wednesday,603,2018-06-06 10:03:30+00:00,awake
+Still,House,0,False,1528275901,-1.0,201,8.0,not locked,0,Wednesday,605,2018-06-06 10:05:01+00:00,awake
+Tilting,House,0,False,1528276043,-1.0,4246,8.0,locked,0,Wednesday,607,2018-06-06 10:07:23+00:00,awake
+Still,House,0,False,1528276103,-1.0,1062,8.0,locked,0,Wednesday,608,2018-06-06 10:08:23+00:00,awake
+Still,House,0,False,1528276290,-1.0,515,0.0,locked,0,Wednesday,611,2018-06-06 10:11:30+00:00,awake
+Still,House,0,False,1528276330,-1.0,6621,0.0,locked,0,Wednesday,612,2018-06-06 10:12:10+00:00,awake
+Still,House,0,False,1528276410,-1.0,6621,8.0,not locked,0,Wednesday,613,2018-06-06 10:13:30+00:00,awake
+Exercise,Other,0,False,1528276440,-1.0,32767,0.0,not locked,0,Wednesday,614,2018-06-06 10:14:00+00:00,awake
+Exercise,Other,0,False,1528276470,-1.0,32767,0.0,not locked,0,Wednesday,614,2018-06-06 10:14:30+00:00,awake
+Exercise,Other,0,False,1528276500,-1.0,17337,0.0,not locked,0,Wednesday,615,2018-06-06 10:15:00+00:00,awake
+Exercise,Other,0,False,1528276563,-1.0,32767,0.0,locked,0,Wednesday,616,2018-06-06 10:16:03+00:00,awake
+Unknown,Other,0,False,1528276629,-1.0,32767,0.0,locked,0,Wednesday,617,2018-06-06 10:17:09+00:00,awake
+Unknown,Other,0,False,1528276659,-1.0,23605,0.0,locked,0,Wednesday,617,2018-06-06 10:17:39+00:00,awake
+In vehicle,Other,0,False,1528276716,-1.0,23605,0.0,locked,0,Wednesday,618,2018-06-06 10:18:36+00:00,awake
+In vehicle,Other,0,False,1528276746,-1.0,22506,0.0,locked,0,Wednesday,619,2018-06-06 10:19:06+00:00,awake
+In vehicle,Other,0,False,1528276798,-1.0,22506,0.0,locked,0,Wednesday,619,2018-06-06 10:19:58+00:00,awake
+Exercise,Other,0,False,1528276918,-1.0,23945,0.0,locked,0,Wednesday,621,2018-06-06 10:21:58+00:00,awake
+Exercise,Other,0,False,1528276948,-1.0,19119,0.0,locked,0,Wednesday,622,2018-06-06 10:22:28+00:00,awake
+Exercise,Other,0,False,1528276978,-1.0,19119,8.0,locked,0,Wednesday,622,2018-06-06 10:22:58+00:00,awake
+Unknown,Other,0,False,1528277009,-1.0,30043,0.0,locked,0,Wednesday,623,2018-06-06 10:23:29+00:00,awake
+Still,Other,0,False,1528277133,-1.0,28079,0.0,locked,0,Wednesday,625,2018-06-06 10:25:33+00:00,awake
+Still,Other,0,False,1528277178,-1.0,28079,0.0,locked,0,Wednesday,626,2018-06-06 10:26:18+00:00,awake
+In vehicle,Other,0,False,1528277471,-1.0,32767,0.0,locked,0,Wednesday,631,2018-06-06 10:31:11+00:00,awake
+In vehicle,Other,0,False,1528277503,-1.0,32767,0.0,locked,0,Wednesday,631,2018-06-06 10:31:43+00:00,awake
+In vehicle,Other,0,False,1528277704,-1.0,11431,0.0,locked,0,Wednesday,635,2018-06-06 10:35:04+00:00,awake
+In vehicle,Other,0,False,1528277764,-1.0,32767,0.0,locked,0,Wednesday,636,2018-06-06 10:36:04+00:00,awake
+In vehicle,Other,0,False,1528278035,-1.0,32767,0.0,locked,0,Wednesday,640,2018-06-06 10:40:35+00:00,awake
+In vehicle,Other,0,False,1528278065,-1.0,16213,0.0,locked,0,Wednesday,641,2018-06-06 10:41:05+00:00,awake
+In vehicle,Other,0,False,1528278258,-1.0,21970,0.0,locked,0,Wednesday,644,2018-06-06 10:44:18+00:00,awake
+In vehicle,Other,0,False,1528278366,-1.0,24362,0.0,locked,0,Wednesday,646,2018-06-06 10:46:06+00:00,awake
+In vehicle,Other,0,False,1528278597,-1.0,18385,0.0,locked,0,Wednesday,649,2018-06-06 10:49:57+00:00,awake
+Unknown,Other,0,False,1528278680,-1.0,23654,0.0,locked,0,Wednesday,651,2018-06-06 10:51:20+00:00,awake
+In vehicle,Other,0,False,1528278847,-1.0,21369,0.0,locked,0,Wednesday,654,2018-06-06 10:54:07+00:00,awake
+In vehicle,Other,0,False,1528278878,-1.0,24640,0.0,locked,0,Wednesday,654,2018-06-06 10:54:38+00:00,awake
+Unknown,Other,0,False,1528279131,-1.0,23571,0.0,locked,0,Wednesday,658,2018-06-06 10:58:51+00:00,awake
+In vehicle,Other,0,False,1528279566,-1.0,28404,0.0,locked,0,Wednesday,666,2018-06-06 11:06:06+00:00,awake
+In vehicle,Other,0,False,1528279599,-1.0,28404,0.0,locked,0,Wednesday,666,2018-06-06 11:06:39+00:00,awake
+In vehicle,Other,0,False,1528279630,-1.0,19442,0.0,locked,0,Wednesday,667,2018-06-06 11:07:10+00:00,awake
+In vehicle,Other,0,False,1528279717,-1.0,20188,0.0,locked,0,Wednesday,668,2018-06-06 11:08:37+00:00,awake
+Still,Other,0,False,1528279760,-1.0,20188,0.0,locked,0,Wednesday,669,2018-06-06 11:09:20+00:00,awake
+Still,Other,0,False,1528279838,-1.0,18795,0.0,locked,0,Wednesday,670,2018-06-06 11:10:38+00:00,awake
+Still,Other,0,False,1528279868,-1.0,12323,0.0,locked,0,Wednesday,671,2018-06-06 11:11:08+00:00,awake
+Still,Other,0,False,1528279916,-1.0,12323,0.0,locked,0,Wednesday,671,2018-06-06 11:11:56+00:00,awake
+Still,Other,0,False,1528279947,-1.0,13003,0.0,locked,0,Wednesday,672,2018-06-06 11:12:27+00:00,awake
+In vehicle,Other,0,False,1528279994,-1.0,13003,0.0,locked,0,Wednesday,673,2018-06-06 11:13:14+00:00,awake
+In vehicle,Other,0,False,1528280079,-1.0,17121,0.0,locked,0,Wednesday,674,2018-06-06 11:14:39+00:00,awake
+Unknown,Other,0,False,1528280202,-1.0,19279,0.0,locked,0,Wednesday,676,2018-06-06 11:16:42+00:00,awake
+Unknown,Other,0,False,1528280310,-1.0,19194,0.0,locked,0,Wednesday,678,2018-06-06 11:18:30+00:00,awake
+Unknown,Other,0,False,1528280386,-1.0,9316,0.0,locked,0,Wednesday,679,2018-06-06 11:19:46+00:00,awake
+In vehicle,Other,0,False,1528280430,-1.0,9316,0.0,locked,0,Wednesday,680,2018-06-06 11:20:30+00:00,awake
+In vehicle,Other,0,False,1528280514,-1.0,25084,0.0,locked,0,Wednesday,681,2018-06-06 11:21:54+00:00,awake
+Unknown,Other,0,False,1528280544,-1.0,32767,0.0,locked,0,Wednesday,682,2018-06-06 11:22:24+00:00,awake
+Exercise,Other,0,False,1528280581,-1.0,32767,8.0,locked,0,Wednesday,683,2018-06-06 11:23:01+00:00,awake
+Exercise,Other,0,False,1528280611,-1.0,32767,0.0,locked,0,Wednesday,683,2018-06-06 11:23:31+00:00,awake
+Exercise,Other,0,False,1528280661,-1.0,32767,0.0,locked,0,Wednesday,684,2018-06-06 11:24:21+00:00,awake
+Exercise,University,0,False,1528280902,-1.0,17175,0.0,locked,0,Wednesday,688,2018-06-06 11:28:22+00:00,awake
+Exercise,University,0,False,1528280932,-1.0,9040,0.0,locked,0,Wednesday,688,2018-06-06 11:28:52+00:00,awake
+Exercise,Other,0,False,1528281022,-1.0,21802,0.0,locked,0,Wednesday,690,2018-06-06 11:30:22+00:00,awake
+Still,University,0,False,1528281082,-1.0,28943,8.0,locked,0,Wednesday,691,2018-06-06 11:31:22+00:00,awake
+Unknown,Other,0,False,1528281094,-1.0,0,8.0,not locked,0,Wednesday,691,2018-06-06 11:31:34+00:00,awake
+Still,University,0,False,1528281223,-1.0,25376,0.0,locked,0,Wednesday,693,2018-06-06 11:33:43+00:00,awake
+Still,Other,0,False,1528281283,-1.0,32767,8.0,not locked,0,Wednesday,694,2018-06-06 11:34:43+00:00,awake
+Still,University,0,False,1528281343,-1.0,3412,8.0,not locked,0,Wednesday,695,2018-06-06 11:35:43+00:00,awake
+Still,University,0,False,1528281403,-1.0,5588,8.0,not locked,0,Wednesday,696,2018-06-06 11:36:43+00:00,awake
+Still,Other,0,False,1528281433,-1.0,3020,8.0,not locked,0,Wednesday,697,2018-06-06 11:37:13+00:00,awake
+Still,Other,0,False,1528281463,-1.0,3020,8.0,not locked,0,Wednesday,697,2018-06-06 11:37:43+00:00,awake
+Still,University,0,False,1528281554,-1.0,32767,0.0,locked,0,Wednesday,699,2018-06-06 11:39:14+00:00,awake
+Still,University,0,False,1528281622,-1.0,30393,8.0,locked,0,Wednesday,700,2018-06-06 11:40:22+00:00,awake
+Still,University,0,False,1528281661,-1.0,30393,8.0,locked,0,Wednesday,701,2018-06-06 11:41:01+00:00,awake
+Still,University,0,False,1528281692,-1.0,32767,8.0,not locked,0,Wednesday,701,2018-06-06 11:41:32+00:00,awake
+Still,Other,0,False,1528281752,-1.0,9391,0.0,locked,0,Wednesday,702,2018-06-06 11:42:32+00:00,awake
+Still,Other,0,False,1528281782,-1.0,9391,0.0,locked,0,Wednesday,703,2018-06-06 11:43:02+00:00,awake
+Still,University,0,False,1528281845,-1.0,25974,8.0,locked,0,Wednesday,704,2018-06-06 11:44:05+00:00,awake
+Still,University,0,False,1528282106,-1.0,32767,0.0,locked,0,Wednesday,708,2018-06-06 11:48:26+00:00,awake
+Still,University,0,False,1528282169,-1.0,12620,0.0,locked,0,Wednesday,709,2018-06-06 11:49:29+00:00,awake
+Still,University,0,False,1528282199,-1.0,12374,0.0,locked,0,Wednesday,709,2018-06-06 11:49:59+00:00,awake
+Still,Other,0,False,1528282319,-1.0,12110,0.0,locked,0,Wednesday,711,2018-06-06 11:51:59+00:00,awake
+Still,Other,0,False,1528282410,-1.0,20902,0.0,locked,0,Wednesday,713,2018-06-06 11:53:30+00:00,awake
+Still,Other,0,False,1528282440,-1.0,29052,8.0,locked,0,Wednesday,714,2018-06-06 11:54:00+00:00,awake
+Still,Other,0,False,1528282470,-1.0,29052,0.0,locked,0,Wednesday,714,2018-06-06 11:54:30+00:00,awake
+Still,Other,0,False,1528282500,-1.0,19497,0.0,locked,0,Wednesday,715,2018-06-06 11:55:00+00:00,awake
+Still,Other,0,False,1528282615,-1.0,19497,0.0,locked,0,Wednesday,716,2018-06-06 11:56:55+00:00,awake
+Still,Other,0,False,1528282645,-1.0,32767,8.0,locked,0,Wednesday,717,2018-06-06 11:57:25+00:00,awake
+Tilting,Other,0,False,1528282715,-1.0,32767,0.0,locked,0,Wednesday,718,2018-06-06 11:58:35+00:00,awake
+Still,Other,0,False,1528282888,-1.0,9052,8.0,not locked,0,Wednesday,721,2018-06-06 12:01:28+00:00,awake
+Still,University,0,False,1528283043,-1.0,31826,8.0,not locked,0,Wednesday,724,2018-06-06 12:04:03+00:00,awake
+Still,University,0,False,1528283073,-1.0,31826,8.0,not locked,0,Wednesday,724,2018-06-06 12:04:33+00:00,awake
+Still,University,0,False,1528283227,-1.0,28576,8.0,not locked,0,Wednesday,727,2018-06-06 12:07:07+00:00,awake
+Tilting,University,0,False,1528283287,-1.0,32767,8.0,not locked,0,Wednesday,728,2018-06-06 12:08:07+00:00,awake
+Still,University,0,False,1528283318,-1.0,31760,8.0,not locked,0,Wednesday,728,2018-06-06 12:08:38+00:00,awake
+Unknown,University,0,False,1528283588,-1.0,32767,8.0,locked,0,Wednesday,733,2018-06-06 12:13:08+00:00,awake
+Still,Other,0,False,1528283618,-1.0,32767,8.0,locked,0,Wednesday,733,2018-06-06 12:13:38+00:00,awake
+Still,University,0,False,1528283679,-1.0,32767,8.0,locked,0,Wednesday,734,2018-06-06 12:14:39+00:00,awake
+Unknown,University,0,False,1528283709,-1.0,32767,8.0,not locked,0,Wednesday,735,2018-06-06 12:15:09+00:00,awake
+Unknown,University,0,False,1528283739,-1.0,32767,8.0,not locked,0,Wednesday,735,2018-06-06 12:15:39+00:00,awake
+Still,University,0,False,1528283769,-1.0,32767,8.0,not locked,0,Wednesday,736,2018-06-06 12:16:09+00:00,awake
+Still,University,0,False,1528283829,-1.0,32767,8.0,not locked,0,Wednesday,737,2018-06-06 12:17:09+00:00,awake
+Still,University,0,False,1528283859,-1.0,10952,8.0,not locked,0,Wednesday,737,2018-06-06 12:17:39+00:00,awake
+Still,University,0,False,1528283889,-1.0,10952,8.0,locked,0,Wednesday,738,2018-06-06 12:18:09+00:00,awake
+Unknown,University,0,False,1528283919,-1.0,20182,8.0,not locked,0,Wednesday,738,2018-06-06 12:18:39+00:00,awake
+In vehicle,University,0,False,1528284070,-1.0,11293,8.0,not locked,0,Wednesday,741,2018-06-06 12:21:10+00:00,awake
+Still,University,0,False,1528284130,-1.0,16816,0.0,not locked,0,Wednesday,742,2018-06-06 12:22:10+00:00,awake
+Still,University,0,False,1528284160,-1.0,12350,0.0,locked,0,Wednesday,742,2018-06-06 12:22:40+00:00,awake
+Still,University,0,False,1528284195,-1.0,12350,0.0,locked,0,Wednesday,743,2018-06-06 12:23:15+00:00,awake
+Still,University,0,False,1528284315,-1.0,25864,8.0,locked,0,Wednesday,745,2018-06-06 12:25:15+00:00,awake
+Still,University,0,False,1528284465,-1.0,20214,0.0,locked,0,Wednesday,747,2018-06-06 12:27:45+00:00,awake
+Still,University,0,False,1528284495,-1.0,20214,0.0,locked,0,Wednesday,748,2018-06-06 12:28:15+00:00,awake
+Still,University,0,False,1528284586,-1.0,11343,0.0,locked,0,Wednesday,749,2018-06-06 12:29:46+00:00,awake
+Still,University,0,False,1528284793,-1.0,16697,0.0,locked,0,Wednesday,753,2018-06-06 12:33:13+00:00,awake
+Still,University,0,False,1528284937,-1.0,16697,0.0,locked,0,Wednesday,755,2018-06-06 12:35:37+00:00,awake
+Still,University,0,False,1528285434,-1.0,20821,0.0,locked,0,Wednesday,763,2018-06-06 12:43:54+00:00,awake
+Unknown,University,0,False,1528285727,-1.0,19038,0.0,locked,0,Wednesday,768,2018-06-06 12:48:47+00:00,awake
+Unknown,University,0,False,1528285758,-1.0,27945,0.0,not locked,0,Wednesday,769,2018-06-06 12:49:18+00:00,awake
+Still,University,0,False,1528285820,-1.0,14603,0.0,locked,0,Wednesday,770,2018-06-06 12:50:20+00:00,awake
+Still,University,0,False,1528285854,-1.0,14603,0.0,locked,0,Wednesday,770,2018-06-06 12:50:54+00:00,awake
+Unknown,University,0,False,1528286023,-1.0,11039,0.0,locked,0,Wednesday,773,2018-06-06 12:53:43+00:00,awake
+Still,Other,0,False,1528286170,-1.0,10210,0.0,locked,0,Wednesday,776,2018-06-06 12:56:10+00:00,awake
+Exercise,Other,0,False,1528286200,-1.0,9630,0.0,locked,0,Wednesday,776,2018-06-06 12:56:40+00:00,awake
+Still,University,0,False,1528286242,-1.0,9630,0.0,locked,0,Wednesday,777,2018-06-06 12:57:22+00:00,awake
+Still,University,0,False,1528286362,-1.0,8826,0.0,locked,0,Wednesday,779,2018-06-06 12:59:22+00:00,awake
+Still,University,0,False,1528286603,-1.0,10813,0.0,locked,0,Wednesday,783,2018-06-06 13:03:23+00:00,awake
+Still,University,0,False,1528286667,-1.0,11544,0.0,locked,0,Wednesday,784,2018-06-06 13:04:27+00:00,awake
+Still,University,0,False,1528286701,-1.0,16836,0.0,locked,0,Wednesday,785,2018-06-06 13:05:01+00:00,awake
+Tilting,University,0,False,1528287072,-1.0,12162,0.0,locked,0,Wednesday,791,2018-06-06 13:11:12+00:00,awake
+Still,University,0,False,1528287109,-1.0,32767,0.0,locked,0,Wednesday,791,2018-06-06 13:11:49+00:00,awake
+Still,University,0,False,1528287305,-1.0,32767,0.0,locked,0,Wednesday,795,2018-06-06 13:15:05+00:00,awake
+Still,University,0,False,1528287365,-1.0,5729,0.0,locked,0,Wednesday,796,2018-06-06 13:16:05+00:00,awake
+Still,University,0,False,1528287492,-1.0,10374,0.0,locked,0,Wednesday,798,2018-06-06 13:18:12+00:00,awake
+Still,University,0,False,1528287680,-1.0,10374,0.0,locked,0,Wednesday,801,2018-06-06 13:21:20+00:00,awake
+Still,Other,0,False,1528287717,-1.0,8337,0.0,locked,0,Wednesday,801,2018-06-06 13:21:57+00:00,awake
+Still,University,0,False,1528287835,-1.0,8337,0.0,locked,0,Wednesday,803,2018-06-06 13:23:55+00:00,awake
+Still,University,0,False,1528287921,-1.0,4155,0.0,locked,0,Wednesday,805,2018-06-06 13:25:21+00:00,awake
+Still,University,0,False,1528287925,-1.0,4155,0.0,locked,0,Wednesday,805,2018-06-06 13:25:25+00:00,awake
+Still,University,0,False,1528287994,-1.0,3614,0.0,locked,0,Wednesday,806,2018-06-06 13:26:34+00:00,awake
+Still,University,0,False,1528288091,-1.0,10083,0.0,locked,0,Wednesday,808,2018-06-06 13:28:11+00:00,awake
+Still,University,0,False,1528288270,-1.0,10083,0.0,locked,0,Wednesday,811,2018-06-06 13:31:10+00:00,awake
+Still,University,0,False,1528288300,-1.0,5187,0.0,locked,0,Wednesday,811,2018-06-06 13:31:40+00:00,awake
+Still,Other,0,False,1528288416,-1.0,5187,0.0,locked,0,Wednesday,813,2018-06-06 13:33:36+00:00,awake
+Still,Other,0,False,1528288449,-1.0,4419,0.0,locked,0,Wednesday,814,2018-06-06 13:34:09+00:00,awake
+Still,University,0,False,1528288696,-1.0,4419,0.0,locked,0,Wednesday,818,2018-06-06 13:38:16+00:00,awake
+Still,Other,0,False,1528288727,-1.0,30992,0.0,locked,0,Wednesday,818,2018-06-06 13:38:47+00:00,awake
+Still,University,0,False,1528289035,-1.0,23063,0.0,locked,0,Wednesday,823,2018-06-06 13:43:55+00:00,awake
+Still,University,0,False,1528289065,-1.0,6319,0.0,locked,0,Wednesday,824,2018-06-06 13:44:25+00:00,awake
+Still,University,0,False,1528289323,-1.0,6319,0.0,locked,0,Wednesday,828,2018-06-06 13:48:43+00:00,awake
+Still,University,0,False,1528289534,-1.0,3374,0.0,locked,0,Wednesday,832,2018-06-06 13:52:14+00:00,awake
+Still,University,0,False,1528289564,-1.0,31431,0.0,locked,0,Wednesday,832,2018-06-06 13:52:44+00:00,awake
+Still,University,0,False,1528289727,-1.0,31431,0.0,locked,0,Wednesday,835,2018-06-06 13:55:27+00:00,awake
+Exercise,University,0,False,1528289757,-1.0,8195,0.0,locked,0,Wednesday,835,2018-06-06 13:55:57+00:00,awake
+Exercise,University,0,False,1528289847,-1.0,26739,0.0,locked,0,Wednesday,837,2018-06-06 13:57:27+00:00,awake
+Exercise,University,0,False,1528289877,-1.0,19770,0.0,locked,0,Wednesday,837,2018-06-06 13:57:57+00:00,awake
+Exercise,University,0,False,1528289907,-1.0,19770,0.0,locked,0,Wednesday,838,2018-06-06 13:58:27+00:00,awake
+Exercise,University,0,False,1528289937,-1.0,24703,0.0,locked,0,Wednesday,838,2018-06-06 13:58:57+00:00,awake
+Exercise,University,0,False,1528289967,-1.0,24703,0.0,locked,0,Wednesday,839,2018-06-06 13:59:27+00:00,awake
+Exercise,Other,0,False,1528290056,-1.0,32767,0.0,locked,0,Wednesday,840,2018-06-06 14:00:56+00:00,awake
+Exercise,Other,0,False,1528290177,-1.0,18906,0.0,locked,0,Wednesday,842,2018-06-06 14:02:57+00:00,awake
+Exercise,Other,0,False,1528290267,-1.0,23562,8.0,not locked,0,Wednesday,844,2018-06-06 14:04:27+00:00,awake
+Exercise,Other,0,False,1528290357,-1.0,32641,8.0,not locked,0,Wednesday,845,2018-06-06 14:05:57+00:00,awake
+Exercise,Other,0,False,1528290508,-1.0,26611,8.0,locked,0,Wednesday,848,2018-06-06 14:08:28+00:00,awake
+Exercise,Other,0,False,1528290689,-1.0,32767,8.0,not locked,0,Wednesday,851,2018-06-06 14:11:29+00:00,awake
+Exercise,Other,0,False,1528290895,-1.0,32767,0.0,locked,0,Wednesday,854,2018-06-06 14:14:55+00:00,awake
+Exercise,Other,0,False,1528290957,-1.0,31443,8.0,locked,0,Wednesday,855,2018-06-06 14:15:57+00:00,awake
+Exercise,Other,0,False,1528290987,-1.0,32767,0.0,locked,0,Wednesday,856,2018-06-06 14:16:27+00:00,awake
+Exercise,Other,0,False,1528291067,-1.0,12488,0.0,locked,0,Wednesday,857,2018-06-06 14:17:47+00:00,awake
+Unknown,Other,0,False,1528291110,-1.0,12488,0.0,locked,0,Wednesday,858,2018-06-06 14:18:30+00:00,awake
+Unknown,Other,0,False,1528291140,-1.0,32767,0.0,locked,0,Wednesday,859,2018-06-06 14:19:00+00:00,awake
+In vehicle,Other,0,False,1528291191,-1.0,32767,0.0,locked,0,Wednesday,859,2018-06-06 14:19:51+00:00,awake
+Exercise,Other,0,False,1528291221,-1.0,22458,0.0,locked,0,Wednesday,860,2018-06-06 14:20:21+00:00,awake
+Exercise,Other,0,False,1528291260,-1.0,22458,0.0,locked,0,Wednesday,861,2018-06-06 14:21:00+00:00,awake
+Exercise,Other,0,False,1528291290,-1.0,32767,0.0,locked,0,Wednesday,861,2018-06-06 14:21:30+00:00,awake
+Still,Other,0,False,1528291342,-1.0,32767,0.0,locked,0,Wednesday,862,2018-06-06 14:22:22+00:00,awake
+Still,Other,0,False,1528291372,-1.0,31852,0.0,locked,0,Wednesday,862,2018-06-06 14:22:52+00:00,awake
+Still,Other,0,False,1528291419,-1.0,31852,0.0,locked,0,Wednesday,863,2018-06-06 14:23:39+00:00,awake
+Unknown,Other,0,False,1528291501,-1.0,32767,0.0,locked,0,Wednesday,865,2018-06-06 14:25:01+00:00,awake
+Still,Other,0,False,1528291531,-1.0,16690,0.0,locked,0,Wednesday,865,2018-06-06 14:25:31+00:00,awake
+Still,Other,0,False,1528291570,-1.0,16690,0.0,locked,0,Wednesday,866,2018-06-06 14:26:10+00:00,awake
+Still,Other,0,False,1528291600,-1.0,29772,0.0,locked,0,Wednesday,866,2018-06-06 14:26:40+00:00,awake
+Unknown,Other,0,False,1528291653,-1.0,29772,0.0,locked,0,Wednesday,867,2018-06-06 14:27:33+00:00,awake
+Still,Other,0,False,1528291683,-1.0,32594,0.0,locked,0,Wednesday,868,2018-06-06 14:28:03+00:00,awake
+Still,Other,0,False,1528291796,-1.0,32767,0.0,locked,0,Wednesday,869,2018-06-06 14:29:56+00:00,awake
+Still,Other,0,False,1528291856,-1.0,9679,0.0,locked,0,Wednesday,870,2018-06-06 14:30:56+00:00,awake
+Exercise,Other,0,False,1528291886,-1.0,9492,0.0,locked,0,Wednesday,871,2018-06-06 14:31:26+00:00,awake
+Unknown,Other,0,False,1528291933,-1.0,9492,0.0,locked,0,Wednesday,872,2018-06-06 14:32:13+00:00,awake
+Still,Other,0,False,1528291968,-1.0,7868,0.0,locked,0,Wednesday,872,2018-06-06 14:32:48+00:00,awake
+Still,Other,0,False,1528292006,-1.0,7868,0.0,locked,0,Wednesday,873,2018-06-06 14:33:26+00:00,awake
+Still,Other,0,False,1528292071,-1.0,15863,0.0,locked,0,Wednesday,874,2018-06-06 14:34:31+00:00,awake
+Exercise,Other,0,False,1528292179,-1.0,28556,0.0,locked,0,Wednesday,876,2018-06-06 14:36:19+00:00,awake
+Still,Other,0,False,1528292390,-1.0,7112,0.0,locked,0,Wednesday,879,2018-06-06 14:39:50+00:00,awake
+Still,Other,0,False,1528292420,-1.0,7112,0.0,locked,0,Wednesday,880,2018-06-06 14:40:20+00:00,awake
+Still,Other,0,False,1528292450,-1.0,3250,0.0,locked,0,Wednesday,880,2018-06-06 14:40:50+00:00,awake
+Still,Other,0,False,1528292484,-1.0,3250,0.0,locked,0,Wednesday,881,2018-06-06 14:41:24+00:00,awake
+Still,Other,0,False,1528292514,-1.0,32767,0.0,locked,0,Wednesday,881,2018-06-06 14:41:54+00:00,awake
+Exercise,Other,0,False,1528292557,-1.0,32767,0.0,locked,0,Wednesday,882,2018-06-06 14:42:37+00:00,awake
+Exercise,Other,0,False,1528292587,-1.0,32767,0.0,locked,0,Wednesday,883,2018-06-06 14:43:07+00:00,awake
+Exercise,Other,0,False,1528292636,-1.0,32767,0.0,locked,0,Wednesday,883,2018-06-06 14:43:56+00:00,awake
+Still,Other,0,False,1528292666,-1.0,32767,0.0,locked,0,Wednesday,884,2018-06-06 14:44:26+00:00,awake
+Still,Other,0,False,1528292696,-1.0,32767,0.0,locked,0,Wednesday,884,2018-06-06 14:44:56+00:00,awake
+Still,Other,0,False,1528292726,-1.0,9103,0.0,locked,0,Wednesday,885,2018-06-06 14:45:26+00:00,awake
+Still,Other,0,False,1528292756,-1.0,9103,0.0,locked,0,Wednesday,885,2018-06-06 14:45:56+00:00,awake
+Still,Other,0,False,1528292786,-1.0,8900,0.0,locked,0,Wednesday,886,2018-06-06 14:46:26+00:00,awake
+Still,Other,0,False,1528292816,-1.0,8900,0.0,locked,0,Wednesday,886,2018-06-06 14:46:56+00:00,awake
+Still,Other,0,False,1528292847,-1.0,12941,0.0,locked,0,Wednesday,887,2018-06-06 14:47:27+00:00,awake
+Still,Other,0,False,1528292887,-1.0,12941,0.0,locked,0,Wednesday,888,2018-06-06 14:48:07+00:00,awake
+Still,Other,0,False,1528292952,-1.0,3739,0.0,locked,0,Wednesday,889,2018-06-06 14:49:12+00:00,awake
+Still,Other,0,False,1528293013,-1.0,5143,0.0,locked,0,Wednesday,890,2018-06-06 14:50:13+00:00,awake
+Unknown,Other,0,False,1528295793,-1.0,0,8.0,locked,0,Wednesday,936,2018-06-06 15:36:33+00:00,awake
+Unknown,Other,0,False,1528295823,-1.0,32767,0.0,locked,0,Wednesday,937,2018-06-06 15:37:03+00:00,awake
+Unknown,Other,0,False,1528295869,-1.0,32767,0.0,locked,0,Wednesday,937,2018-06-06 15:37:49+00:00,awake
+Unknown,Other,0,False,1528295972,-1.0,30840,0.0,locked,0,Wednesday,939,2018-06-06 15:39:32+00:00,awake
+Exercise,Other,0,False,1528296025,-1.0,30840,0.0,locked,0,Wednesday,940,2018-06-06 15:40:25+00:00,awake
+Still,Other,0,False,1528296055,-1.0,32767,8.0,not locked,0,Wednesday,940,2018-06-06 15:40:55+00:00,awake
+Unknown,Other,0,False,1528296085,-1.0,32767,8.0,not locked,0,Wednesday,941,2018-06-06 15:41:25+00:00,awake
+Unknown,Other,0,False,1528296115,-1.0,29243,0.0,not locked,0,Wednesday,941,2018-06-06 15:41:55+00:00,awake
+Still,Other,0,False,1528296153,-1.0,29243,0.0,locked,0,Wednesday,942,2018-06-06 15:42:33+00:00,awake
+Still,Other,0,False,1528296183,-1.0,19027,0.0,locked,0,Wednesday,943,2018-06-06 15:43:03+00:00,awake
+Still,Other,0,False,1528296301,-1.0,11586,0.0,not locked,0,Wednesday,945,2018-06-06 15:45:01+00:00,awake
+Unknown,Other,0,False,1528296331,-1.0,32767,8.0,not locked,0,Wednesday,945,2018-06-06 15:45:31+00:00,awake
+Still,Other,0,False,1528296396,-1.0,29112,8.0,locked,0,Wednesday,946,2018-06-06 15:46:36+00:00,awake
+Still,Other,0,False,1528296426,-1.0,29112,8.0,locked,0,Wednesday,947,2018-06-06 15:47:06+00:00,awake
+Still,Other,0,False,1528296456,-1.0,32767,8.0,locked,0,Wednesday,947,2018-06-06 15:47:36+00:00,awake
+Exercise,Other,0,False,1528296502,-1.0,32767,8.0,locked,0,Wednesday,948,2018-06-06 15:48:22+00:00,awake
+Still,Other,0,False,1528296532,-1.0,32767,8.0,locked,0,Wednesday,948,2018-06-06 15:48:52+00:00,awake
+Still,Other,0,False,1528296570,-1.0,32767,8.0,locked,0,Wednesday,949,2018-06-06 15:49:30+00:00,awake
+Still,Other,0,False,1528296600,-1.0,27269,8.0,locked,0,Wednesday,950,2018-06-06 15:50:00+00:00,awake
+Still,Other,0,False,1528296648,-1.0,27269,8.0,locked,0,Wednesday,950,2018-06-06 15:50:48+00:00,awake
+Unknown,Other,0,False,1528296681,-1.0,28809,8.0,locked,0,Wednesday,951,2018-06-06 15:51:21+00:00,awake
+Still,Other,0,False,1528296744,-1.0,32767,0.0,locked,0,Wednesday,952,2018-06-06 15:52:24+00:00,awake
+Still,Other,0,False,1528296774,-1.0,32767,0.0,locked,0,Wednesday,952,2018-06-06 15:52:54+00:00,awake
+Unknown,Other,0,False,1528296808,-1.0,30772,8.0,locked,0,Wednesday,953,2018-06-06 15:53:28+00:00,awake
+Still,Other,0,False,1528296882,-1.0,23379,8.0,locked,0,Wednesday,954,2018-06-06 15:54:42+00:00,awake
+Still,Other,0,False,1528296917,-1.0,23379,8.0,locked,0,Wednesday,955,2018-06-06 15:55:17+00:00,awake
+Still,University,0,False,1528296947,-1.0,12136,8.0,locked,0,Wednesday,955,2018-06-06 15:55:47+00:00,awake
+Still,Other,0,False,1528296981,-1.0,12136,8.0,locked,0,Wednesday,956,2018-06-06 15:56:21+00:00,awake
+Still,Other,0,False,1528297011,-1.0,26719,8.0,locked,0,Wednesday,956,2018-06-06 15:56:51+00:00,awake
+Exercise,Other,0,False,1528297055,-1.0,26719,8.0,locked,0,Wednesday,957,2018-06-06 15:57:35+00:00,awake
+Exercise,Other,0,False,1528297090,-1.0,25522,8.0,locked,0,Wednesday,958,2018-06-06 15:58:10+00:00,awake
+Still,Other,0,False,1528297123,-1.0,25522,0.0,locked,0,Wednesday,958,2018-06-06 15:58:43+00:00,awake
+Still,Other,0,False,1528297153,-1.0,18798,0.0,locked,0,Wednesday,959,2018-06-06 15:59:13+00:00,awake
+Still,Other,0,False,1528297187,-1.0,18798,0.0,locked,0,Wednesday,959,2018-06-06 15:59:47+00:00,awake
+Still,Other,0,False,1528297217,-1.0,23033,8.0,locked,0,Wednesday,960,2018-06-06 16:00:17+00:00,awake
+Still,Other,0,False,1528297257,-1.0,23033,0.0,locked,0,Wednesday,960,2018-06-06 16:00:57+00:00,awake
+Unknown,Other,0,False,1528297287,-1.0,32767,8.0,locked,0,Wednesday,961,2018-06-06 16:01:27+00:00,awake
+Unknown,Other,0,False,1528297328,-1.0,32767,8.0,locked,0,Wednesday,962,2018-06-06 16:02:08+00:00,awake
+Exercise,Other,0,False,1528297358,-1.0,32767,8.0,locked,0,Wednesday,962,2018-06-06 16:02:38+00:00,awake
+Unknown,Other,0,False,1528297432,-1.0,32767,0.0,locked,0,Wednesday,963,2018-06-06 16:03:52+00:00,awake
+Unknown,Other,0,False,1528297472,-1.0,32767,8.0,locked,0,Wednesday,964,2018-06-06 16:04:32+00:00,awake
+Still,Other,0,False,1528297502,-1.0,25407,8.0,locked,0,Wednesday,965,2018-06-06 16:05:02+00:00,awake
+Still,Other,0,False,1528297532,-1.0,25407,8.0,locked,0,Wednesday,965,2018-06-06 16:05:32+00:00,awake
+Still,Other,0,False,1528297562,-1.0,27577,8.0,locked,0,Wednesday,966,2018-06-06 16:06:02+00:00,awake
+Still,Other,0,False,1528297592,-1.0,27577,8.0,locked,0,Wednesday,966,2018-06-06 16:06:32+00:00,awake
+Unknown,Other,0,False,1528297653,-1.0,32718,0.0,not locked,0,Wednesday,967,2018-06-06 16:07:33+00:00,awake
+Still,Other,0,False,1528297688,-1.0,32767,0.0,locked,0,Wednesday,968,2018-06-06 16:08:08+00:00,awake
+Unknown,Other,0,False,1528297718,-1.0,32767,8.0,locked,0,Wednesday,968,2018-06-06 16:08:38+00:00,awake
+Still,Other,0,False,1528297748,-1.0,32767,8.0,locked,0,Wednesday,969,2018-06-06 16:09:08+00:00,awake
+Unknown,Other,0,False,1528297789,-1.0,32767,0.0,locked,0,Wednesday,969,2018-06-06 16:09:49+00:00,awake
+Still,Other,0,False,1528297820,-1.0,32767,0.0,locked,0,Wednesday,970,2018-06-06 16:10:20+00:00,awake
+Unknown,Other,0,False,1528297855,-1.0,32767,8.0,locked,0,Wednesday,970,2018-06-06 16:10:55+00:00,awake
+Unknown,Other,0,False,1528297933,-1.0,24550,8.0,locked,0,Wednesday,972,2018-06-06 16:12:13+00:00,awake
+Unknown,Other,0,False,1528298006,-1.0,32767,0.0,locked,0,Wednesday,973,2018-06-06 16:13:26+00:00,awake
+Still,Other,0,False,1528298036,-1.0,29709,0.0,locked,0,Wednesday,973,2018-06-06 16:13:56+00:00,awake
+Still,Other,0,False,1528298066,-1.0,29709,0.0,locked,0,Wednesday,974,2018-06-06 16:14:26+00:00,awake
+Exercise,Other,0,False,1528298136,-1.0,25852,0.0,locked,0,Wednesday,975,2018-06-06 16:15:36+00:00,awake
+Exercise,Other,0,False,1528298171,-1.0,22326,0.0,locked,0,Wednesday,976,2018-06-06 16:16:11+00:00,awake
+Unknown,Other,0,False,1528298210,-1.0,22326,0.0,locked,0,Wednesday,976,2018-06-06 16:16:50+00:00,awake
+Unknown,Other,0,False,1528298283,-1.0,26095,0.0,locked,0,Wednesday,978,2018-06-06 16:18:03+00:00,awake
+Still,Other,0,False,1528298314,-1.0,22103,0.0,locked,0,Wednesday,978,2018-06-06 16:18:34+00:00,awake
+Still,Other,0,False,1528298353,-1.0,22103,0.0,locked,0,Wednesday,979,2018-06-06 16:19:13+00:00,awake
+Exercise,Other,0,False,1528298383,-1.0,32767,0.0,locked,0,Wednesday,979,2018-06-06 16:19:43+00:00,awake
+Still,Other,0,False,1528298461,-1.0,31694,0.0,locked,0,Wednesday,981,2018-06-06 16:21:01+00:00,awake
+Still,Other,0,False,1528298500,-1.0,31694,0.0,locked,0,Wednesday,981,2018-06-06 16:21:40+00:00,awake
+Still,Other,0,False,1528298535,-1.0,25075,0.0,locked,0,Wednesday,982,2018-06-06 16:22:15+00:00,awake
+Still,Other,0,False,1528298560,-1.0,25075,8.0,locked,0,Wednesday,982,2018-06-06 16:22:40+00:00,awake
+Still,Other,0,False,1528298590,-1.0,32767,0.0,locked,0,Wednesday,983,2018-06-06 16:23:10+00:00,awake
+Unknown,Other,0,False,1528298637,-1.0,32767,0.0,locked,0,Wednesday,983,2018-06-06 16:23:57+00:00,awake
+Unknown,Other,0,False,1528298667,-1.0,24154,0.0,locked,0,Wednesday,984,2018-06-06 16:24:27+00:00,awake
+Unknown,University,0,False,1528298849,-1.0,24154,0.0,locked,0,Wednesday,987,2018-06-06 16:27:29+00:00,awake
+Exercise,Other,0,False,1528298879,-1.0,17940,0.0,locked,0,Wednesday,987,2018-06-06 16:27:59+00:00,awake
+Exercise,University,0,False,1528298977,-1.0,32767,0.0,not locked,0,Wednesday,989,2018-06-06 16:29:37+00:00,awake
+Exercise,Other,0,False,1528299037,-1.0,32767,8.0,not locked,0,Wednesday,990,2018-06-06 16:30:37+00:00,awake
+Exercise,Other,0,False,1528299067,-1.0,30750,8.0,not locked,0,Wednesday,991,2018-06-06 16:31:07+00:00,awake
+Exercise,Other,0,False,1528299097,-1.0,30750,8.0,not locked,0,Wednesday,991,2018-06-06 16:31:37+00:00,awake
+Exercise,University,0,False,1528299127,-1.0,32767,8.0,not locked,0,Wednesday,992,2018-06-06 16:32:07+00:00,awake
+Exercise,University,0,False,1528299157,-1.0,32767,8.0,not locked,0,Wednesday,992,2018-06-06 16:32:37+00:00,awake
+Exercise,University,0,False,1528299217,-1.0,32767,0.0,locked,0,Wednesday,993,2018-06-06 16:33:37+00:00,awake
+Exercise,University,0,False,1528299247,-1.0,32767,0.0,locked,0,Wednesday,994,2018-06-06 16:34:07+00:00,awake
+Exercise,University,0,False,1528299282,-1.0,32767,0.0,locked,0,Wednesday,994,2018-06-06 16:34:42+00:00,awake
+Exercise,University,0,False,1528299313,-1.0,32767,0.0,locked,0,Wednesday,995,2018-06-06 16:35:13+00:00,awake
+Unknown,University,0,False,1528299351,-1.0,32767,0.0,locked,0,Wednesday,995,2018-06-06 16:35:51+00:00,awake
+Exercise,Other,0,False,1528299381,-1.0,12099,0.0,locked,0,Wednesday,996,2018-06-06 16:36:21+00:00,awake
+Exercise,University,0,False,1528299411,-1.0,12099,0.0,locked,0,Wednesday,996,2018-06-06 16:36:51+00:00,awake
+Exercise,University,0,False,1528299441,-1.0,32767,8.0,locked,0,Wednesday,997,2018-06-06 16:37:21+00:00,awake
+Exercise,University,0,False,1528299471,-1.0,32767,0.0,locked,0,Wednesday,997,2018-06-06 16:37:51+00:00,awake
+Exercise,University,0,False,1528299501,-1.0,18577,0.0,locked,0,Wednesday,998,2018-06-06 16:38:21+00:00,awake
+Exercise,Other,0,False,1528299532,-1.0,18577,0.0,locked,0,Wednesday,998,2018-06-06 16:38:52+00:00,awake
+Exercise,Other,0,False,1528299562,-1.0,32767,0.0,locked,0,Wednesday,999,2018-06-06 16:39:22+00:00,awake
+Exercise,Other,0,False,1528299592,-1.0,32767,0.0,locked,0,Wednesday,999,2018-06-06 16:39:52+00:00,awake
+Exercise,University,0,False,1528299622,-1.0,21682,0.0,locked,0,Wednesday,1000,2018-06-06 16:40:22+00:00,awake
+Exercise,Other,0,False,1528299652,-1.0,21682,0.0,locked,0,Wednesday,1000,2018-06-06 16:40:52+00:00,awake
+Unknown,University,0,False,1528299682,-1.0,17912,0.0,locked,0,Wednesday,1001,2018-06-06 16:41:22+00:00,awake
+Unknown,Other,0,False,1528299712,-1.0,17912,0.0,locked,0,Wednesday,1001,2018-06-06 16:41:52+00:00,awake
+Unknown,Other,0,False,1528299742,-1.0,19625,0.0,locked,0,Wednesday,1002,2018-06-06 16:42:22+00:00,awake
+Still,Other,0,False,1528299795,-1.0,19625,0.0,locked,0,Wednesday,1003,2018-06-06 16:43:15+00:00,awake
+Unknown,Other,0,False,1528299825,-1.0,19623,0.0,locked,0,Wednesday,1003,2018-06-06 16:43:45+00:00,awake
+Still,Other,0,False,1528299859,-1.0,19623,0.0,locked,0,Wednesday,1004,2018-06-06 16:44:19+00:00,awake
+Still,Other,0,False,1528299939,-1.0,24426,0.0,locked,0,Wednesday,1005,2018-06-06 16:45:39+00:00,awake
+Still,Other,0,False,1528299970,-1.0,16470,0.0,locked,0,Wednesday,1006,2018-06-06 16:46:10+00:00,awake
+Still,Other,0,False,1528300000,-1.0,16470,0.0,locked,0,Wednesday,1006,2018-06-06 16:46:40+00:00,awake
+Still,Other,0,False,1528300030,-1.0,23780,0.0,locked,0,Wednesday,1007,2018-06-06 16:47:10+00:00,awake
+Still,Other,0,False,1528300060,-1.0,23780,0.0,locked,0,Wednesday,1007,2018-06-06 16:47:40+00:00,awake
+Still,Other,0,False,1528300090,-1.0,15473,0.0,locked,0,Wednesday,1008,2018-06-06 16:48:10+00:00,awake
+Unknown,Other,0,False,1528300155,-1.0,19912,0.0,locked,0,Wednesday,1009,2018-06-06 16:49:15+00:00,awake
+Unknown,Other,0,False,1528300224,-1.0,32767,8.0,locked,0,Wednesday,1010,2018-06-06 16:50:24+00:00,awake
+Still,Other,0,False,1528300254,-1.0,32767,8.0,not locked,0,Wednesday,1010,2018-06-06 16:50:54+00:00,awake
+Unknown,Other,0,False,1528300314,-1.0,32767,0.0,not locked,0,Wednesday,1011,2018-06-06 16:51:54+00:00,awake
+Unknown,Other,0,False,1528300321,-1.0,0,8.0,not locked,0,Wednesday,1012,2018-06-06 16:52:01+00:00,awake
+Exercise,Other,0,False,1528300351,-1.0,27333,8.0,locked,0,Wednesday,1012,2018-06-06 16:52:31+00:00,awake
+Unknown,Other,0,False,1528300392,-1.0,27333,0.0,not locked,0,Wednesday,1013,2018-06-06 16:53:12+00:00,awake
+Unknown,Other,0,False,1528300422,-1.0,32767,0.0,locked,0,Wednesday,1013,2018-06-06 16:53:42+00:00,awake
+Still,Other,0,False,1528300467,-1.0,32767,8.0,locked,0,Wednesday,1014,2018-06-06 16:54:27+00:00,awake
+Still,Other,0,False,1528300497,-1.0,27743,8.0,locked,0,Wednesday,1014,2018-06-06 16:54:57+00:00,awake
+Still,Other,0,False,1528300531,-1.0,27743,0.0,not locked,0,Wednesday,1015,2018-06-06 16:55:31+00:00,awake
+Unknown,Other,0,False,1528301193,-1.0,0,0.0,locked,0,Wednesday,1026,2018-06-06 17:06:33+00:00,awake
+Unknown,Other,0,False,1528301223,-1.0,27381,0.0,locked,0,Wednesday,1027,2018-06-06 17:07:03+00:00,awake
+Still,Other,0,False,1528301528,-1.0,32767,8.0,locked,0,Wednesday,1032,2018-06-06 17:12:08+00:00,awake
+Still,Other,0,False,1528301623,-1.0,32767,8.0,locked,0,Wednesday,1033,2018-06-06 17:13:43+00:00,awake
+Still,Other,0,False,1528301653,-1.0,32767,8.0,locked,0,Wednesday,1034,2018-06-06 17:14:13+00:00,awake
+Tilting,Other,0,False,1528301791,-1.0,32767,0.0,locked,0,Wednesday,1036,2018-06-06 17:16:31+00:00,awake
+Still,Other,0,False,1528301821,-1.0,27481,0.0,locked,0,Wednesday,1037,2018-06-06 17:17:01+00:00,awake
+Still,Other,0,False,1528301872,-1.0,27481,0.0,locked,0,Wednesday,1037,2018-06-06 17:17:52+00:00,awake
+Unknown,Other,0,False,1528301902,-1.0,23584,0.0,locked,0,Wednesday,1038,2018-06-06 17:18:22+00:00,awake
+Unknown,Other,0,False,1528301941,-1.0,23584,0.0,locked,0,Wednesday,1039,2018-06-06 17:19:01+00:00,awake
+Exercise,Other,0,False,1528301971,-1.0,23197,0.0,locked,0,Wednesday,1039,2018-06-06 17:19:31+00:00,awake
+Still,Other,0,False,1528302014,-1.0,23197,0.0,locked,0,Wednesday,1040,2018-06-06 17:20:14+00:00,awake
+Still,Other,0,False,1528302045,-1.0,17186,0.0,locked,0,Wednesday,1040,2018-06-06 17:20:45+00:00,awake
+Exercise,Other,0,False,1528302082,-1.0,17186,0.0,locked,0,Wednesday,1041,2018-06-06 17:21:22+00:00,awake
+Exercise,Other,0,False,1528302152,-1.0,21490,0.0,locked,0,Wednesday,1042,2018-06-06 17:22:32+00:00,awake
+Exercise,Other,0,False,1528302182,-1.0,19318,0.0,locked,0,Wednesday,1043,2018-06-06 17:23:02+00:00,awake
+Unknown,University,0,False,1528302227,-1.0,19318,0.0,locked,0,Wednesday,1043,2018-06-06 17:23:47+00:00,awake
+Exercise,University,0,False,1528302257,-1.0,16800,0.0,locked,0,Wednesday,1044,2018-06-06 17:24:17+00:00,awake
+Exercise,University,0,False,1528302287,-1.0,16800,0.0,locked,0,Wednesday,1044,2018-06-06 17:24:47+00:00,awake
+Exercise,Other,0,False,1528302382,-1.0,17677,0.0,locked,0,Wednesday,1046,2018-06-06 17:26:22+00:00,awake
+Exercise,Other,0,False,1528302412,-1.0,17677,0.0,locked,0,Wednesday,1046,2018-06-06 17:26:52+00:00,awake
+Exercise,Other,0,False,1528302442,-1.0,23276,0.0,locked,0,Wednesday,1047,2018-06-06 17:27:22+00:00,awake
+Exercise,Other,0,False,1528302472,-1.0,23276,0.0,locked,0,Wednesday,1047,2018-06-06 17:27:52+00:00,awake
+Unknown,Other,0,False,1528302502,-1.0,32151,0.0,locked,0,Wednesday,1048,2018-06-06 17:28:22+00:00,awake
+Still,Other,0,False,1528302558,-1.0,32151,0.0,locked,0,Wednesday,1049,2018-06-06 17:29:18+00:00,awake
+Still,Other,0,False,1528302589,-1.0,32767,0.0,locked,0,Wednesday,1049,2018-06-06 17:29:49+00:00,awake
+Unknown,Other,0,False,1528302666,-1.0,21116,0.0,locked,0,Wednesday,1051,2018-06-06 17:31:06+00:00,awake
+Still,Other,0,False,1528302723,-1.0,21116,0.0,locked,0,Wednesday,1052,2018-06-06 17:32:03+00:00,awake
+Still,Other,0,False,1528302753,-1.0,14226,0.0,locked,0,Wednesday,1052,2018-06-06 17:32:33+00:00,awake
+Unknown,Other,0,False,1528302831,-1.0,13848,0.0,locked,0,Wednesday,1053,2018-06-06 17:33:51+00:00,awake
+Exercise,Other,0,False,1528302873,-1.0,13848,0.0,locked,0,Wednesday,1054,2018-06-06 17:34:33+00:00,awake
+Exercise,Other,0,False,1528302903,-1.0,12475,0.0,locked,0,Wednesday,1055,2018-06-06 17:35:03+00:00,awake
+Exercise,Other,0,False,1528302933,-1.0,12475,0.0,locked,0,Wednesday,1055,2018-06-06 17:35:33+00:00,awake
+Exercise,Other,0,False,1528302963,-1.0,21177,0.0,locked,0,Wednesday,1056,2018-06-06 17:36:03+00:00,awake
+Exercise,University,0,False,1528302993,-1.0,21177,0.0,locked,0,Wednesday,1056,2018-06-06 17:36:33+00:00,awake
+Exercise,University,0,False,1528303023,-1.0,12400,0.0,locked,0,Wednesday,1057,2018-06-06 17:37:03+00:00,awake
+Exercise,University,0,False,1528303053,-1.0,12400,0.0,locked,0,Wednesday,1057,2018-06-06 17:37:33+00:00,awake
+Exercise,University,0,False,1528303083,-1.0,7415,0.0,locked,0,Wednesday,1058,2018-06-06 17:38:03+00:00,awake
+Exercise,University,0,False,1528303113,-1.0,7415,0.0,locked,0,Wednesday,1058,2018-06-06 17:38:33+00:00,awake
+Exercise,University,0,False,1528303144,-1.0,9755,0.0,locked,0,Wednesday,1059,2018-06-06 17:39:04+00:00,awake
+Exercise,University,0,False,1528303204,-1.0,7885,0.0,locked,0,Wednesday,1060,2018-06-06 17:40:04+00:00,awake
+Exercise,Other,0,False,1528303234,-1.0,7885,0.0,locked,0,Wednesday,1060,2018-06-06 17:40:34+00:00,awake
+Exercise,Other,0,False,1528303264,-1.0,4053,0.0,locked,0,Wednesday,1061,2018-06-06 17:41:04+00:00,awake
+Exercise,Other,0,False,1528303294,-1.0,4053,0.0,locked,0,Wednesday,1061,2018-06-06 17:41:34+00:00,awake
+Unknown,Other,0,False,1528303324,-1.0,17761,0.0,locked,0,Wednesday,1062,2018-06-06 17:42:04+00:00,awake
+Exercise,Other,0,False,1528303354,-1.0,17761,0.0,locked,0,Wednesday,1062,2018-06-06 17:42:34+00:00,awake
+Exercise,Other,0,False,1528303384,-1.0,8007,0.0,locked,0,Wednesday,1063,2018-06-06 17:43:04+00:00,awake
+Exercise,University,0,False,1528303414,-1.0,8007,0.0,locked,0,Wednesday,1063,2018-06-06 17:43:34+00:00,awake
+Exercise,University,0,False,1528303444,-1.0,7088,0.0,locked,0,Wednesday,1064,2018-06-06 17:44:04+00:00,awake
+Exercise,University,0,False,1528303479,-1.0,7088,0.0,locked,0,Wednesday,1064,2018-06-06 17:44:39+00:00,awake
+Exercise,University,0,False,1528303509,-1.0,6622,0.0,locked,0,Wednesday,1065,2018-06-06 17:45:09+00:00,awake
+Exercise,University,0,False,1528303539,-1.0,6622,0.0,locked,0,Wednesday,1065,2018-06-06 17:45:39+00:00,awake
+Unknown,University,0,False,1528303569,-1.0,32640,0.0,locked,0,Wednesday,1066,2018-06-06 17:46:09+00:00,awake
+Unknown,Other,0,False,1528303616,-1.0,32640,0.0,locked,0,Wednesday,1066,2018-06-06 17:46:56+00:00,awake
+Unknown,University,0,False,1528303646,-1.0,9643,0.0,locked,0,Wednesday,1067,2018-06-06 17:47:26+00:00,awake
+Unknown,University,0,False,1528303724,-1.0,14075,0.0,locked,0,Wednesday,1068,2018-06-06 17:48:44+00:00,awake
+Unknown,University,0,False,1528303777,-1.0,14075,0.0,locked,0,Wednesday,1069,2018-06-06 17:49:37+00:00,awake
+Exercise,University,0,False,1528303807,-1.0,11593,0.0,locked,0,Wednesday,1070,2018-06-06 17:50:07+00:00,awake
+Unknown,University,0,False,1528303859,-1.0,11593,0.0,locked,0,Wednesday,1070,2018-06-06 17:50:59+00:00,awake
+Unknown,University,0,False,1528303889,-1.0,17912,0.0,locked,0,Wednesday,1071,2018-06-06 17:51:29+00:00,awake
+Exercise,University,0,False,1528303928,-1.0,17912,0.0,locked,0,Wednesday,1072,2018-06-06 17:52:08+00:00,awake
+Exercise,University,0,False,1528303958,-1.0,7163,0.0,locked,0,Wednesday,1072,2018-06-06 17:52:38+00:00,awake
+Exercise,Other,0,False,1528303988,-1.0,7163,0.0,locked,0,Wednesday,1073,2018-06-06 17:53:08+00:00,awake
+Exercise,University,0,False,1528304018,-1.0,9163,0.0,locked,0,Wednesday,1073,2018-06-06 17:53:38+00:00,awake
+Exercise,Other,0,False,1528304048,-1.0,9163,0.0,locked,0,Wednesday,1074,2018-06-06 17:54:08+00:00,awake
+Exercise,University,0,False,1528304109,-1.0,5980,0.0,locked,0,Wednesday,1075,2018-06-06 17:55:09+00:00,awake
+Exercise,University,0,False,1528304139,-1.0,8158,0.0,locked,0,Wednesday,1075,2018-06-06 17:55:39+00:00,awake
+Exercise,University,0,False,1528304169,-1.0,8158,0.0,locked,0,Wednesday,1076,2018-06-06 17:56:09+00:00,awake
+Exercise,University,0,False,1528304199,-1.0,21859,0.0,locked,0,Wednesday,1076,2018-06-06 17:56:39+00:00,awake
+Exercise,University,0,False,1528304230,-1.0,21859,0.0,locked,0,Wednesday,1077,2018-06-06 17:57:10+00:00,awake
+Unknown,University,0,False,1528304261,-1.0,10310,0.0,locked,0,Wednesday,1077,2018-06-06 17:57:41+00:00,awake
+Exercise,Other,0,False,1528304298,-1.0,10310,0.0,locked,0,Wednesday,1078,2018-06-06 17:58:18+00:00,awake
+Still,Other,0,False,1528304328,-1.0,4747,0.0,locked,0,Wednesday,1078,2018-06-06 17:58:48+00:00,awake
+Unknown,Other,0,False,1528304404,-1.0,6017,0.0,locked,0,Wednesday,1080,2018-06-06 18:00:04+00:00,awake
+Still,University,0,False,1528304440,-1.0,6017,0.0,locked,0,Wednesday,1080,2018-06-06 18:00:40+00:00,awake
+Still,University,0,False,1528304471,-1.0,5199,0.0,locked,0,Wednesday,1081,2018-06-06 18:01:11+00:00,awake
+Still,University,0,False,1528304514,-1.0,5199,0.0,locked,0,Wednesday,1081,2018-06-06 18:01:54+00:00,awake
+Unknown,University,0,False,1528304544,-1.0,10298,0.0,locked,0,Wednesday,1082,2018-06-06 18:02:24+00:00,awake
+Still,University,0,False,1528304579,-1.0,10298,0.0,locked,0,Wednesday,1082,2018-06-06 18:02:59+00:00,awake
+Still,University,0,False,1528304609,-1.0,11556,0.0,locked,0,Wednesday,1083,2018-06-06 18:03:29+00:00,awake
+Still,Other,0,False,1528304669,-1.0,2706,0.0,locked,0,Wednesday,1084,2018-06-06 18:04:29+00:00,awake
+Still,Other,0,False,1528304699,-1.0,2706,0.0,locked,0,Wednesday,1084,2018-06-06 18:04:59+00:00,awake
+Still,University,0,False,1528304729,-1.0,21873,0.0,locked,0,Wednesday,1085,2018-06-06 18:05:29+00:00,awake
+Still,University,0,False,1528304759,-1.0,21873,0.0,locked,0,Wednesday,1085,2018-06-06 18:05:59+00:00,awake
+Still,University,0,False,1528304789,-1.0,2643,0.0,locked,0,Wednesday,1086,2018-06-06 18:06:29+00:00,awake
+Still,University,0,False,1528304850,-1.0,1850,0.0,locked,0,Wednesday,1087,2018-06-06 18:07:30+00:00,awake
+Still,University,0,False,1528304880,-1.0,1850,0.0,locked,0,Wednesday,1088,2018-06-06 18:08:00+00:00,awake
+Still,University,0,False,1528304910,-1.0,1627,0.0,locked,0,Wednesday,1088,2018-06-06 18:08:30+00:00,awake
+Still,Other,0,False,1528304940,-1.0,1627,0.0,locked,0,Wednesday,1089,2018-06-06 18:09:00+00:00,awake
+Still,Other,0,False,1528304970,-1.0,23149,0.0,locked,0,Wednesday,1089,2018-06-06 18:09:30+00:00,awake
+Unknown,Other,0,False,1528305004,-1.0,23149,0.0,locked,0,Wednesday,1090,2018-06-06 18:10:04+00:00,awake
+Still,University,0,False,1528305034,-1.0,1699,0.0,locked,0,Wednesday,1090,2018-06-06 18:10:34+00:00,awake
+Unknown,University,0,False,1528305064,-1.0,1699,0.0,locked,0,Wednesday,1091,2018-06-06 18:11:04+00:00,awake
+Still,University,0,False,1528305095,-1.0,2631,0.0,locked,0,Wednesday,1091,2018-06-06 18:11:35+00:00,awake
+Still,University,0,False,1528305134,-1.0,2631,0.0,locked,0,Wednesday,1092,2018-06-06 18:12:14+00:00,awake
+Still,University,0,False,1528305164,-1.0,1888,0.0,locked,0,Wednesday,1092,2018-06-06 18:12:44+00:00,awake
+Still,University,0,False,1528305197,-1.0,1888,0.0,locked,0,Wednesday,1093,2018-06-06 18:13:17+00:00,awake
+Unknown,University,0,False,1528305232,-1.0,19131,0.0,locked,0,Wednesday,1093,2018-06-06 18:13:52+00:00,awake
+Still,Other,0,False,1528305265,-1.0,19131,0.0,locked,0,Wednesday,1094,2018-06-06 18:14:25+00:00,awake
+Still,Other,0,False,1528305295,-1.0,20625,0.0,locked,0,Wednesday,1094,2018-06-06 18:14:55+00:00,awake
+Unknown,Other,0,False,1528305330,-1.0,20625,0.0,locked,0,Wednesday,1095,2018-06-06 18:15:30+00:00,awake
+Still,University,0,False,1528305360,-1.0,2112,0.0,locked,0,Wednesday,1096,2018-06-06 18:16:00+00:00,awake
+Still,University,0,False,1528305431,-1.0,9969,0.0,locked,0,Wednesday,1097,2018-06-06 18:17:11+00:00,awake
+Still,Other,0,False,1528305521,-1.0,1850,0.0,locked,0,Wednesday,1098,2018-06-06 18:18:41+00:00,awake
+Still,Other,0,False,1528305552,-1.0,1976,0.0,locked,0,Wednesday,1099,2018-06-06 18:19:12+00:00,awake
+Still,Other,0,False,1528305582,-1.0,1976,0.0,locked,0,Wednesday,1099,2018-06-06 18:19:42+00:00,awake
+Still,Other,0,False,1528305642,-1.0,3373,0.0,locked,0,Wednesday,1100,2018-06-06 18:20:42+00:00,awake
+Still,University,0,False,1528305672,-1.0,1686,0.0,locked,0,Wednesday,1101,2018-06-06 18:21:12+00:00,awake
+Still,University,0,False,1528305702,-1.0,1686,0.0,locked,0,Wednesday,1101,2018-06-06 18:21:42+00:00,awake
+Still,University,0,False,1528305762,-1.0,26592,0.0,locked,0,Wednesday,1102,2018-06-06 18:22:42+00:00,awake
+Still,University,0,False,1528305792,-1.0,3412,0.0,locked,0,Wednesday,1103,2018-06-06 18:23:12+00:00,awake
+Still,University,0,False,1528305822,-1.0,3412,0.0,locked,0,Wednesday,1103,2018-06-06 18:23:42+00:00,awake
+Still,University,0,False,1528305853,-1.0,1939,0.0,locked,0,Wednesday,1104,2018-06-06 18:24:13+00:00,awake
+Still,University,0,False,1528306130,-1.0,3323,0.0,locked,0,Wednesday,1108,2018-06-06 18:28:50+00:00,awake
+Still,University,0,False,1528306160,-1.0,4972,0.0,locked,0,Wednesday,1109,2018-06-06 18:29:20+00:00,awake
+Still,Other,0,False,1528306294,-1.0,4972,0.0,locked,0,Wednesday,1111,2018-06-06 18:31:34+00:00,awake
+Still,Other,0,False,1528306339,-1.0,11519,0.0,locked,0,Wednesday,1112,2018-06-06 18:32:19+00:00,awake
+Still,University,0,False,1528306499,-1.0,11519,0.0,locked,0,Wednesday,1114,2018-06-06 18:34:59+00:00,awake
+Still,University,0,False,1528306530,-1.0,4784,0.0,locked,0,Wednesday,1115,2018-06-06 18:35:30+00:00,awake
+Still,University,0,False,1528307055,-1.0,1020,0.0,locked,0,Wednesday,1124,2018-06-06 18:44:15+00:00,awake
+Still,Other,0,False,1528307085,-1.0,2819,0.0,locked,0,Wednesday,1124,2018-06-06 18:44:45+00:00,awake
+Still,Other,0,False,1528307229,-1.0,2819,0.0,locked,0,Wednesday,1127,2018-06-06 18:47:09+00:00,awake
+Still,University,0,False,1528307591,-1.0,2410,0.0,locked,0,Wednesday,1133,2018-06-06 18:53:11+00:00,awake
+Tilting,University,0,False,1528308258,-1.0,3462,0.0,locked,0,Wednesday,1144,2018-06-06 19:04:18+00:00,awake
+Unknown,Other,0,False,1528308288,-1.0,4758,0.0,locked,0,Wednesday,1144,2018-06-06 19:04:48+00:00,awake
+Still,Other,0,False,1528308334,-1.0,4758,0.0,locked,0,Wednesday,1145,2018-06-06 19:05:34+00:00,awake
+Still,Other,0,False,1528308364,-1.0,7289,0.0,locked,0,Wednesday,1146,2018-06-06 19:06:04+00:00,awake
+Still,Other,0,False,1528308403,-1.0,7289,0.0,locked,0,Wednesday,1146,2018-06-06 19:06:43+00:00,awake
+Still,Other,0,False,1528308433,-1.0,3135,0.0,locked,0,Wednesday,1147,2018-06-06 19:07:13+00:00,awake
+Unknown,Other,0,False,1528308485,-1.0,3135,0.0,locked,0,Wednesday,1148,2018-06-06 19:08:05+00:00,awake
+Still,Other,0,False,1528308550,-1.0,18567,0.0,locked,0,Wednesday,1149,2018-06-06 19:09:10+00:00,awake
+Unknown,University,0,False,1528308581,-1.0,32767,0.0,locked,0,Wednesday,1149,2018-06-06 19:09:41+00:00,awake
+Still,Other,0,False,1528308611,-1.0,32767,0.0,locked,0,Wednesday,1150,2018-06-06 19:10:11+00:00,awake
+Still,Other,0,False,1528308713,-1.0,32767,0.0,locked,0,Wednesday,1151,2018-06-06 19:11:53+00:00,awake
+Unknown,Other,0,False,1528308751,-1.0,32767,0.0,locked,0,Wednesday,1152,2018-06-06 19:12:31+00:00,awake
+Unknown,University,0,False,1528308782,-1.0,3159,0.0,locked,0,Wednesday,1153,2018-06-06 19:13:02+00:00,awake
+Still,University,0,False,1528308816,-1.0,3159,0.0,locked,0,Wednesday,1153,2018-06-06 19:13:36+00:00,awake
+Still,University,0,False,1528308846,-1.0,4041,0.0,locked,0,Wednesday,1154,2018-06-06 19:14:06+00:00,awake
+Unknown,University,0,False,1528308894,-1.0,4041,0.0,locked,0,Wednesday,1154,2018-06-06 19:14:54+00:00,awake
+Unknown,University,0,False,1528308925,-1.0,11204,0.0,locked,0,Wednesday,1155,2018-06-06 19:15:25+00:00,awake
+Exercise,University,0,False,1528308955,-1.0,11204,0.0,locked,0,Wednesday,1155,2018-06-06 19:15:55+00:00,awake
+Exercise,Other,0,False,1528308985,-1.0,32767,0.0,locked,0,Wednesday,1156,2018-06-06 19:16:25+00:00,awake
+Still,Other,0,False,1528309029,-1.0,32767,0.0,locked,0,Wednesday,1157,2018-06-06 19:17:09+00:00,awake
+Still,Other,0,False,1528309059,-1.0,26726,0.0,locked,0,Wednesday,1157,2018-06-06 19:17:39+00:00,awake
+Unknown,University,0,False,1528309117,-1.0,26726,0.0,locked,0,Wednesday,1158,2018-06-06 19:18:37+00:00,awake
+Still,University,0,False,1528309189,-1.0,32767,0.0,locked,0,Wednesday,1159,2018-06-06 19:19:49+00:00,awake
+Exercise,University,0,False,1528309318,-1.0,32767,0.0,locked,0,Wednesday,1161,2018-06-06 19:21:58+00:00,awake
+Exercise,Other,0,False,1528309348,-1.0,31921,0.0,locked,0,Wednesday,1162,2018-06-06 19:22:28+00:00,awake
+In vehicle,Other,0,False,1528309380,-1.0,31921,0.0,locked,0,Wednesday,1163,2018-06-06 19:23:00+00:00,awake
+Unknown,University,0,False,1528309540,-1.0,6193,0.0,locked,0,Wednesday,1165,2018-06-06 19:25:40+00:00,awake
+Exercise,University,0,False,1528309579,-1.0,6193,0.0,locked,0,Wednesday,1166,2018-06-06 19:26:19+00:00,awake
+Exercise,University,0,False,1528309645,-1.0,19164,0.0,locked,0,Wednesday,1167,2018-06-06 19:27:25+00:00,awake
+Unknown,University,0,False,1528309709,-1.0,25067,0.0,locked,0,Wednesday,1168,2018-06-06 19:28:29+00:00,awake
+Exercise,University,0,False,1528310081,-1.0,32767,0.0,locked,0,Wednesday,1174,2018-06-06 19:34:41+00:00,awake
+Unknown,University,0,False,1528310175,-1.0,7289,0.0,locked,0,Wednesday,1176,2018-06-06 19:36:15+00:00,awake
+Unknown,University,0,False,1528310205,-1.0,4986,0.0,locked,0,Wednesday,1176,2018-06-06 19:36:45+00:00,awake
+Unknown,Other,0,False,1528310349,-1.0,6585,0.0,locked,0,Wednesday,1179,2018-06-06 19:39:09+00:00,awake
+Unknown,Other,0,False,1528310414,-1.0,10311,0.0,locked,0,Wednesday,1180,2018-06-06 19:40:14+00:00,awake
+Exercise,Other,0,False,1528310492,-1.0,28421,0.0,locked,0,Wednesday,1181,2018-06-06 19:41:32+00:00,awake
+Exercise,University,0,False,1528310526,-1.0,28421,0.0,locked,0,Wednesday,1182,2018-06-06 19:42:06+00:00,awake
+Still,University,0,False,1528310556,-1.0,32767,0.0,locked,0,Wednesday,1182,2018-06-06 19:42:36+00:00,awake
+Still,Other,0,False,1528310684,-1.0,17050,0.0,locked,0,Wednesday,1184,2018-06-06 19:44:44+00:00,awake
+Still,Other,0,False,1528310714,-1.0,17050,0.0,locked,0,Wednesday,1185,2018-06-06 19:45:14+00:00,awake
+Still,Other,0,False,1528310744,-1.0,3737,0.0,locked,0,Wednesday,1185,2018-06-06 19:45:44+00:00,awake
+Still,Other,0,False,1528310804,-1.0,7994,0.0,locked,0,Wednesday,1186,2018-06-06 19:46:44+00:00,awake
+Still,Other,0,False,1528310834,-1.0,7994,0.0,locked,0,Wednesday,1187,2018-06-06 19:47:14+00:00,awake
+Still,Other,0,False,1528310894,-1.0,5035,0.0,locked,0,Wednesday,1188,2018-06-06 19:48:14+00:00,awake
+Still,University,0,False,1528310925,-1.0,3176,0.0,locked,0,Wednesday,1188,2018-06-06 19:48:45+00:00,awake
+Still,Other,0,False,1528311400,-1.0,5570,0.0,locked,0,Wednesday,1196,2018-06-06 19:56:40+00:00,awake
+Still,University,0,False,1528311741,-1.0,32767,0.0,locked,0,Wednesday,1202,2018-06-06 20:02:21+00:00,awake
+Tilting,Other,0,False,1528311824,-1.0,13937,0.0,locked,0,Wednesday,1203,2018-06-06 20:03:44+00:00,awake
+Still,University,0,False,1528311854,-1.0,32767,0.0,locked,0,Wednesday,1204,2018-06-06 20:04:14+00:00,awake
+Unknown,University,0,False,1528311906,-1.0,32767,0.0,locked,0,Wednesday,1205,2018-06-06 20:05:06+00:00,awake
+Still,University,0,False,1528311936,-1.0,10781,0.0,locked,0,Wednesday,1205,2018-06-06 20:05:36+00:00,awake
+Exercise,University,0,False,1528311981,-1.0,10781,0.0,locked,0,Wednesday,1206,2018-06-06 20:06:21+00:00,awake
+Exercise,University,0,False,1528312012,-1.0,32220,0.0,locked,0,Wednesday,1206,2018-06-06 20:06:52+00:00,awake
+Still,Other,0,False,1528312046,-1.0,32220,0.0,locked,0,Wednesday,1207,2018-06-06 20:07:26+00:00,awake
+Still,Other,0,False,1528312076,-1.0,12552,0.0,locked,0,Wednesday,1207,2018-06-06 20:07:56+00:00,awake
+Still,Other,0,False,1528312106,-1.0,12552,0.0,locked,0,Wednesday,1208,2018-06-06 20:08:26+00:00,awake
+Still,Other,0,False,1528312137,-1.0,8384,0.0,locked,0,Wednesday,1208,2018-06-06 20:08:57+00:00,awake
+Still,Other,0,False,1528312167,-1.0,8384,0.0,locked,0,Wednesday,1209,2018-06-06 20:09:27+00:00,awake
+Still,University,0,False,1528312197,-1.0,32767,0.0,locked,0,Wednesday,1209,2018-06-06 20:09:57+00:00,awake
+Still,University,0,False,1528312227,-1.0,32767,0.0,locked,0,Wednesday,1210,2018-06-06 20:10:27+00:00,awake
+Still,University,0,False,1528312287,-1.0,16440,0.0,locked,0,Wednesday,1211,2018-06-06 20:11:27+00:00,awake
+Still,University,0,False,1528312317,-1.0,32219,0.0,locked,0,Wednesday,1211,2018-06-06 20:11:57+00:00,awake
+Still,University,0,False,1528312347,-1.0,32219,0.0,locked,0,Wednesday,1212,2018-06-06 20:12:27+00:00,awake
+Still,University,0,False,1528312377,-1.0,14754,0.0,locked,0,Wednesday,1212,2018-06-06 20:12:57+00:00,awake
+Still,University,0,False,1528312407,-1.0,14754,0.0,locked,0,Wednesday,1213,2018-06-06 20:13:27+00:00,awake
+Still,University,0,False,1528312437,-1.0,11556,0.0,locked,0,Wednesday,1213,2018-06-06 20:13:57+00:00,awake
+Still,University,0,False,1528312467,-1.0,11556,0.0,locked,0,Wednesday,1214,2018-06-06 20:14:27+00:00,awake
+Still,University,0,False,1528312498,-1.0,6470,0.0,locked,0,Wednesday,1214,2018-06-06 20:14:58+00:00,awake
+Still,University,0,False,1528312599,-1.0,6470,0.0,locked,0,Wednesday,1216,2018-06-06 20:16:39+00:00,awake
+Still,University,0,False,1528312629,-1.0,32767,0.0,locked,0,Wednesday,1217,2018-06-06 20:17:09+00:00,awake
+Still,University,0,False,1528312659,-1.0,32767,0.0,locked,0,Wednesday,1217,2018-06-06 20:17:39+00:00,awake
+Still,Other,0,False,1528312811,-1.0,8914,0.0,locked,0,Wednesday,1220,2018-06-06 20:20:11+00:00,awake
+Still,Other,0,False,1528312841,-1.0,5279,0.0,locked,0,Wednesday,1220,2018-06-06 20:20:41+00:00,awake
+Still,University,0,False,1528313013,-1.0,5279,0.0,locked,0,Wednesday,1223,2018-06-06 20:23:33+00:00,awake
+Still,University,0,False,1528313043,-1.0,2957,0.0,locked,0,Wednesday,1224,2018-06-06 20:24:03+00:00,awake
+Still,University,0,False,1528313083,-1.0,2957,0.0,locked,0,Wednesday,1224,2018-06-06 20:24:43+00:00,awake
+Still,University,0,False,1528313268,-1.0,2921,0.0,locked,0,Wednesday,1227,2018-06-06 20:27:48+00:00,awake
+Tilting,University,0,False,1528313465,-1.0,4305,0.0,locked,0,Wednesday,1231,2018-06-06 20:31:05+00:00,awake
+Still,University,0,False,1528313495,-1.0,3096,0.0,locked,0,Wednesday,1231,2018-06-06 20:31:35+00:00,awake
+Still,Other,0,False,1528313554,-1.0,3096,0.0,locked,0,Wednesday,1232,2018-06-06 20:32:34+00:00,awake
+Still,Other,0,False,1528313594,-1.0,14113,0.0,locked,0,Wednesday,1233,2018-06-06 20:33:14+00:00,awake
+Still,University,0,False,1528313724,-1.0,14113,0.0,locked,0,Wednesday,1235,2018-06-06 20:35:24+00:00,awake
+Still,University,0,False,1528313784,-1.0,32767,8.0,not locked,0,Wednesday,1236,2018-06-06 20:36:24+00:00,awake
+Still,University,0,False,1528313814,-1.0,23374,0.0,not locked,0,Wednesday,1236,2018-06-06 20:36:54+00:00,awake
+Still,University,0,False,1528313862,-1.0,23374,8.0,locked,0,Wednesday,1237,2018-06-06 20:37:42+00:00,awake
+Still,University,0,False,1528313893,-1.0,32767,8.0,locked,0,Wednesday,1238,2018-06-06 20:38:13+00:00,awake
+Still,University,0,False,1528313932,-1.0,32767,0.0,locked,0,Wednesday,1238,2018-06-06 20:38:52+00:00,awake
+Still,University,0,False,1528313964,-1.0,25619,8.0,locked,0,Wednesday,1239,2018-06-06 20:39:24+00:00,awake
+Still,University,0,False,1528313994,-1.0,25619,8.0,locked,0,Wednesday,1239,2018-06-06 20:39:54+00:00,awake
+Still,University,0,False,1528314024,-1.0,26044,0.0,locked,0,Wednesday,1240,2018-06-06 20:40:24+00:00,awake
+Exercise,Other,0,False,1528314070,-1.0,26044,0.0,locked,0,Wednesday,1241,2018-06-06 20:41:10+00:00,awake
+Still,Other,0,False,1528314100,-1.0,14136,0.0,locked,0,Wednesday,1241,2018-06-06 20:41:40+00:00,awake
+Exercise,University,0,False,1528314130,-1.0,14136,0.0,locked,0,Wednesday,1242,2018-06-06 20:42:10+00:00,awake
+Still,University,0,False,1528314161,-1.0,32767,0.0,locked,0,Wednesday,1242,2018-06-06 20:42:41+00:00,awake
+Still,University,0,False,1528314206,-1.0,32767,0.0,locked,0,Wednesday,1243,2018-06-06 20:43:26+00:00,awake
+Still,University,0,False,1528314236,-1.0,28990,0.0,locked,0,Wednesday,1243,2018-06-06 20:43:56+00:00,awake
+Still,University,0,False,1528314266,-1.0,28990,0.0,locked,0,Wednesday,1244,2018-06-06 20:44:26+00:00,awake
+Still,University,0,False,1528314296,-1.0,16490,0.0,locked,0,Wednesday,1244,2018-06-06 20:44:56+00:00,awake
+Unknown,University,0,False,1528314342,-1.0,16490,0.0,locked,0,Wednesday,1245,2018-06-06 20:45:42+00:00,awake
+Still,University,0,False,1528314372,-1.0,18015,0.0,locked,0,Wednesday,1246,2018-06-06 20:46:12+00:00,awake
+Still,University,0,False,1528314415,-1.0,18015,0.0,locked,0,Wednesday,1246,2018-06-06 20:46:55+00:00,awake
+Still,University,0,False,1528314446,-1.0,18726,0.0,locked,0,Wednesday,1247,2018-06-06 20:47:26+00:00,awake
+Still,Other,0,False,1528314478,-1.0,18726,0.0,locked,0,Wednesday,1247,2018-06-06 20:47:58+00:00,awake
+Unknown,Other,0,False,1528314509,-1.0,17381,0.0,locked,0,Wednesday,1248,2018-06-06 20:48:29+00:00,awake
+Still,Other,0,False,1528314545,-1.0,17381,0.0,locked,0,Wednesday,1249,2018-06-06 20:49:05+00:00,awake
+Still,Other,0,False,1528314579,-1.0,21491,0.0,locked,0,Wednesday,1249,2018-06-06 20:49:39+00:00,awake
+Still,Other,0,False,1528314619,-1.0,21491,0.0,locked,0,Wednesday,1250,2018-06-06 20:50:19+00:00,awake
+Still,Other,0,False,1528314649,-1.0,10223,0.0,locked,0,Wednesday,1250,2018-06-06 20:50:49+00:00,awake
+Unknown,Other,0,False,1528314693,-1.0,10223,0.0,locked,0,Wednesday,1251,2018-06-06 20:51:33+00:00,awake
+Still,Other,0,False,1528314723,-1.0,18770,0.0,locked,0,Wednesday,1252,2018-06-06 20:52:03+00:00,awake
+Still,Other,0,False,1528314753,-1.0,18770,0.0,locked,0,Wednesday,1252,2018-06-06 20:52:33+00:00,awake
+Still,University,0,False,1528314814,-1.0,8485,0.0,locked,0,Wednesday,1253,2018-06-06 20:53:34+00:00,awake
+Still,University,0,False,1528314874,-1.0,16907,0.0,locked,0,Wednesday,1254,2018-06-06 20:54:34+00:00,awake
+Still,University,0,False,1528314904,-1.0,10109,0.0,locked,0,Wednesday,1255,2018-06-06 20:55:04+00:00,awake
+Still,University,0,False,1528314947,-1.0,10109,0.0,locked,0,Wednesday,1255,2018-06-06 20:55:47+00:00,awake
+Still,Other,0,False,1528315020,-1.0,19362,0.0,locked,0,Wednesday,1257,2018-06-06 20:57:00+00:00,awake
+Still,Other,0,False,1528315114,-1.0,17629,0.0,locked,0,Wednesday,1258,2018-06-06 20:58:34+00:00,awake
+Still,University,0,False,1528315203,-1.0,12059,0.0,locked,0,Wednesday,1260,2018-06-06 21:00:03+00:00,awake
+Still,University,0,False,1528315294,-1.0,25057,8.0,locked,0,Wednesday,1261,2018-06-06 21:01:34+00:00,awake
+Still,University,0,False,1528315324,-1.0,25057,8.0,locked,0,Wednesday,1262,2018-06-06 21:02:04+00:00,awake
+Still,University,0,False,1528315354,-1.0,18454,8.0,locked,0,Wednesday,1262,2018-06-06 21:02:34+00:00,awake
+Still,University,0,False,1528315384,-1.0,18454,8.0,locked,0,Wednesday,1263,2018-06-06 21:03:04+00:00,awake
+Still,University,0,False,1528315414,-1.0,19578,8.0,locked,0,Wednesday,1263,2018-06-06 21:03:34+00:00,awake
+Still,University,0,False,1528315444,-1.0,19578,8.0,locked,0,Wednesday,1264,2018-06-06 21:04:04+00:00,awake
+Still,University,0,False,1528315474,-1.0,21172,8.0,locked,0,Wednesday,1264,2018-06-06 21:04:34+00:00,awake
+Still,University,0,False,1528315504,-1.0,21172,8.0,locked,0,Wednesday,1265,2018-06-06 21:05:04+00:00,awake
+Still,University,0,False,1528315534,-1.0,32767,8.0,locked,0,Wednesday,1265,2018-06-06 21:05:34+00:00,awake
+Still,University,0,False,1528315595,-1.0,30660,8.0,locked,0,Wednesday,1266,2018-06-06 21:06:35+00:00,awake
+Unknown,University,0,False,1528315625,-1.0,30660,8.0,not locked,0,Wednesday,1267,2018-06-06 21:07:05+00:00,awake
+Still,University,0,False,1528315655,-1.0,21008,8.0,not locked,0,Wednesday,1267,2018-06-06 21:07:35+00:00,awake
+Still,University,0,False,1528315685,-1.0,21008,8.0,not locked,0,Wednesday,1268,2018-06-06 21:08:05+00:00,awake
+Still,University,0,False,1528315715,-1.0,25329,8.0,not locked,0,Wednesday,1268,2018-06-06 21:08:35+00:00,awake
+Still,University,0,False,1528315745,-1.0,25329,8.0,not locked,0,Wednesday,1269,2018-06-06 21:09:05+00:00,awake
+Still,University,0,False,1528315775,-1.0,32767,8.0,not locked,0,Wednesday,1269,2018-06-06 21:09:35+00:00,awake
+Still,University,0,False,1528315805,-1.0,32767,8.0,not locked,0,Wednesday,1270,2018-06-06 21:10:05+00:00,awake
+Still,University,0,False,1528315835,-1.0,23843,8.0,not locked,0,Wednesday,1270,2018-06-06 21:10:35+00:00,awake
+Still,University,0,False,1528315865,-1.0,23843,8.0,locked,0,Wednesday,1271,2018-06-06 21:11:05+00:00,awake
+Still,University,0,False,1528315896,-1.0,24255,8.0,locked,0,Wednesday,1271,2018-06-06 21:11:36+00:00,awake
+Still,Other,0,False,1528315926,-1.0,24255,8.0,locked,0,Wednesday,1272,2018-06-06 21:12:06+00:00,awake
+Still,Other,0,False,1528315956,-1.0,16458,8.0,locked,0,Wednesday,1272,2018-06-06 21:12:36+00:00,awake
+Still,Other,0,False,1528315986,-1.0,16458,8.0,locked,0,Wednesday,1273,2018-06-06 21:13:06+00:00,awake
+Still,Other,0,False,1528316016,-1.0,14565,8.0,locked,0,Wednesday,1273,2018-06-06 21:13:36+00:00,awake
+Still,Other,0,False,1528316046,-1.0,14565,8.0,locked,0,Wednesday,1274,2018-06-06 21:14:06+00:00,awake
+Still,Other,0,False,1528316076,-1.0,15270,8.0,locked,0,Wednesday,1274,2018-06-06 21:14:36+00:00,awake
+Still,Other,0,False,1528316136,-1.0,8347,8.0,locked,0,Wednesday,1275,2018-06-06 21:15:36+00:00,awake
+Still,University,0,False,1528316237,-1.0,8347,8.0,locked,0,Wednesday,1277,2018-06-06 21:17:17+00:00,awake
+Still,University,0,False,1528316267,-1.0,32767,8.0,locked,0,Wednesday,1277,2018-06-06 21:17:47+00:00,awake
+Still,University,0,False,1528316297,-1.0,32767,8.0,not locked,0,Wednesday,1278,2018-06-06 21:18:17+00:00,awake
+Still,University,0,False,1528316327,-1.0,32767,8.0,not locked,0,Wednesday,1278,2018-06-06 21:18:47+00:00,awake
+Still,University,0,False,1528316357,-1.0,32767,8.0,not locked,0,Wednesday,1279,2018-06-06 21:19:17+00:00,awake
+Still,Other,0,False,1528316387,-1.0,18202,8.0,not locked,0,Wednesday,1279,2018-06-06 21:19:47+00:00,awake
+Still,Other,0,False,1528316475,-1.0,18202,8.0,not locked,0,Wednesday,1281,2018-06-06 21:21:15+00:00,awake
+Still,Other,0,False,1528316510,-1.0,28712,8.0,locked,0,Wednesday,1281,2018-06-06 21:21:50+00:00,awake
+Still,Other,0,False,1528316645,-1.0,28712,8.0,locked,0,Wednesday,1284,2018-06-06 21:24:05+00:00,awake
+Still,Other,0,False,1528316677,-1.0,26492,8.0,locked,0,Wednesday,1284,2018-06-06 21:24:37+00:00,awake
+Still,University,0,False,1528316705,-1.0,26492,8.0,locked,0,Wednesday,1285,2018-06-06 21:25:05+00:00,awake
+Still,University,0,False,1528316735,-1.0,11557,8.0,locked,0,Wednesday,1285,2018-06-06 21:25:35+00:00,awake
+Still,University,0,False,1528316894,-1.0,11557,8.0,locked,0,Wednesday,1288,2018-06-06 21:28:14+00:00,awake
+Still,University,0,False,1528316924,-1.0,19495,8.0,locked,0,Wednesday,1288,2018-06-06 21:28:44+00:00,awake
+Still,University,0,False,1528317118,-1.0,19495,8.0,locked,0,Wednesday,1291,2018-06-06 21:31:58+00:00,awake
+Still,University,0,False,1528317148,-1.0,16113,8.0,locked,0,Wednesday,1292,2018-06-06 21:32:28+00:00,awake
+Still,Other,0,False,1528317203,-1.0,16113,8.0,locked,0,Wednesday,1293,2018-06-06 21:33:23+00:00,awake
+Still,Other,0,False,1528317234,-1.0,18281,8.0,locked,0,Wednesday,1293,2018-06-06 21:33:54+00:00,awake
+Still,Other,0,False,1528317398,-1.0,18281,8.0,locked,0,Wednesday,1296,2018-06-06 21:36:38+00:00,awake
+Still,Other,0,False,1528317440,-1.0,16177,8.0,locked,0,Wednesday,1297,2018-06-06 21:37:20+00:00,awake
+Still,University,0,False,1528317528,-1.0,13320,8.0,locked,0,Wednesday,1298,2018-06-06 21:38:48+00:00,awake
+Still,University,0,False,1528317576,-1.0,13320,8.0,locked,0,Wednesday,1299,2018-06-06 21:39:36+00:00,awake
+Still,University,0,False,1528317606,-1.0,18471,8.0,locked,0,Wednesday,1300,2018-06-06 21:40:06+00:00,awake
+Still,University,0,False,1528317738,-1.0,18471,0.0,locked,0,Wednesday,1302,2018-06-06 21:42:18+00:00,awake
+Still,University,0,False,1528317775,-1.0,18057,0.0,locked,0,Wednesday,1302,2018-06-06 21:42:55+00:00,awake
+Still,University,0,False,1528317827,-1.0,18057,0.0,locked,0,Wednesday,1303,2018-06-06 21:43:47+00:00,awake
+Still,University,0,False,1528317917,-1.0,19424,0.0,locked,0,Wednesday,1305,2018-06-06 21:45:17+00:00,awake
+Still,University,0,False,1528317947,-1.0,12802,0.0,locked,0,Wednesday,1305,2018-06-06 21:45:47+00:00,awake
+Still,University,0,False,1528318204,-1.0,12802,0.0,locked,0,Wednesday,1310,2018-06-06 21:50:04+00:00,awake
+Unknown,University,0,False,1528318234,-1.0,32718,0.0,locked,0,Wednesday,1310,2018-06-06 21:50:34+00:00,awake
+Unknown,University,0,False,1528318273,-1.0,32718,0.0,locked,0,Wednesday,1311,2018-06-06 21:51:13+00:00,awake
+Unknown,University,0,False,1528318343,-1.0,18466,0.0,locked,0,Wednesday,1312,2018-06-06 21:52:23+00:00,awake
+Unknown,University,0,False,1528318373,-1.0,12312,0.0,locked,0,Wednesday,1312,2018-06-06 21:52:53+00:00,awake
+Exercise,University,0,False,1528318416,-1.0,12312,0.0,locked,0,Wednesday,1313,2018-06-06 21:53:36+00:00,awake
+Unknown,University,0,False,1528318446,-1.0,6130,0.0,locked,0,Wednesday,1314,2018-06-06 21:54:06+00:00,awake
+Still,University,0,False,1528318476,-1.0,6130,0.0,locked,0,Wednesday,1314,2018-06-06 21:54:36+00:00,awake
+Still,University,0,False,1528318506,-1.0,4909,0.0,locked,0,Wednesday,1315,2018-06-06 21:55:06+00:00,awake
+Still,University,0,False,1528318536,-1.0,4909,0.0,locked,0,Wednesday,1315,2018-06-06 21:55:36+00:00,awake
+Still,University,0,False,1528318566,-1.0,7969,0.0,locked,0,Wednesday,1316,2018-06-06 21:56:06+00:00,awake
+Still,University,0,False,1528318605,-1.0,7969,0.0,locked,0,Wednesday,1316,2018-06-06 21:56:45+00:00,awake
+Still,University,0,False,1528318635,-1.0,22958,0.0,locked,0,Wednesday,1317,2018-06-06 21:57:15+00:00,awake
+Still,Other,0,False,1528318665,-1.0,22958,0.0,locked,0,Wednesday,1317,2018-06-06 21:57:45+00:00,awake
+Still,Other,0,False,1528318695,-1.0,5211,0.0,locked,0,Wednesday,1318,2018-06-06 21:58:15+00:00,awake
+Still,University,0,False,1528318729,-1.0,5211,0.0,locked,0,Wednesday,1318,2018-06-06 21:58:49+00:00,awake
+Still,Other,0,False,1528318759,-1.0,9341,0.0,locked,0,Wednesday,1319,2018-06-06 21:59:19+00:00,awake
+Still,Other,0,False,1528318798,-1.0,9341,0.0,locked,0,Wednesday,1319,2018-06-06 21:59:58+00:00,awake
+Unknown,University,0,False,1528318831,-1.0,32425,0.0,locked,0,Wednesday,1320,2018-06-06 22:00:31+00:00,awake
+Unknown,University,0,False,1528318870,-1.0,32425,0.0,locked,0,Wednesday,1321,2018-06-06 22:01:10+00:00,awake
+Unknown,University,0,False,1528318900,-1.0,28118,0.0,locked,0,Wednesday,1321,2018-06-06 22:01:40+00:00,awake
+Still,University,0,False,1528318939,-1.0,28118,0.0,locked,0,Wednesday,1322,2018-06-06 22:02:19+00:00,awake
+Unknown,University,0,False,1528318969,-1.0,13519,0.0,locked,0,Wednesday,1322,2018-06-06 22:02:49+00:00,awake
+Unknown,University,0,False,1528319026,-1.0,13519,0.0,locked,0,Wednesday,1323,2018-06-06 22:03:46+00:00,awake
+Still,University,0,False,1528319056,-1.0,25933,0.0,locked,0,Wednesday,1324,2018-06-06 22:04:16+00:00,awake
+Still,University,0,False,1528319089,-1.0,25933,0.0,locked,0,Wednesday,1324,2018-06-06 22:04:49+00:00,awake
+Still,University,0,False,1528319119,-1.0,6056,0.0,locked,0,Wednesday,1325,2018-06-06 22:05:19+00:00,awake
+Still,University,0,False,1528319153,-1.0,6056,0.0,locked,0,Wednesday,1325,2018-06-06 22:05:53+00:00,awake
+Still,University,0,False,1528319220,-1.0,8498,0.0,locked,0,Wednesday,1327,2018-06-06 22:07:00+00:00,awake
+Still,University,0,False,1528319285,-1.0,32767,0.0,locked,0,Wednesday,1328,2018-06-06 22:08:05+00:00,awake
+Still,University,0,False,1528319315,-1.0,16461,0.0,locked,0,Wednesday,1328,2018-06-06 22:08:35+00:00,awake
+Still,University,0,False,1528319355,-1.0,16461,0.0,locked,0,Wednesday,1329,2018-06-06 22:09:15+00:00,awake
+Still,University,0,False,1528319385,-1.0,32767,0.0,locked,0,Wednesday,1329,2018-06-06 22:09:45+00:00,awake
+Still,University,0,False,1528319429,-1.0,32767,0.0,locked,0,Wednesday,1330,2018-06-06 22:10:29+00:00,awake
+Still,University,0,False,1528319489,-1.0,9831,0.0,locked,0,Wednesday,1331,2018-06-06 22:11:29+00:00,awake
+Still,University,0,False,1528319520,-1.0,14124,0.0,locked,0,Wednesday,1332,2018-06-06 22:12:00+00:00,awake
+Unknown,University,0,False,1528319567,-1.0,14124,0.0,locked,0,Wednesday,1332,2018-06-06 22:12:47+00:00,awake
+Unknown,University,0,False,1528319598,-1.0,15269,0.0,locked,0,Wednesday,1333,2018-06-06 22:13:18+00:00,awake
+Still,University,0,False,1528319634,-1.0,15269,0.0,locked,0,Wednesday,1333,2018-06-06 22:13:54+00:00,awake
+Still,University,0,False,1528319665,-1.0,12149,0.0,locked,0,Wednesday,1334,2018-06-06 22:14:25+00:00,awake
+Unknown,University,0,False,1528319747,-1.0,32767,0.0,locked,0,Wednesday,1335,2018-06-06 22:15:47+00:00,awake
+Still,University,0,False,1528319795,-1.0,32767,0.0,locked,0,Wednesday,1336,2018-06-06 22:16:35+00:00,awake
+Still,Other,0,False,1528319825,-1.0,10977,0.0,locked,0,Wednesday,1337,2018-06-06 22:17:05+00:00,awake
+Unknown,Other,0,False,1528319867,-1.0,10977,0.0,locked,0,Wednesday,1337,2018-06-06 22:17:47+00:00,awake
+Exercise,Other,0,False,1528319897,-1.0,30285,0.0,locked,0,Wednesday,1338,2018-06-06 22:18:17+00:00,awake
+Unknown,Other,0,False,1528319944,-1.0,30285,0.0,locked,0,Wednesday,1339,2018-06-06 22:19:04+00:00,awake
+Exercise,Other,0,False,1528319974,-1.0,32767,0.0,locked,0,Wednesday,1339,2018-06-06 22:19:34+00:00,awake
+Still,Other,0,False,1528320022,-1.0,32767,0.0,locked,0,Wednesday,1340,2018-06-06 22:20:22+00:00,awake
+Unknown,Other,0,False,1528320052,-1.0,25350,0.0,locked,0,Wednesday,1340,2018-06-06 22:20:52+00:00,awake
+Still,Other,0,False,1528320091,-1.0,25350,0.0,locked,0,Wednesday,1341,2018-06-06 22:21:31+00:00,awake
+Unknown,Other,0,False,1528320121,-1.0,24813,0.0,locked,0,Wednesday,1342,2018-06-06 22:22:01+00:00,awake
+Unknown,University,0,False,1528320163,-1.0,24813,0.0,locked,0,Wednesday,1342,2018-06-06 22:22:43+00:00,awake
+Still,Other,0,False,1528320193,-1.0,32767,0.0,locked,0,Wednesday,1343,2018-06-06 22:23:13+00:00,awake
+Still,Other,0,False,1528320226,-1.0,32767,0.0,locked,0,Wednesday,1343,2018-06-06 22:23:46+00:00,awake
+Still,Other,0,False,1528320256,-1.0,32024,0.0,locked,0,Wednesday,1344,2018-06-06 22:24:16+00:00,awake
+Unknown,Other,0,False,1528320291,-1.0,32024,0.0,locked,0,Wednesday,1344,2018-06-06 22:24:51+00:00,awake
+Still,Other,0,False,1528320321,-1.0,15748,0.0,not locked,0,Wednesday,1345,2018-06-06 22:25:21+00:00,awake
+Still,University,0,False,1528320388,-1.0,32133,0.0,locked,0,Wednesday,1346,2018-06-06 22:26:28+00:00,awake
+Still,University,0,False,1528320419,-1.0,32133,0.0,locked,0,Wednesday,1346,2018-06-06 22:26:59+00:00,awake
+Still,University,0,False,1528320449,-1.0,6192,0.0,locked,0,Wednesday,1347,2018-06-06 22:27:29+00:00,awake
+Still,Other,0,False,1528320479,-1.0,6192,0.0,locked,0,Wednesday,1347,2018-06-06 22:27:59+00:00,awake
+Exercise,University,0,False,1528320539,-1.0,6382,0.0,locked,0,Wednesday,1348,2018-06-06 22:28:59+00:00,awake
+Exercise,University,0,False,1528320569,-1.0,25882,0.0,locked,0,Wednesday,1349,2018-06-06 22:29:29+00:00,awake
+Exercise,University,0,False,1528320599,-1.0,25882,0.0,locked,0,Wednesday,1349,2018-06-06 22:29:59+00:00,awake
+Exercise,University,0,False,1528320659,-1.0,32767,0.0,locked,0,Wednesday,1350,2018-06-06 22:30:59+00:00,awake
+Exercise,University,0,False,1528320689,-1.0,32767,0.0,locked,0,Wednesday,1351,2018-06-06 22:31:29+00:00,awake
+Exercise,University,0,False,1528320719,-1.0,32767,0.0,locked,0,Wednesday,1351,2018-06-06 22:31:59+00:00,awake
+Exercise,University,0,False,1528320750,-1.0,14099,0.0,locked,0,Wednesday,1352,2018-06-06 22:32:30+00:00,awake
+Exercise,Other,0,False,1528320780,-1.0,14099,0.0,locked,0,Wednesday,1353,2018-06-06 22:33:00+00:00,awake
+Exercise,Other,0,False,1528320810,-1.0,25453,0.0,locked,0,Wednesday,1353,2018-06-06 22:33:30+00:00,awake
+Unknown,Other,0,False,1528320858,-1.0,25453,0.0,locked,0,Wednesday,1354,2018-06-06 22:34:18+00:00,awake
+Still,Other,0,False,1528320888,-1.0,26788,0.0,locked,0,Wednesday,1354,2018-06-06 22:34:48+00:00,awake
+Unknown,Other,0,False,1528320976,-1.0,32767,0.0,locked,0,Wednesday,1356,2018-06-06 22:36:16+00:00,awake
+Still,Other,0,False,1528321028,-1.0,32767,0.0,locked,0,Wednesday,1357,2018-06-06 22:37:08+00:00,awake
+Unknown,Other,0,False,1528321059,-1.0,10901,0.0,locked,0,Wednesday,1357,2018-06-06 22:37:39+00:00,awake
+Still,Other,0,False,1528321171,-1.0,23518,0.0,locked,0,Wednesday,1359,2018-06-06 22:39:31+00:00,awake
+Still,Other,0,False,1528321201,-1.0,29741,0.0,locked,0,Wednesday,1360,2018-06-06 22:40:01+00:00,awake
+Unknown,Other,0,False,1528321266,-1.0,29741,0.0,locked,0,Wednesday,1361,2018-06-06 22:41:06+00:00,awake
+Exercise,Other,0,False,1528321296,-1.0,15498,0.0,locked,0,Wednesday,1361,2018-06-06 22:41:36+00:00,awake
+Exercise,Other,0,False,1528321335,-1.0,15498,0.0,locked,0,Wednesday,1362,2018-06-06 22:42:15+00:00,awake
+Exercise,Other,0,False,1528321366,-1.0,24874,0.0,locked,0,Wednesday,1362,2018-06-06 22:42:46+00:00,awake
+Exercise,Other,0,False,1528321472,-1.0,7981,0.0,locked,0,Wednesday,1364,2018-06-06 22:44:32+00:00,awake
+Exercise,Other,0,False,1528321502,-1.0,7981,0.0,locked,0,Wednesday,1365,2018-06-06 22:45:02+00:00,awake
+Exercise,Other,0,False,1528321532,-1.0,11405,0.0,locked,0,Wednesday,1365,2018-06-06 22:45:32+00:00,awake
+Exercise,Other,0,False,1528321567,-1.0,11405,0.0,locked,0,Wednesday,1366,2018-06-06 22:46:07+00:00,awake
+Exercise,Other,0,False,1528321597,-1.0,22512,0.0,locked,0,Wednesday,1366,2018-06-06 22:46:37+00:00,awake
+Exercise,Other,0,False,1528321627,-1.0,22512,0.0,locked,0,Wednesday,1367,2018-06-06 22:47:07+00:00,awake
+Exercise,Other,0,False,1528321687,-1.0,15735,0.0,locked,0,Wednesday,1368,2018-06-06 22:48:07+00:00,awake
+Exercise,Other,0,False,1528321717,-1.0,28000,0.0,locked,0,Wednesday,1368,2018-06-06 22:48:37+00:00,awake
+Exercise,Other,0,False,1528321752,-1.0,28000,0.0,locked,0,Wednesday,1369,2018-06-06 22:49:12+00:00,awake
+Exercise,Other,0,False,1528321817,-1.0,20298,0.0,locked,0,Wednesday,1370,2018-06-06 22:50:17+00:00,awake
+Exercise,Other,0,False,1528321847,-1.0,32767,0.0,locked,0,Wednesday,1370,2018-06-06 22:50:47+00:00,awake
+Exercise,Other,0,False,1528321881,-1.0,32767,0.0,locked,0,Wednesday,1371,2018-06-06 22:51:21+00:00,awake
+Exercise,Other,0,False,1528321911,-1.0,18882,0.0,locked,0,Wednesday,1371,2018-06-06 22:51:51+00:00,awake
+Exercise,Other,0,False,1528321942,-1.0,18882,0.0,locked,0,Wednesday,1372,2018-06-06 22:52:22+00:00,awake
+Exercise,Other,0,False,1528321972,-1.0,32767,0.0,locked,0,Wednesday,1372,2018-06-06 22:52:52+00:00,awake
+Exercise,Other,0,False,1528322002,-1.0,32767,0.0,locked,0,Wednesday,1373,2018-06-06 22:53:22+00:00,awake
+Exercise,Other,0,False,1528322032,-1.0,32767,0.0,locked,0,Wednesday,1373,2018-06-06 22:53:52+00:00,awake
+Exercise,Other,0,False,1528322062,-1.0,32767,0.0,locked,0,Wednesday,1374,2018-06-06 22:54:22+00:00,awake
+Exercise,Other,0,False,1528322092,-1.0,32767,0.0,locked,0,Wednesday,1374,2018-06-06 22:54:52+00:00,awake
+Exercise,Other,0,False,1528322140,-1.0,32767,0.0,locked,0,Wednesday,1375,2018-06-06 22:55:40+00:00,awake
+Exercise,Other,0,False,1528322277,-1.0,25019,0.0,locked,0,Wednesday,1377,2018-06-06 22:57:57+00:00,awake
+Exercise,Other,0,False,1528322337,-1.0,28356,0.0,locked,0,Wednesday,1378,2018-06-06 22:58:57+00:00,awake
+Exercise,Other,0,False,1528322398,-1.0,29081,0.0,locked,0,Wednesday,1379,2018-06-06 22:59:58+00:00,awake
+Exercise,Other,0,False,1528322428,-1.0,25872,0.0,locked,0,Wednesday,1380,2018-06-06 23:00:28+00:00,awake
+Exercise,Other,0,False,1528322458,-1.0,25872,0.0,locked,0,Wednesday,1380,2018-06-06 23:00:58+00:00,awake
+Exercise,Other,0,False,1528322488,-1.0,32767,0.0,locked,0,Wednesday,1381,2018-06-06 23:01:28+00:00,awake
+Exercise,Other,0,False,1528322518,-1.0,32767,0.0,locked,0,Wednesday,1381,2018-06-06 23:01:58+00:00,awake
+Exercise,Other,0,False,1528322548,-1.0,29981,0.0,locked,0,Wednesday,1382,2018-06-06 23:02:28+00:00,awake
+Exercise,Other,0,False,1528322578,-1.0,29981,0.0,locked,0,Wednesday,1382,2018-06-06 23:02:58+00:00,awake
+Exercise,Other,0,False,1528322609,-1.0,16240,0.0,locked,0,Wednesday,1383,2018-06-06 23:03:29+00:00,awake
+Still,Other,0,False,1528322684,-1.0,18487,0.0,locked,0,Wednesday,1384,2018-06-06 23:04:44+00:00,awake
+Unknown,Other,0,False,1528322728,-1.0,18487,0.0,locked,0,Wednesday,1385,2018-06-06 23:05:28+00:00,awake
+Unknown,Other,0,False,1528322795,-1.0,0,0.0,locked,0,Wednesday,1386,2018-06-06 23:06:35+00:00,awake
+Unknown,Other,0,False,1528322825,-1.0,15055,0.0,locked,0,Wednesday,1387,2018-06-06 23:07:05+00:00,awake
+Still,Other,0,False,1528322869,-1.0,15055,0.0,locked,0,Wednesday,1387,2018-06-06 23:07:49+00:00,awake
+Still,Other,0,False,1528322899,-1.0,32767,0.0,locked,0,Wednesday,1388,2018-06-06 23:08:19+00:00,awake
+Unknown,Other,0,False,1528322951,-1.0,32767,0.0,locked,0,Wednesday,1389,2018-06-06 23:09:11+00:00,awake
+Still,Other,0,False,1528322981,-1.0,24712,0.0,locked,0,Wednesday,1389,2018-06-06 23:09:41+00:00,awake
+Unknown,Other,0,False,1528323069,-1.0,32767,0.0,locked,0,Wednesday,1391,2018-06-06 23:11:09+00:00,awake
+Exercise,Other,0,False,1528323112,-1.0,32767,0.0,locked,0,Wednesday,1391,2018-06-06 23:11:52+00:00,awake
+Unknown,Other,0,False,1528323142,-1.0,29152,0.0,locked,0,Wednesday,1392,2018-06-06 23:12:22+00:00,awake
+Unknown,Other,0,False,1528323192,-1.0,29152,0.0,locked,0,Wednesday,1393,2018-06-06 23:13:12+00:00,awake
+Unknown,Other,0,False,1528323222,-1.0,28843,0.0,locked,0,Wednesday,1393,2018-06-06 23:13:42+00:00,awake
+Unknown,Other,0,False,1528323277,-1.0,28843,0.0,locked,0,Wednesday,1394,2018-06-06 23:14:37+00:00,awake
+Unknown,Other,0,False,1528323307,-1.0,26249,0.0,locked,0,Wednesday,1395,2018-06-06 23:15:07+00:00,awake
+Unknown,Other,0,False,1528323353,-1.0,26249,0.0,locked,0,Wednesday,1395,2018-06-06 23:15:53+00:00,awake
+Exercise,Other,0,False,1528323383,-1.0,32767,0.0,locked,0,Wednesday,1396,2018-06-06 23:16:23+00:00,awake
+In vehicle,Other,0,False,1528323436,-1.0,32767,0.0,locked,0,Wednesday,1397,2018-06-06 23:17:16+00:00,awake
+In vehicle,Other,0,False,1528323466,-1.0,32767,0.0,locked,0,Wednesday,1397,2018-06-06 23:17:46+00:00,awake
+In vehicle,Other,0,False,1528323548,-1.0,32265,0.0,locked,0,Wednesday,1399,2018-06-06 23:19:08+00:00,awake
+Unknown,Other,0,False,1528323598,-1.0,32265,0.0,locked,0,Wednesday,1399,2018-06-06 23:19:58+00:00,awake
+Still,Other,0,False,1528323628,-1.0,28798,0.0,locked,0,Wednesday,1400,2018-06-06 23:20:28+00:00,awake
+In vehicle,Other,0,False,1528323676,-1.0,28798,0.0,locked,0,Wednesday,1401,2018-06-06 23:21:16+00:00,awake
+In vehicle,Other,0,False,1528323706,-1.0,32767,0.0,locked,0,Wednesday,1401,2018-06-06 23:21:46+00:00,awake
+In vehicle,Other,0,False,1528323756,-1.0,32767,0.0,locked,0,Wednesday,1402,2018-06-06 23:22:36+00:00,awake
+In vehicle,Other,0,False,1528323789,-1.0,21007,0.0,locked,0,Wednesday,1403,2018-06-06 23:23:09+00:00,awake
+Exercise,Other,0,False,1528323829,-1.0,21007,0.0,locked,0,Wednesday,1403,2018-06-06 23:23:49+00:00,awake
+In vehicle,Other,0,False,1528323858,-1.0,32767,0.0,locked,0,Wednesday,1404,2018-06-06 23:24:18+00:00,awake
+In vehicle,Other,0,False,1528323900,-1.0,32767,0.0,locked,0,Wednesday,1405,2018-06-06 23:25:00+00:00,awake
+In vehicle,Other,0,False,1528323931,-1.0,21590,0.0,locked,0,Wednesday,1405,2018-06-06 23:25:31+00:00,awake
+Exercise,Other,0,False,1528323984,-1.0,21590,0.0,locked,0,Wednesday,1406,2018-06-06 23:26:24+00:00,awake
+In vehicle,Other,0,False,1528324014,-1.0,20082,0.0,locked,0,Wednesday,1406,2018-06-06 23:26:54+00:00,awake
+In vehicle,Other,0,False,1528324061,-1.0,20082,0.0,locked,0,Wednesday,1407,2018-06-06 23:27:41+00:00,awake
+In vehicle,Other,0,False,1528324091,-1.0,21773,0.0,locked,0,Wednesday,1408,2018-06-06 23:28:11+00:00,awake
+Exercise,Other,0,False,1528324136,-1.0,21773,0.0,locked,0,Wednesday,1408,2018-06-06 23:28:56+00:00,awake
+In vehicle,Other,0,False,1528324218,-1.0,24380,0.0,locked,0,Wednesday,1410,2018-06-06 23:30:18+00:00,awake
+In vehicle,Other,0,False,1528324249,-1.0,14012,0.0,locked,0,Wednesday,1410,2018-06-06 23:30:49+00:00,awake
+Unknown,Other,0,False,1528324302,-1.0,14012,0.0,locked,0,Wednesday,1411,2018-06-06 23:31:42+00:00,awake
+In vehicle,Other,0,False,1528324332,-1.0,9794,0.0,locked,0,Wednesday,1412,2018-06-06 23:32:12+00:00,awake
+Unknown,Other,0,False,1528324384,-1.0,9794,0.0,locked,0,Wednesday,1413,2018-06-06 23:33:04+00:00,awake
+In vehicle,Other,0,False,1528324414,-1.0,22839,0.0,locked,0,Wednesday,1413,2018-06-06 23:33:34+00:00,awake
+In vehicle,Other,0,False,1528324453,-1.0,22839,0.0,locked,0,Wednesday,1414,2018-06-06 23:34:13+00:00,awake
+In vehicle,Other,0,False,1528324483,-1.0,27500,0.0,locked,0,Wednesday,1414,2018-06-06 23:34:43+00:00,awake
+Exercise,Other,0,False,1528324533,-1.0,27500,0.0,locked,0,Wednesday,1415,2018-06-06 23:35:33+00:00,awake
+Unknown,Other,0,False,1528324563,-1.0,18267,0.0,locked,0,Wednesday,1416,2018-06-06 23:36:03+00:00,awake
+In vehicle,Other,0,False,1528324606,-1.0,18267,0.0,locked,0,Wednesday,1416,2018-06-06 23:36:46+00:00,awake
+In vehicle,Other,0,False,1528324636,-1.0,13849,0.0,locked,0,Wednesday,1417,2018-06-06 23:37:16+00:00,awake
+Unknown,Other,0,False,1528324692,-1.0,13849,0.0,locked,0,Wednesday,1418,2018-06-06 23:38:12+00:00,awake
+In vehicle,Other,0,False,1528324722,-1.0,14755,0.0,locked,0,Wednesday,1418,2018-06-06 23:38:42+00:00,awake
+In vehicle,Other,0,False,1528324756,-1.0,14755,0.0,locked,0,Wednesday,1419,2018-06-06 23:39:16+00:00,awake
+Exercise,Other,0,False,1528324786,-1.0,20325,0.0,locked,0,Wednesday,1419,2018-06-06 23:39:46+00:00,awake
+Unknown,Other,0,False,1528324829,-1.0,20325,0.0,locked,0,Wednesday,1420,2018-06-06 23:40:29+00:00,awake
+Exercise,Other,0,False,1528324859,-1.0,21521,0.0,locked,0,Wednesday,1420,2018-06-06 23:40:59+00:00,awake
+In vehicle,Other,0,False,1528324899,-1.0,21521,0.0,locked,0,Wednesday,1421,2018-06-06 23:41:39+00:00,awake
+Exercise,Other,0,False,1528324930,-1.0,18345,0.0,locked,0,Wednesday,1422,2018-06-06 23:42:10+00:00,awake
+In vehicle,Other,0,False,1528324972,-1.0,18345,0.0,locked,0,Wednesday,1422,2018-06-06 23:42:52+00:00,awake
+In vehicle,Other,0,False,1528325051,-1.0,17447,0.0,locked,0,Wednesday,1424,2018-06-06 23:44:11+00:00,awake
+Unknown,Other,0,False,1528325081,-1.0,17070,0.0,locked,0,Wednesday,1424,2018-06-06 23:44:41+00:00,awake
+In vehicle,Other,0,False,1528325133,-1.0,17070,0.0,locked,0,Wednesday,1425,2018-06-06 23:45:33+00:00,awake
+Unknown,Other,0,False,1528325163,-1.0,29520,0.0,locked,0,Wednesday,1426,2018-06-06 23:46:03+00:00,awake
+Unknown,Other,0,False,1528333162,-1.0,0,8.0,not locked,0,Wednesday,119,2018-06-07 01:59:22+00:00,awake
+Still,Other,0,False,1528334275,-1.0,3645,8.0,not locked,0,Wednesday,137,2018-06-07 02:17:55+00:00,awake
+Still,Other,0,False,1528334305,-1.0,3645,8.0,not locked,0,Wednesday,138,2018-06-07 02:18:25+00:00,awake
+Still,Other,0,False,1528334365,-1.0,5641,8.0,not locked,0,Wednesday,139,2018-06-07 02:19:25+00:00,awake
+Still,Other,0,False,1528334396,-1.0,775,8.0,not locked,0,Wednesday,139,2018-06-07 02:19:56+00:00,awake
+Still,Other,0,False,1528334426,-1.0,775,8.0,not locked,0,Wednesday,140,2018-06-07 02:20:26+00:00,awake
+Tilting,Other,0,False,1528540755,-1.0,0,8.0,not locked,0,Saturday,699,2018-06-09 11:39:15+00:00,awake
+Still,Other,0,False,1528540785,-1.0,2548,8.0,not locked,0,Saturday,699,2018-06-09 11:39:45+00:00,awake
+Unknown,Other,0,False,1528540815,-1.0,2548,8.0,not locked,0,Saturday,700,2018-06-09 11:40:15+00:00,awake
+In vehicle,Other,0,False,1528540875,-1.0,22439,8.0,not locked,0,Saturday,701,2018-06-09 11:41:15+00:00,awake
+Unknown,Other,0,False,1528540905,-1.0,12665,8.0,not locked,0,Saturday,701,2018-06-09 11:41:45+00:00,awake
+Unknown,Other,0,False,1528540936,-1.0,12665,8.0,not locked,0,Saturday,702,2018-06-09 11:42:16+00:00,awake
+Still,Other,0,False,1528540965,-1.0,3488,8.0,not locked,0,Saturday,702,2018-06-09 11:42:45+00:00,awake
+Still,Other,0,False,1528540996,-1.0,3488,8.0,not locked,0,Saturday,703,2018-06-09 11:43:16+00:00,awake
+Still,Other,0,False,1528541056,-1.0,20165,8.0,locked,0,Saturday,704,2018-06-09 11:44:16+00:00,awake
+Still,Other,0,False,1528541086,-1.0,3412,8.0,locked,0,Saturday,704,2018-06-09 11:44:46+00:00,awake
+Still,Other,0,False,1528541117,-1.0,3412,8.0,not locked,0,Saturday,705,2018-06-09 11:45:17+00:00,awake
+Unknown,Other,0,False,1528541147,-1.0,8411,8.0,not locked,0,Saturday,705,2018-06-09 11:45:47+00:00,awake
+Still,Other,0,False,1528541177,-1.0,8411,8.0,not locked,0,Saturday,706,2018-06-09 11:46:17+00:00,awake
+Still,Other,0,False,1528541207,-1.0,3702,8.0,not locked,0,Saturday,706,2018-06-09 11:46:47+00:00,awake
+Still,Other,0,False,1528541237,-1.0,3702,8.0,not locked,0,Saturday,707,2018-06-09 11:47:17+00:00,awake
+Still,Other,0,False,1528541267,-1.0,5758,8.0,not locked,0,Saturday,707,2018-06-09 11:47:47+00:00,awake
+Still,Other,0,False,1528541297,-1.0,5758,8.0,not locked,0,Saturday,708,2018-06-09 11:48:17+00:00,awake
+Still,Other,0,False,1528541327,-1.0,3978,8.0,not locked,0,Saturday,708,2018-06-09 11:48:47+00:00,awake
+Still,Other,0,False,1528541357,-1.0,3978,8.0,not locked,0,Saturday,709,2018-06-09 11:49:17+00:00,awake
+Still,Other,0,False,1528541387,-1.0,14162,8.0,not locked,0,Saturday,709,2018-06-09 11:49:47+00:00,awake
+Still,Other,0,False,1528541417,-1.0,14162,8.0,not locked,0,Saturday,710,2018-06-09 11:50:17+00:00,awake
+Still,Other,0,False,1528541508,-1.0,3660,8.0,not locked,0,Saturday,711,2018-06-09 11:51:48+00:00,awake
+Still,Other,0,False,1528541538,-1.0,3660,8.0,not locked,0,Saturday,712,2018-06-09 11:52:18+00:00,awake
+Still,Other,0,False,1528541568,-1.0,10625,8.0,not locked,0,Saturday,712,2018-06-09 11:52:48+00:00,awake
+Still,Other,0,False,1528541598,-1.0,10625,8.0,not locked,0,Saturday,713,2018-06-09 11:53:18+00:00,awake
+Still,Other,0,False,1528541628,-1.0,6837,8.0,not locked,0,Saturday,713,2018-06-09 11:53:48+00:00,awake
+Still,Other,0,False,1528541658,-1.0,6837,8.0,not locked,0,Saturday,714,2018-06-09 11:54:18+00:00,awake
+Still,Other,0,False,1528541688,-1.0,3173,8.0,not locked,0,Saturday,714,2018-06-09 11:54:48+00:00,awake
+Still,Other,0,False,1528541718,-1.0,3173,8.0,not locked,0,Saturday,715,2018-06-09 11:55:18+00:00,awake
+Still,Other,0,False,1528541748,-1.0,2899,8.0,not locked,0,Saturday,715,2018-06-09 11:55:48+00:00,awake
+Still,Other,0,False,1528541779,-1.0,2899,8.0,not locked,0,Saturday,716,2018-06-09 11:56:19+00:00,awake
+Still,Other,0,False,1528541809,-1.0,8632,8.0,not locked,0,Saturday,716,2018-06-09 11:56:49+00:00,awake
+Tilting,Other,0,False,1528541839,-1.0,8632,8.0,not locked,0,Saturday,717,2018-06-09 11:57:19+00:00,awake
+Still,Other,0,False,1528541869,-1.0,1495,8.0,not locked,0,Saturday,717,2018-06-09 11:57:49+00:00,awake
+Still,Other,0,False,1528541899,-1.0,1495,8.0,not locked,0,Saturday,718,2018-06-09 11:58:19+00:00,awake
+Still,Other,0,False,1528541929,-1.0,7239,8.0,not locked,0,Saturday,718,2018-06-09 11:58:49+00:00,awake
+Still,Other,0,False,1528541959,-1.0,7239,8.0,not locked,0,Saturday,719,2018-06-09 11:59:19+00:00,awake
+Still,Other,0,False,1528541989,-1.0,4092,8.0,not locked,0,Saturday,719,2018-06-09 11:59:49+00:00,awake
+Still,Other,0,False,1528542019,-1.0,4092,8.0,not locked,0,Saturday,720,2018-06-09 12:00:19+00:00,awake
+Still,Other,0,False,1528542079,-1.0,4771,8.0,not locked,0,Saturday,721,2018-06-09 12:01:19+00:00,awake
+Still,Other,0,False,1528542140,-1.0,4344,8.0,not locked,0,Saturday,722,2018-06-09 12:02:20+00:00,awake
+Still,Other,0,False,1528542170,-1.0,25386,8.0,not locked,0,Saturday,722,2018-06-09 12:02:50+00:00,awake
+Still,Other,0,False,1528542200,-1.0,25386,8.0,not locked,0,Saturday,723,2018-06-09 12:03:20+00:00,awake
+Tilting,Other,0,False,1528542230,-1.0,3320,8.0,not locked,0,Saturday,723,2018-06-09 12:03:50+00:00,awake
+Still,Other,0,False,1528542260,-1.0,3320,8.0,not locked,0,Saturday,724,2018-06-09 12:04:20+00:00,awake
+Still,Other,0,False,1528542290,-1.0,12942,8.0,not locked,0,Saturday,724,2018-06-09 12:04:50+00:00,awake
+Still,Other,0,False,1528542320,-1.0,12942,8.0,not locked,0,Saturday,725,2018-06-09 12:05:20+00:00,awake
+Still,Other,0,False,1528542350,-1.0,1889,8.0,not locked,0,Saturday,725,2018-06-09 12:05:50+00:00,awake
+Unknown,Other,0,False,1528542429,-1.0,0,8.0,not locked,0,Saturday,727,2018-06-09 12:07:09+00:00,awake
+Still,Other,0,False,1528542489,-1.0,1310,8.0,not locked,0,Saturday,728,2018-06-09 12:08:09+00:00,awake
+Still,Other,0,False,1528542579,-1.0,2202,8.0,not locked,0,Saturday,729,2018-06-09 12:09:39+00:00,awake
+Tilting,Other,0,False,1528542639,-1.0,1232,8.0,not locked,0,Saturday,730,2018-06-09 12:10:39+00:00,awake
+Still,Other,0,False,1528542670,-1.0,1232,8.0,not locked,0,Saturday,731,2018-06-09 12:11:10+00:00,awake
+Unknown,Other,0,False,1528544144,-1.0,4672,8.0,not locked,0,Saturday,755,2018-06-09 12:35:44+00:00,awake
+Still,Other,0,False,1528544174,-1.0,4672,8.0,not locked,0,Saturday,756,2018-06-09 12:36:14+00:00,awake
+Still,Other,0,False,1528544204,-1.0,25548,8.0,not locked,0,Saturday,756,2018-06-09 12:36:44+00:00,awake
+Still,Other,0,False,1528544294,-1.0,5271,8.0,not locked,0,Saturday,758,2018-06-09 12:38:14+00:00,awake
+Still,Other,0,False,1528544324,-1.0,13653,8.0,not locked,0,Saturday,758,2018-06-09 12:38:44+00:00,awake
+Still,Other,0,False,1528544354,-1.0,13653,8.0,not locked,0,Saturday,759,2018-06-09 12:39:14+00:00,awake
+Still,Other,0,False,1528544535,-1.0,17128,8.0,not locked,0,Saturday,762,2018-06-09 12:42:15+00:00,awake
+Still,Other,0,False,1528544595,-1.0,8221,8.0,not locked,0,Saturday,763,2018-06-09 12:43:15+00:00,awake
+Still,Other,0,False,1528544655,-1.0,6093,8.0,not locked,0,Saturday,764,2018-06-09 12:44:15+00:00,awake
+Still,Other,0,False,1528544685,-1.0,11388,8.0,not locked,0,Saturday,764,2018-06-09 12:44:45+00:00,awake
+Still,Other,0,False,1528544746,-1.0,16555,8.0,not locked,0,Saturday,765,2018-06-09 12:45:46+00:00,awake
+Still,Other,0,False,1528544776,-1.0,16555,8.0,not locked,0,Saturday,766,2018-06-09 12:46:16+00:00,awake
+Still,Other,0,False,1528544806,-1.0,8908,8.0,not locked,0,Saturday,766,2018-06-09 12:46:46+00:00,awake
+Still,Other,0,False,1528544866,-1.0,24688,8.0,not locked,0,Saturday,767,2018-06-09 12:47:46+00:00,awake
+Still,Other,0,False,1528544896,-1.0,24688,8.0,not locked,0,Saturday,768,2018-06-09 12:48:16+00:00,awake
+Still,Other,0,False,1528544956,-1.0,16832,8.0,not locked,0,Saturday,769,2018-06-09 12:49:16+00:00,awake
+Still,Other,0,False,1528544986,-1.0,14730,8.0,not locked,0,Saturday,769,2018-06-09 12:49:46+00:00,awake
+Tilting,Other,0,False,1528545017,-1.0,14730,8.0,not locked,0,Saturday,770,2018-06-09 12:50:17+00:00,awake
+Still,Other,0,False,1528545107,-1.0,12741,8.0,not locked,0,Saturday,771,2018-06-09 12:51:47+00:00,awake
+Still,Other,0,False,1528545137,-1.0,12741,8.0,not locked,0,Saturday,772,2018-06-09 12:52:17+00:00,awake
+Still,Other,0,False,1528545197,-1.0,15939,8.0,not locked,0,Saturday,773,2018-06-09 12:53:17+00:00,awake
+Still,Other,0,False,1528545257,-1.0,16607,8.0,not locked,0,Saturday,774,2018-06-09 12:54:17+00:00,awake
+Still,Other,0,False,1528545287,-1.0,17469,8.0,not locked,0,Saturday,774,2018-06-09 12:54:47+00:00,awake
+Still,Other,0,False,1528545317,-1.0,17469,8.0,not locked,0,Saturday,775,2018-06-09 12:55:17+00:00,awake
+Still,Other,0,False,1528545348,-1.0,14466,8.0,not locked,0,Saturday,775,2018-06-09 12:55:48+00:00,awake
+Still,Other,0,False,1528545378,-1.0,14466,8.0,not locked,0,Saturday,776,2018-06-09 12:56:18+00:00,awake
+Still,Other,0,False,1528545408,-1.0,15271,8.0,not locked,0,Saturday,776,2018-06-09 12:56:48+00:00,awake
+Still,Other,0,False,1528545438,-1.0,15271,8.0,not locked,0,Saturday,777,2018-06-09 12:57:18+00:00,awake
+Still,Other,0,False,1528545468,-1.0,22459,8.0,not locked,0,Saturday,777,2018-06-09 12:57:48+00:00,awake
+Still,Other,0,False,1528545528,-1.0,21353,8.0,not locked,0,Saturday,778,2018-06-09 12:58:48+00:00,awake
+Still,Other,0,False,1528545588,-1.0,23104,8.0,not locked,0,Saturday,779,2018-06-09 12:59:48+00:00,awake
+Still,Other,0,False,1528545618,-1.0,23104,8.0,not locked,0,Saturday,780,2018-06-09 13:00:18+00:00,awake
+Still,Other,0,False,1528545648,-1.0,26142,8.0,not locked,0,Saturday,780,2018-06-09 13:00:48+00:00,awake
+Still,Other,0,False,1528545679,-1.0,26142,8.0,not locked,0,Saturday,781,2018-06-09 13:01:19+00:00,awake
+Tilting,Other,0,False,1528545799,-1.0,10700,8.0,not locked,0,Saturday,783,2018-06-09 13:03:19+00:00,awake
+Still,Other,0,False,1528546100,-1.0,14579,8.0,not locked,0,Saturday,788,2018-06-09 13:08:20+00:00,awake
+Still,Other,0,False,1528546160,-1.0,16964,8.0,not locked,0,Saturday,789,2018-06-09 13:09:20+00:00,awake
+Still,Other,0,False,1528546250,-1.0,23443,8.0,not locked,0,Saturday,790,2018-06-09 13:10:50+00:00,awake
+Still,Other,0,False,1528546280,-1.0,23443,8.0,not locked,0,Saturday,791,2018-06-09 13:11:20+00:00,awake
+Still,Other,0,False,1528546371,-1.0,19668,8.0,not locked,0,Saturday,792,2018-06-09 13:12:51+00:00,awake
+Still,Other,0,False,1528546431,-1.0,22055,8.0,not locked,0,Saturday,793,2018-06-09 13:13:51+00:00,awake
+Still,Other,0,False,1528546551,-1.0,22170,8.0,not locked,0,Saturday,795,2018-06-09 13:15:51+00:00,awake
+Still,Other,0,False,1528546642,-1.0,20303,8.0,not locked,0,Saturday,797,2018-06-09 13:17:22+00:00,awake
+Still,Other,0,False,1528546672,-1.0,21206,8.0,not locked,0,Saturday,797,2018-06-09 13:17:52+00:00,awake
+Still,Other,0,False,1528546732,-1.0,20895,8.0,not locked,0,Saturday,798,2018-06-09 13:18:52+00:00,awake
+Still,Other,0,False,1528546792,-1.0,18849,8.0,not locked,0,Saturday,799,2018-06-09 13:19:52+00:00,awake
+Still,Other,0,False,1528546973,-1.0,20661,8.0,not locked,0,Saturday,802,2018-06-09 13:22:53+00:00,awake
+Still,Other,0,False,1528547003,-1.0,20661,8.0,not locked,0,Saturday,803,2018-06-09 13:23:23+00:00,awake
+Still,Other,0,False,1528547033,-1.0,18381,8.0,not locked,0,Saturday,803,2018-06-09 13:23:53+00:00,awake
+Still,Other,0,False,1528547063,-1.0,18381,8.0,not locked,0,Saturday,804,2018-06-09 13:24:23+00:00,awake
+Still,Other,0,False,1528547123,-1.0,21574,8.0,not locked,0,Saturday,805,2018-06-09 13:25:23+00:00,awake
+Tilting,Other,0,False,1528547153,-1.0,13068,8.0,not locked,0,Saturday,805,2018-06-09 13:25:53+00:00,awake
+Still,Other,0,False,1528547183,-1.0,13068,8.0,not locked,0,Saturday,806,2018-06-09 13:26:23+00:00,awake
+Still,Other,0,False,1528547243,-1.0,11041,8.0,not locked,0,Saturday,807,2018-06-09 13:27:23+00:00,awake
+Still,Other,0,False,1528547273,-1.0,22254,8.0,not locked,0,Saturday,807,2018-06-09 13:27:53+00:00,awake
+Still,Other,0,False,1528547303,-1.0,22254,8.0,not locked,0,Saturday,808,2018-06-09 13:28:23+00:00,awake
+Still,Other,0,False,1528547333,-1.0,17249,8.0,not locked,0,Saturday,808,2018-06-09 13:28:53+00:00,awake
+Still,Other,0,False,1528547393,-1.0,10133,8.0,not locked,0,Saturday,809,2018-06-09 13:29:53+00:00,awake
+Still,Other,0,False,1528547484,-1.0,13534,8.0,not locked,0,Saturday,811,2018-06-09 13:31:24+00:00,awake
+Still,Other,0,False,1528547514,-1.0,17417,8.0,not locked,0,Saturday,811,2018-06-09 13:31:54+00:00,awake
+Still,Other,0,False,1528547544,-1.0,17417,8.0,not locked,0,Saturday,812,2018-06-09 13:32:24+00:00,awake
+Still,Other,0,False,1528547604,-1.0,12489,8.0,not locked,0,Saturday,813,2018-06-09 13:33:24+00:00,awake
+Still,Other,0,False,1528547694,-1.0,17490,8.0,not locked,0,Saturday,814,2018-06-09 13:34:54+00:00,awake
+Still,Other,0,False,1528547815,-1.0,5638,8.0,not locked,0,Saturday,816,2018-06-09 13:36:55+00:00,awake
+Still,Other,0,False,1528547845,-1.0,5638,8.0,not locked,0,Saturday,817,2018-06-09 13:37:25+00:00,awake
+Still,Other,0,False,1528547875,-1.0,7227,8.0,not locked,0,Saturday,817,2018-06-09 13:37:55+00:00,awake
+Still,Other,0,False,1528547905,-1.0,7227,8.0,not locked,0,Saturday,818,2018-06-09 13:38:25+00:00,awake
+Still,Other,0,False,1528548085,-1.0,23455,8.0,not locked,0,Saturday,821,2018-06-09 13:41:25+00:00,awake
+Still,Other,0,False,1528548145,-1.0,13985,8.0,not locked,0,Saturday,822,2018-06-09 13:42:25+00:00,awake
+Still,Other,0,False,1528548206,-1.0,32767,8.0,not locked,0,Saturday,823,2018-06-09 13:43:26+00:00,awake
+Tilting,Other,0,False,1528548266,-1.0,29895,8.0,not locked,0,Saturday,824,2018-06-09 13:44:26+00:00,awake
+Still,Other,0,False,1528548326,-1.0,10449,8.0,not locked,0,Saturday,825,2018-06-09 13:45:26+00:00,awake
+Still,Other,0,False,1528548416,-1.0,21665,8.0,not locked,0,Saturday,826,2018-06-09 13:46:56+00:00,awake
+Still,Other,0,False,1528548446,-1.0,21665,8.0,not locked,0,Saturday,827,2018-06-09 13:47:26+00:00,awake
+Tilting,Other,0,False,1528548476,-1.0,17769,8.0,not locked,0,Saturday,827,2018-06-09 13:47:56+00:00,awake
+Still,Other,0,False,1528548537,-1.0,23913,8.0,not locked,0,Saturday,828,2018-06-09 13:48:57+00:00,awake
+Still,Other,0,False,1528548567,-1.0,23913,8.0,not locked,0,Saturday,829,2018-06-09 13:49:27+00:00,awake
+Still,Other,0,False,1528548657,-1.0,8572,8.0,not locked,0,Saturday,830,2018-06-09 13:50:57+00:00,awake
+Still,Other,0,False,1528548687,-1.0,8572,8.0,not locked,0,Saturday,831,2018-06-09 13:51:27+00:00,awake
+Still,Other,0,False,1528548747,-1.0,6672,8.0,not locked,0,Saturday,832,2018-06-09 13:52:27+00:00,awake
+Still,Other,0,False,1528548807,-1.0,9896,8.0,not locked,0,Saturday,833,2018-06-09 13:53:27+00:00,awake
+Still,Other,0,False,1528548838,-1.0,10248,8.0,not locked,0,Saturday,833,2018-06-09 13:53:58+00:00,awake
+Tilting,Other,0,False,1528548868,-1.0,10248,8.0,not locked,0,Saturday,834,2018-06-09 13:54:28+00:00,awake
+Still,Other,0,False,1528548898,-1.0,17927,8.0,not locked,0,Saturday,834,2018-06-09 13:54:58+00:00,awake
+Still,Other,0,False,1528548928,-1.0,17927,8.0,not locked,0,Saturday,835,2018-06-09 13:55:28+00:00,awake
+Still,Other,0,False,1528548988,-1.0,24080,8.0,not locked,0,Saturday,836,2018-06-09 13:56:28+00:00,awake
+Still,Other,0,False,1528549018,-1.0,24781,8.0,not locked,0,Saturday,836,2018-06-09 13:56:58+00:00,awake
+Still,Other,0,False,1528549048,-1.0,24781,8.0,not locked,0,Saturday,837,2018-06-09 13:57:28+00:00,awake
+Still,Other,0,False,1528549108,-1.0,8398,8.0,not locked,0,Saturday,838,2018-06-09 13:58:28+00:00,awake
+Still,Other,0,False,1528549139,-1.0,9203,8.0,not locked,0,Saturday,838,2018-06-09 13:58:59+00:00,awake
+Still,Other,0,False,1528549169,-1.0,9203,8.0,not locked,0,Saturday,839,2018-06-09 13:59:29+00:00,awake
+Still,Other,0,False,1528549199,-1.0,9060,8.0,not locked,0,Saturday,839,2018-06-09 13:59:59+00:00,awake
+Still,Other,0,False,1528549259,-1.0,9491,8.0,not locked,0,Saturday,840,2018-06-09 14:00:59+00:00,awake
+Still,Other,0,False,1528549319,-1.0,10021,8.0,not locked,0,Saturday,841,2018-06-09 14:01:59+00:00,awake
+Still,Other,0,False,1528549349,-1.0,10021,8.0,not locked,0,Saturday,842,2018-06-09 14:02:29+00:00,awake
+Still,Other,0,False,1528549379,-1.0,7201,8.0,not locked,0,Saturday,842,2018-06-09 14:02:59+00:00,awake
+Still,Other,0,False,1528549409,-1.0,7201,8.0,not locked,0,Saturday,843,2018-06-09 14:03:29+00:00,awake
+Still,Other,0,False,1528549470,-1.0,8144,8.0,not locked,0,Saturday,844,2018-06-09 14:04:30+00:00,awake
+Still,Other,0,False,1528549500,-1.0,9073,8.0,not locked,0,Saturday,845,2018-06-09 14:05:00+00:00,awake
+Still,Other,0,False,1528549530,-1.0,9073,8.0,not locked,0,Saturday,845,2018-06-09 14:05:30+00:00,awake
+Still,Other,0,False,1528549560,-1.0,5640,8.0,not locked,0,Saturday,846,2018-06-09 14:06:00+00:00,awake
+Still,Other,0,False,1528549590,-1.0,5640,8.0,not locked,0,Saturday,846,2018-06-09 14:06:30+00:00,awake
+Still,Other,0,False,1528549650,-1.0,9302,8.0,not locked,0,Saturday,847,2018-06-09 14:07:30+00:00,awake
+Still,Other,0,False,1528549680,-1.0,7843,8.0,not locked,0,Saturday,848,2018-06-09 14:08:00+00:00,awake
+Still,Other,0,False,1528549740,-1.0,8170,8.0,not locked,0,Saturday,849,2018-06-09 14:09:00+00:00,awake
+Still,Other,0,False,1528549800,-1.0,8963,8.0,not locked,0,Saturday,850,2018-06-09 14:10:00+00:00,awake
+Still,Other,0,False,1528549831,-1.0,8963,8.0,not locked,0,Saturday,850,2018-06-09 14:10:31+00:00,awake
+Still,Other,0,False,1528549861,-1.0,11846,8.0,not locked,0,Saturday,851,2018-06-09 14:11:01+00:00,awake
+Still,Other,0,False,1528549951,-1.0,6673,8.0,not locked,0,Saturday,852,2018-06-09 14:12:31+00:00,awake
+Still,Other,0,False,1528550132,-1.0,4394,8.0,not locked,0,Saturday,855,2018-06-09 14:15:32+00:00,awake
+Still,Other,0,False,1528550222,-1.0,19858,8.0,not locked,0,Saturday,857,2018-06-09 14:17:02+00:00,awake
+Still,Other,0,False,1528550252,-1.0,19858,8.0,not locked,0,Saturday,857,2018-06-09 14:17:32+00:00,awake
+Still,Other,0,False,1528550282,-1.0,15396,8.0,not locked,0,Saturday,858,2018-06-09 14:18:02+00:00,awake
+Still,Other,0,False,1528550312,-1.0,15396,8.0,not locked,0,Saturday,858,2018-06-09 14:18:32+00:00,awake
+Still,Other,0,False,1528550372,-1.0,17505,8.0,not locked,0,Saturday,859,2018-06-09 14:19:32+00:00,awake
+Still,Other,0,False,1528550402,-1.0,11129,8.0,not locked,0,Saturday,860,2018-06-09 14:20:02+00:00,awake
+Still,Other,0,False,1528550432,-1.0,11129,8.0,not locked,0,Saturday,860,2018-06-09 14:20:32+00:00,awake
+Still,Other,0,False,1528550493,-1.0,10323,8.0,not locked,0,Saturday,861,2018-06-09 14:21:33+00:00,awake
+Tilting,Other,0,False,1528550553,-1.0,9921,8.0,not locked,0,Saturday,862,2018-06-09 14:22:33+00:00,awake
+Still,Other,0,False,1528550583,-1.0,9580,8.0,not locked,0,Saturday,863,2018-06-09 14:23:03+00:00,awake
+Still,Other,0,False,1528550643,-1.0,8297,8.0,not locked,0,Saturday,864,2018-06-09 14:24:03+00:00,awake
+Still,Other,0,False,1528550673,-1.0,8297,8.0,not locked,0,Saturday,864,2018-06-09 14:24:33+00:00,awake
+Still,Other,0,False,1528550703,-1.0,16534,8.0,not locked,0,Saturday,865,2018-06-09 14:25:03+00:00,awake
+Still,Other,0,False,1528550733,-1.0,16534,8.0,not locked,0,Saturday,865,2018-06-09 14:25:33+00:00,awake
+Tilting,Other,0,False,1528550763,-1.0,30461,8.0,not locked,0,Saturday,866,2018-06-09 14:26:03+00:00,awake
+Still,Other,0,False,1528550794,-1.0,30461,8.0,locked,0,Saturday,866,2018-06-09 14:26:34+00:00,awake
+Still,Other,0,False,1528550844,-1.0,32767,8.0,locked,0,Saturday,867,2018-06-09 14:27:24+00:00,awake
+Still,Other,0,False,1528550926,-1.0,32767,8.0,locked,0,Saturday,868,2018-06-09 14:28:46+00:00,awake
+Still,Other,0,False,1528550961,-1.0,1106,8.0,locked,0,Saturday,869,2018-06-09 14:29:21+00:00,awake
+Still,Other,0,False,1528551109,-1.0,1106,8.0,locked,0,Saturday,871,2018-06-09 14:31:49+00:00,awake
+Still,Other,0,False,1528551343,-1.0,1410,8.0,locked,0,Saturday,875,2018-06-09 14:35:43+00:00,awake
+Still,Other,0,False,1528551656,-1.0,1410,8.0,locked,0,Saturday,880,2018-06-09 14:40:56+00:00,awake
+Still,Other,0,False,1528551686,-1.0,171,8.0,locked,0,Saturday,881,2018-06-09 14:41:26+00:00,awake
+Still,Other,0,False,1528552039,-1.0,614,8.0,locked,0,Saturday,887,2018-06-09 14:47:19+00:00,awake
+Still,Other,0,False,1528552289,-1.0,571,8.0,locked,0,Saturday,891,2018-06-09 14:51:29+00:00,awake
+Still,Other,0,False,1528552354,-1.0,680,8.0,locked,0,Saturday,892,2018-06-09 14:52:34+00:00,awake
+Still,Other,0,False,1528552929,-1.0,1619,8.0,locked,0,Saturday,902,2018-06-09 15:02:09+00:00,awake
+Still,Other,0,False,1528552959,-1.0,570,8.0,locked,0,Saturday,902,2018-06-09 15:02:39+00:00,awake
+Still,Other,0,False,1528553389,-1.0,570,8.0,locked,0,Saturday,909,2018-06-09 15:09:49+00:00,awake
+Still,Other,0,False,1528553697,-1.0,7021,8.0,locked,0,Saturday,914,2018-06-09 15:14:57+00:00,awake
+Still,Other,0,False,1528554080,-1.0,670,8.0,locked,0,Saturday,921,2018-06-09 15:21:20+00:00,awake
+Still,Other,0,False,1528554738,-1.0,663,8.0,locked,0,Saturday,932,2018-06-09 15:32:18+00:00,awake
+Still,Other,0,False,1528555176,-1.0,663,8.0,locked,0,Saturday,939,2018-06-09 15:39:36+00:00,awake
+Still,Other,0,False,1528555303,-1.0,536,8.0,not locked,0,Saturday,941,2018-06-09 15:41:43+00:00,awake
+Tilting,House,0,False,1528555363,-1.0,6475,8.0,not locked,0,Saturday,942,2018-06-09 15:42:43+00:00,awake
+Unknown,House,0,False,1528555423,-1.0,2096,8.0,not locked,0,Saturday,943,2018-06-09 15:43:43+00:00,awake
+Exercise,House,0,False,1528555453,-1.0,1905,8.0,not locked,0,Saturday,944,2018-06-09 15:44:13+00:00,awake
+Unknown,House,0,False,1528555483,-1.0,1905,8.0,not locked,0,Saturday,944,2018-06-09 15:44:43+00:00,awake
+Unknown,House,0,False,1528555513,-1.0,9547,8.0,not locked,0,Saturday,945,2018-06-09 15:45:13+00:00,awake
+Exercise,House,0,False,1528555543,-1.0,9547,8.0,not locked,0,Saturday,945,2018-06-09 15:45:43+00:00,awake
+Unknown,House,0,False,1528555573,-1.0,7616,8.0,not locked,0,Saturday,946,2018-06-09 15:46:13+00:00,awake
+Still,House,0,False,1528555603,-1.0,7616,8.0,not locked,0,Saturday,946,2018-06-09 15:46:43+00:00,awake
+Still,House,0,False,1528555633,-1.0,7151,8.0,not locked,0,Saturday,947,2018-06-09 15:47:13+00:00,awake
+Still,House,0,False,1528555663,-1.0,7151,8.0,not locked,0,Saturday,947,2018-06-09 15:47:43+00:00,awake
+Still,House,0,False,1528555693,-1.0,7327,8.0,not locked,0,Saturday,948,2018-06-09 15:48:13+00:00,awake
+Exercise,House,0,False,1528555754,-1.0,8800,8.0,not locked,0,Saturday,949,2018-06-09 15:49:14+00:00,awake
+Still,House,0,False,1528555814,-1.0,19314,8.0,not locked,0,Saturday,950,2018-06-09 15:50:14+00:00,awake
+Still,House,0,False,1528555904,-1.0,20710,8.0,not locked,0,Saturday,951,2018-06-09 15:51:44+00:00,awake
+Exercise,House,0,False,1528555934,-1.0,10097,8.0,not locked,0,Saturday,952,2018-06-09 15:52:14+00:00,awake
+Still,House,0,False,1528555994,-1.0,1953,8.0,not locked,0,Saturday,953,2018-06-09 15:53:14+00:00,awake
+Exercise,House,0,False,1528556024,-1.0,1953,8.0,not locked,0,Saturday,953,2018-06-09 15:53:44+00:00,awake
+Exercise,House,0,False,1528556054,-1.0,18773,8.0,not locked,0,Saturday,954,2018-06-09 15:54:14+00:00,awake
+Still,House,0,False,1528556084,-1.0,18773,8.0,locked,0,Saturday,954,2018-06-09 15:54:44+00:00,awake
+Exercise,House,0,False,1528556144,-1.0,24529,8.0,not locked,0,Saturday,955,2018-06-09 15:55:44+00:00,awake
+Still,House,0,False,1528556204,-1.0,12166,8.0,not locked,0,Saturday,956,2018-06-09 15:56:44+00:00,awake
+Still,House,0,False,1528556234,-1.0,9894,8.0,not locked,0,Saturday,957,2018-06-09 15:57:14+00:00,awake
+Still,House,0,False,1528556264,-1.0,9894,8.0,not locked,0,Saturday,957,2018-06-09 15:57:44+00:00,awake
+Still,House,0,False,1528556294,-1.0,9731,8.0,not locked,0,Saturday,958,2018-06-09 15:58:14+00:00,awake
+Still,House,0,False,1528556324,-1.0,9731,8.0,not locked,0,Saturday,958,2018-06-09 15:58:44+00:00,awake
+Still,House,0,False,1528556354,-1.0,9176,8.0,not locked,0,Saturday,959,2018-06-09 15:59:14+00:00,awake
+Still,House,0,False,1528556384,-1.0,9176,8.0,not locked,0,Saturday,959,2018-06-09 15:59:44+00:00,awake
+Unknown,House,0,False,1528556475,-1.0,17166,8.0,not locked,0,Saturday,961,2018-06-09 16:01:15+00:00,awake
+Still,House,0,False,1528556505,-1.0,17166,8.0,not locked,0,Saturday,961,2018-06-09 16:01:45+00:00,awake
+Still,House,0,False,1528556535,-1.0,6861,8.0,not locked,0,Saturday,962,2018-06-09 16:02:15+00:00,awake
+Still,House,0,False,1528556595,-1.0,12766,8.0,not locked,0,Saturday,963,2018-06-09 16:03:15+00:00,awake
+Exercise,House,0,False,1528556625,-1.0,12766,8.0,not locked,0,Saturday,963,2018-06-09 16:03:45+00:00,awake
+Exercise,House,0,False,1528556655,-1.0,19401,8.0,not locked,0,Saturday,964,2018-06-09 16:04:15+00:00,awake
+Still,House,0,False,1528556715,-1.0,6836,8.0,not locked,0,Saturday,965,2018-06-09 16:05:15+00:00,awake
+Still,House,0,False,1528556745,-1.0,6836,8.0,not locked,0,Saturday,965,2018-06-09 16:05:45+00:00,awake
+Still,House,0,False,1528556805,-1.0,8826,8.0,not locked,0,Saturday,966,2018-06-09 16:06:45+00:00,awake
+Still,House,0,False,1528556835,-1.0,25433,8.0,locked,0,Saturday,967,2018-06-09 16:07:15+00:00,awake
+Still,House,0,False,1528556865,-1.0,25433,0.0,locked,0,Saturday,967,2018-06-09 16:07:45+00:00,awake
+Still,House,0,False,1528556926,-1.0,7063,0.0,locked,0,Saturday,968,2018-06-09 16:08:46+00:00,awake
+Still,House,0,False,1528557016,-1.0,7225,0.0,locked,0,Saturday,970,2018-06-09 16:10:16+00:00,awake
+Still,House,0,False,1528557136,-1.0,32767,8.0,not locked,0,Saturday,972,2018-06-09 16:12:16+00:00,awake
+Still,House,0,False,1528557166,-1.0,32767,8.0,locked,0,Saturday,972,2018-06-09 16:12:46+00:00,awake
+Still,House,0,False,1528557197,-1.0,4093,8.0,locked,0,Saturday,973,2018-06-09 16:13:17+00:00,awake
+Still,House,0,False,1528557377,-1.0,32767,8.0,locked,0,Saturday,976,2018-06-09 16:16:17+00:00,awake
+Still,House,0,False,1528557497,-1.0,277,8.0,locked,0,Saturday,978,2018-06-09 16:18:17+00:00,awake
+Still,House,0,False,1528557527,-1.0,277,8.0,locked,0,Saturday,978,2018-06-09 16:18:47+00:00,awake
+Still,House,0,False,1528557557,-1.0,1206,8.0,locked,0,Saturday,979,2018-06-09 16:19:17+00:00,awake
+Still,House,0,False,1528557587,-1.0,1206,8.0,locked,0,Saturday,979,2018-06-09 16:19:47+00:00,awake
+Still,House,0,False,1528557624,-1.0,2969,8.0,locked,0,Saturday,980,2018-06-09 16:20:24+00:00,awake
+Still,House,0,False,1528557887,-1.0,4846,8.0,locked,0,Saturday,984,2018-06-09 16:24:47+00:00,awake
+Still,House,0,False,1528558034,-1.0,4846,8.0,locked,0,Saturday,987,2018-06-09 16:27:14+00:00,awake
+Still,House,0,False,1528558094,-1.0,18828,8.0,locked,0,Saturday,988,2018-06-09 16:28:14+00:00,awake
+Still,House,0,False,1528558124,-1.0,16266,8.0,locked,0,Saturday,988,2018-06-09 16:28:44+00:00,awake
+Still,House,0,False,1528558154,-1.0,16266,8.0,locked,0,Saturday,989,2018-06-09 16:29:14+00:00,awake
+Still,House,0,False,1528558244,-1.0,32767,0.0,not locked,0,Saturday,990,2018-06-09 16:30:44+00:00,awake
+Still,House,0,False,1528558280,-1.0,32767,8.0,locked,0,Saturday,991,2018-06-09 16:31:20+00:00,awake
+Still,House,0,False,1528558310,-1.0,32767,8.0,not locked,0,Saturday,991,2018-06-09 16:31:50+00:00,awake
+Tilting,House,0,False,1528558340,-1.0,32767,8.0,not locked,0,Saturday,992,2018-06-09 16:32:20+00:00,awake
+Unknown,House,0,False,1528558400,-1.0,31336,8.0,not locked,0,Saturday,993,2018-06-09 16:33:20+00:00,awake
+Unknown,House,0,False,1528558431,-1.0,32767,8.0,not locked,0,Saturday,993,2018-06-09 16:33:51+00:00,awake
+Still,House,0,False,1528558491,-1.0,7139,8.0,locked,0,Saturday,994,2018-06-09 16:34:51+00:00,awake
+Still,House,0,False,1528558521,-1.0,7139,8.0,locked,0,Saturday,995,2018-06-09 16:35:21+00:00,awake
+Still,House,0,False,1528558551,-1.0,9644,8.0,locked,0,Saturday,995,2018-06-09 16:35:51+00:00,awake
+Unknown,House,0,False,1528558611,-1.0,9276,8.0,not locked,0,Saturday,996,2018-06-09 16:36:51+00:00,awake
+Still,House,0,False,1528558641,-1.0,9276,8.0,not locked,0,Saturday,997,2018-06-09 16:37:21+00:00,awake
+Still,House,0,False,1528558701,-1.0,4028,8.0,not locked,0,Saturday,998,2018-06-09 16:38:21+00:00,awake
+Still,House,0,False,1528558732,-1.0,10110,8.0,not locked,0,Saturday,998,2018-06-09 16:38:52+00:00,awake
+Still,House,0,False,1528558762,-1.0,10110,8.0,not locked,0,Saturday,999,2018-06-09 16:39:22+00:00,awake
+Still,House,0,False,1528558792,-1.0,17028,8.0,not locked,0,Saturday,999,2018-06-09 16:39:52+00:00,awake
+Still,House,0,False,1528558822,-1.0,17028,8.0,not locked,0,Saturday,1000,2018-06-09 16:40:22+00:00,awake
+Unknown,House,0,False,1528558852,-1.0,6799,8.0,not locked,0,Saturday,1000,2018-06-09 16:40:52+00:00,awake
+Unknown,House,0,False,1528558882,-1.0,6799,8.0,not locked,0,Saturday,1001,2018-06-09 16:41:22+00:00,awake
+Unknown,House,0,False,1528558912,-1.0,11003,8.0,not locked,0,Saturday,1001,2018-06-09 16:41:52+00:00,awake
+Still,House,0,False,1528558942,-1.0,11003,8.0,not locked,0,Saturday,1002,2018-06-09 16:42:22+00:00,awake
+Still,House,0,False,1528558972,-1.0,21131,8.0,not locked,0,Saturday,1002,2018-06-09 16:42:52+00:00,awake
+Still,House,0,False,1528559002,-1.0,21131,8.0,not locked,0,Saturday,1003,2018-06-09 16:43:22+00:00,awake
+Unknown,House,0,False,1528559032,-1.0,32767,0.0,not locked,0,Saturday,1003,2018-06-09 16:43:52+00:00,awake
+Still,House,0,False,1528559064,-1.0,32767,0.0,locked,0,Saturday,1004,2018-06-09 16:44:24+00:00,awake
+Still,House,0,False,1528559094,-1.0,32767,8.0,locked,0,Saturday,1004,2018-06-09 16:44:54+00:00,awake
+Still,House,0,False,1528559184,-1.0,10814,8.0,not locked,0,Saturday,1006,2018-06-09 16:46:24+00:00,awake
+Unknown,House,0,False,1528561302,-1.0,19301,8.0,not locked,0,Saturday,1041,2018-06-09 17:21:42+00:00,awake
+Unknown,Other,0,False,1528561336,-1.0,0,8.0,not locked,0,Saturday,1042,2018-06-09 17:22:16+00:00,awake
+Still,House,0,False,1528561366,-1.0,19709,8.0,not locked,0,Saturday,1042,2018-06-09 17:22:46+00:00,awake
+Exercise,House,0,False,1528561464,-1.0,7918,0.0,locked,0,Saturday,1044,2018-06-09 17:24:24+00:00,awake
+Still,House,0,False,1528561526,-1.0,9227,8.0,not locked,0,Saturday,1045,2018-06-09 17:25:26+00:00,awake
+Still,House,0,False,1528561589,-1.0,30182,8.0,not locked,0,Saturday,1046,2018-06-09 17:26:29+00:00,awake
+Still,House,0,False,1528561619,-1.0,32767,8.0,locked,0,Saturday,1046,2018-06-09 17:26:59+00:00,awake
+Still,House,0,False,1528561649,-1.0,32767,0.0,locked,0,Saturday,1047,2018-06-09 17:27:29+00:00,awake
+Still,House,0,False,1528561679,-1.0,18753,8.0,locked,0,Saturday,1047,2018-06-09 17:27:59+00:00,awake
+Still,House,0,False,1528561709,-1.0,18753,0.0,locked,0,Saturday,1048,2018-06-09 17:28:29+00:00,awake
+Still,House,0,False,1528561739,-1.0,22202,8.0,locked,0,Saturday,1048,2018-06-09 17:28:59+00:00,awake
+Still,House,0,False,1528561799,-1.0,16502,8.0,locked,0,Saturday,1049,2018-06-09 17:29:59+00:00,awake
+Still,House,0,False,1528561830,-1.0,16502,8.0,locked,0,Saturday,1050,2018-06-09 17:30:30+00:00,awake
+Still,House,0,False,1528561860,-1.0,15552,8.0,locked,0,Saturday,1051,2018-06-09 17:31:00+00:00,awake
+Still,House,0,False,1528561890,-1.0,15552,8.0,locked,0,Saturday,1051,2018-06-09 17:31:30+00:00,awake
+Still,House,0,False,1528561920,-1.0,5287,8.0,locked,0,Saturday,1052,2018-06-09 17:32:00+00:00,awake
+Still,House,0,False,1528561950,-1.0,5287,8.0,locked,0,Saturday,1052,2018-06-09 17:32:30+00:00,awake
+Still,House,0,False,1528561980,-1.0,32767,0.0,locked,0,Saturday,1053,2018-06-09 17:33:00+00:00,awake
+Still,House,0,False,1528562010,-1.0,32767,0.0,locked,0,Saturday,1053,2018-06-09 17:33:30+00:00,awake
+Still,House,0,False,1528562040,-1.0,9064,0.0,locked,0,Saturday,1054,2018-06-09 17:34:00+00:00,awake
+Still,House,0,False,1528562070,-1.0,9064,0.0,locked,0,Saturday,1054,2018-06-09 17:34:30+00:00,awake
+Still,House,0,False,1528562288,-1.0,10135,0.0,not locked,0,Saturday,1058,2018-06-09 17:38:08+00:00,awake
+Still,House,0,False,1528562391,-1.0,8106,8.0,locked,0,Saturday,1059,2018-06-09 17:39:51+00:00,awake
+Still,House,0,False,1528562424,-1.0,10323,8.0,locked,0,Saturday,1060,2018-06-09 17:40:24+00:00,awake
+Still,House,0,False,1528562565,-1.0,32767,8.0,not locked,0,Saturday,1062,2018-06-09 17:42:45+00:00,awake
+Still,House,0,False,1528562596,-1.0,32767,8.0,not locked,0,Saturday,1063,2018-06-09 17:43:16+00:00,awake
+Still,House,0,False,1528562626,-1.0,32767,8.0,not locked,0,Saturday,1063,2018-06-09 17:43:46+00:00,awake
+Tilting,House,0,False,1528562686,-1.0,12388,8.0,not locked,0,Saturday,1064,2018-06-09 17:44:46+00:00,awake
+Still,House,0,False,1528562716,-1.0,12388,8.0,not locked,0,Saturday,1065,2018-06-09 17:45:16+00:00,awake
+Exercise,House,0,False,1528562746,-1.0,11833,8.0,not locked,0,Saturday,1065,2018-06-09 17:45:46+00:00,awake
+Still,House,0,False,1528562776,-1.0,11833,0.0,not locked,0,Saturday,1066,2018-06-09 17:46:16+00:00,awake
+Still,House,0,False,1528562806,-1.0,11531,0.0,not locked,0,Saturday,1066,2018-06-09 17:46:46+00:00,awake
+Unknown,House,0,False,1528562897,-1.0,29842,8.0,not locked,0,Saturday,1068,2018-06-09 17:48:17+00:00,awake
+Still,House,0,False,1528562957,-1.0,14239,8.0,not locked,0,Saturday,1069,2018-06-09 17:49:17+00:00,awake
+Still,House,0,False,1528562987,-1.0,8322,8.0,locked,0,Saturday,1069,2018-06-09 17:49:47+00:00,awake
+Still,House,0,False,1528563077,-1.0,12841,0.0,locked,0,Saturday,1071,2018-06-09 17:51:17+00:00,awake
+Still,House,0,False,1528563228,-1.0,8157,0.0,locked,0,Saturday,1073,2018-06-09 17:53:48+00:00,awake
+Still,House,0,False,1528563258,-1.0,8157,0.0,locked,0,Saturday,1074,2018-06-09 17:54:18+00:00,awake
+Still,House,0,False,1528563288,-1.0,5943,0.0,locked,0,Saturday,1074,2018-06-09 17:54:48+00:00,awake
+Still,House,0,False,1528563328,-1.0,5943,0.0,locked,0,Saturday,1075,2018-06-09 17:55:28+00:00,awake
+Still,House,0,False,1528563388,-1.0,25634,8.0,locked,0,Saturday,1076,2018-06-09 17:56:28+00:00,awake
+Still,House,0,False,1528563423,-1.0,8257,8.0,locked,0,Saturday,1077,2018-06-09 17:57:03+00:00,awake
+Still,House,0,False,1528563551,-1.0,8257,8.0,locked,0,Saturday,1079,2018-06-09 17:59:11+00:00,awake
+Still,House,0,False,1528563587,-1.0,17745,8.0,locked,0,Saturday,1079,2018-06-09 17:59:47+00:00,awake
+Still,House,0,False,1528563664,-1.0,17745,8.0,locked,0,Saturday,1081,2018-06-09 18:01:04+00:00,awake
+Still,House,0,False,1528563694,-1.0,6585,8.0,locked,0,Saturday,1081,2018-06-09 18:01:34+00:00,awake
+Still,House,0,False,1528563794,-1.0,6585,8.0,locked,0,Saturday,1083,2018-06-09 18:03:14+00:00,awake
+Still,House,0,False,1528563974,-1.0,19747,8.0,locked,0,Saturday,1086,2018-06-09 18:06:14+00:00,awake
+Tilting,House,0,False,1528564131,-1.0,9354,0.0,locked,0,Saturday,1088,2018-06-09 18:08:51+00:00,awake
+Still,House,0,False,1528564161,-1.0,3587,0.0,locked,0,Saturday,1089,2018-06-09 18:09:21+00:00,awake
+Still,House,0,False,1528564337,-1.0,21148,0.0,locked,0,Saturday,1092,2018-06-09 18:12:17+00:00,awake
+Still,House,0,False,1528564450,-1.0,21148,8.0,not locked,0,Saturday,1094,2018-06-09 18:14:10+00:00,awake
+Still,House,0,False,1528564542,-1.0,12980,8.0,locked,0,Saturday,1095,2018-06-09 18:15:42+00:00,awake
+Still,House,0,False,1528564679,-1.0,6793,8.0,locked,0,Saturday,1097,2018-06-09 18:17:59+00:00,awake
+Still,House,0,False,1528564807,-1.0,15825,8.0,locked,0,Saturday,1100,2018-06-09 18:20:07+00:00,awake
+Still,House,0,False,1528564935,-1.0,5073,8.0,locked,0,Saturday,1102,2018-06-09 18:22:15+00:00,awake
+Still,House,0,False,1528565016,-1.0,7793,8.0,locked,0,Saturday,1103,2018-06-09 18:23:36+00:00,awake
+Still,House,0,False,1528565088,-1.0,7793,8.0,locked,0,Saturday,1104,2018-06-09 18:24:48+00:00,awake
+Still,House,0,False,1528565118,-1.0,13333,8.0,locked,0,Saturday,1105,2018-06-09 18:25:18+00:00,awake
+Still,House,0,False,1528565295,-1.0,13333,8.0,locked,0,Saturday,1108,2018-06-09 18:28:15+00:00,awake
+Still,House,0,False,1528565325,-1.0,13936,8.0,locked,0,Saturday,1108,2018-06-09 18:28:45+00:00,awake
+Still,House,0,False,1528565429,-1.0,13936,8.0,locked,0,Saturday,1110,2018-06-09 18:30:29+00:00,awake
+Still,House,0,False,1528565601,-1.0,12602,8.0,locked,0,Saturday,1113,2018-06-09 18:33:21+00:00,awake
+Still,House,0,False,1528565746,-1.0,12602,8.0,locked,0,Saturday,1115,2018-06-09 18:35:46+00:00,awake
+Still,House,0,False,1528565780,-1.0,30090,8.0,locked,0,Saturday,1116,2018-06-09 18:36:20+00:00,awake
+Still,House,0,False,1528565893,-1.0,21749,0.0,locked,0,Saturday,1118,2018-06-09 18:38:13+00:00,awake
+Still,House,0,False,1528565923,-1.0,32767,0.0,locked,0,Saturday,1118,2018-06-09 18:38:43+00:00,awake
+Tilting,House,0,False,1528565994,-1.0,32767,0.0,locked,0,Saturday,1119,2018-06-09 18:39:54+00:00,awake
+Still,House,0,False,1528566033,-1.0,2364,0.0,locked,0,Saturday,1120,2018-06-09 18:40:33+00:00,awake
+Still,House,0,False,1528566123,-1.0,2364,0.0,locked,0,Saturday,1122,2018-06-09 18:42:03+00:00,awake
+Still,House,0,False,1528566153,-1.0,222,0.0,locked,0,Saturday,1122,2018-06-09 18:42:33+00:00,awake
+Still,House,0,False,1528566343,-1.0,20635,0.0,locked,0,Saturday,1125,2018-06-09 18:45:43+00:00,awake
+Still,House,0,False,1528566512,-1.0,20635,0.0,locked,0,Saturday,1128,2018-06-09 18:48:32+00:00,awake
+Still,House,0,False,1528566550,-1.0,548,0.0,locked,0,Saturday,1129,2018-06-09 18:49:10+00:00,awake
+Still,House,0,False,1528566896,-1.0,24417,0.0,locked,0,Saturday,1134,2018-06-09 18:54:56+00:00,awake
+Still,House,0,False,1528566939,-1.0,24417,0.0,locked,0,Saturday,1135,2018-06-09 18:55:39+00:00,awake
+Still,House,0,False,1528566969,-1.0,16875,0.0,locked,0,Saturday,1136,2018-06-09 18:56:09+00:00,awake
+Still,House,0,False,1528567116,-1.0,16875,0.0,locked,0,Saturday,1138,2018-06-09 18:58:36+00:00,awake
+Still,House,0,False,1528567227,-1.0,32767,8.0,not locked,0,Saturday,1140,2018-06-09 19:00:27+00:00,awake
+Still,House,0,False,1528567257,-1.0,32767,8.0,not locked,0,Saturday,1140,2018-06-09 19:00:57+00:00,awake
+Still,House,0,False,1528567287,-1.0,12325,8.0,not locked,0,Saturday,1141,2018-06-09 19:01:27+00:00,awake
+Tilting,House,0,False,1528567373,-1.0,12325,8.0,locked,0,Saturday,1142,2018-06-09 19:02:53+00:00,awake
+Still,House,0,False,1528567415,-1.0,9971,8.0,locked,0,Saturday,1143,2018-06-09 19:03:35+00:00,awake
+Still,House,0,False,1528567510,-1.0,9971,8.0,locked,0,Saturday,1145,2018-06-09 19:05:10+00:00,awake
+Still,House,0,False,1528567540,-1.0,8781,8.0,locked,0,Saturday,1145,2018-06-09 19:05:40+00:00,awake
+Still,House,0,False,1528567622,-1.0,8781,8.0,not locked,0,Saturday,1147,2018-06-09 19:07:02+00:00,awake
+Still,House,0,False,1528567652,-1.0,12039,8.0,locked,0,Saturday,1147,2018-06-09 19:07:32+00:00,awake
+Unknown,Other,0,False,1528567775,-1.0,0,8.0,not locked,0,Saturday,1149,2018-06-09 19:09:35+00:00,awake
+Unknown,House,0,False,1528567805,-1.0,9202,8.0,not locked,0,Saturday,1150,2018-06-09 19:10:05+00:00,awake
+Still,House,0,False,1528567835,-1.0,9202,8.0,not locked,0,Saturday,1150,2018-06-09 19:10:35+00:00,awake
+Still,House,0,False,1528567865,-1.0,11583,8.0,not locked,0,Saturday,1151,2018-06-09 19:11:05+00:00,awake
+Still,House,0,False,1528567895,-1.0,11583,8.0,not locked,0,Saturday,1151,2018-06-09 19:11:35+00:00,awake
+Still,House,0,False,1528567925,-1.0,15472,8.0,not locked,0,Saturday,1152,2018-06-09 19:12:05+00:00,awake
+Still,House,0,False,1528567955,-1.0,15472,8.0,not locked,0,Saturday,1152,2018-06-09 19:12:35+00:00,awake
+Unknown,House,0,False,1528568015,-1.0,17849,8.0,not locked,0,Saturday,1153,2018-06-09 19:13:35+00:00,awake
+Still,House,0,False,1528568046,-1.0,16524,8.0,not locked,0,Saturday,1154,2018-06-09 19:14:06+00:00,awake
+Still,House,0,False,1528568076,-1.0,16524,8.0,not locked,0,Saturday,1154,2018-06-09 19:14:36+00:00,awake
+Still,House,0,False,1528568106,-1.0,32767,0.0,locked,0,Saturday,1155,2018-06-09 19:15:06+00:00,awake
+Still,House,0,False,1528568150,-1.0,32767,0.0,locked,0,Saturday,1155,2018-06-09 19:15:50+00:00,awake
+Still,House,0,False,1528568210,-1.0,5123,0.0,locked,0,Saturday,1156,2018-06-09 19:16:50+00:00,awake
+Still,House,0,False,1528568240,-1.0,32767,0.0,locked,0,Saturday,1157,2018-06-09 19:17:20+00:00,awake
+Exercise,House,0,False,1528568307,-1.0,32767,0.0,locked,0,Saturday,1158,2018-06-09 19:18:27+00:00,awake
+Still,House,0,False,1528568352,-1.0,32767,0.0,locked,0,Saturday,1159,2018-06-09 19:19:12+00:00,awake
+Still,House,0,False,1528568414,-1.0,14277,0.0,locked,0,Saturday,1160,2018-06-09 19:20:14+00:00,awake
+Unknown,House,0,False,1528568445,-1.0,32742,0.0,locked,0,Saturday,1160,2018-06-09 19:20:45+00:00,awake
+Exercise,House,0,False,1528568489,-1.0,32742,0.0,locked,0,Saturday,1161,2018-06-09 19:21:29+00:00,awake
+Exercise,Other,0,False,1528568639,-1.0,30995,0.0,locked,0,Saturday,1163,2018-06-09 19:23:59+00:00,awake
+Exercise,Other,0,False,1528568700,-1.0,17097,0.0,locked,0,Saturday,1165,2018-06-09 19:25:00+00:00,awake
+Exercise,Other,0,False,1528568760,-1.0,9026,0.0,locked,0,Saturday,1166,2018-06-09 19:26:00+00:00,awake
+Exercise,Other,0,False,1528568790,-1.0,9026,0.0,locked,0,Saturday,1166,2018-06-09 19:26:30+00:00,awake
+Exercise,Other,0,False,1528568850,-1.0,25211,0.0,locked,0,Saturday,1167,2018-06-09 19:27:30+00:00,awake
+Exercise,Other,0,False,1528568880,-1.0,27748,0.0,locked,0,Saturday,1168,2018-06-09 19:28:00+00:00,awake
+Exercise,Other,0,False,1528568910,-1.0,27748,0.0,locked,0,Saturday,1168,2018-06-09 19:28:30+00:00,awake
+Exercise,Other,0,False,1528568940,-1.0,29687,0.0,locked,0,Saturday,1169,2018-06-09 19:29:00+00:00,awake
+Exercise,Other,0,False,1528568971,-1.0,29687,0.0,locked,0,Saturday,1169,2018-06-09 19:29:31+00:00,awake
+Unknown,Other,0,False,1528569001,-1.0,32411,0.0,locked,0,Saturday,1170,2018-06-09 19:30:01+00:00,awake
+Still,Other,0,False,1528569035,-1.0,32411,0.0,locked,0,Saturday,1170,2018-06-09 19:30:35+00:00,awake
+Still,Other,0,False,1528569066,-1.0,24449,0.0,locked,0,Saturday,1171,2018-06-09 19:31:06+00:00,awake
+Exercise,Other,0,False,1528569140,-1.0,24449,0.0,locked,0,Saturday,1172,2018-06-09 19:32:20+00:00,awake
+Exercise,Other,0,False,1528569170,-1.0,27626,0.0,locked,0,Saturday,1172,2018-06-09 19:32:50+00:00,awake
+Exercise,Other,0,False,1528569217,-1.0,27626,0.0,locked,0,Saturday,1173,2018-06-09 19:33:37+00:00,awake
+Still,Other,0,False,1528569247,-1.0,24415,0.0,locked,0,Saturday,1174,2018-06-09 19:34:07+00:00,awake
+Exercise,Other,0,False,1528569345,-1.0,24415,0.0,locked,0,Saturday,1175,2018-06-09 19:35:45+00:00,awake
+In vehicle,Other,0,False,1528569375,-1.0,13835,0.0,locked,0,Saturday,1176,2018-06-09 19:36:15+00:00,awake
+In vehicle,Other,0,False,1528569426,-1.0,13835,0.0,locked,0,Saturday,1177,2018-06-09 19:37:06+00:00,awake
+In vehicle,Other,0,False,1528569457,-1.0,32767,0.0,locked,0,Saturday,1177,2018-06-09 19:37:37+00:00,awake
+In vehicle,Other,0,False,1528569491,-1.0,32767,0.0,locked,0,Saturday,1178,2018-06-09 19:38:11+00:00,awake
+In vehicle,Other,0,False,1528569521,-1.0,32767,0.0,locked,0,Saturday,1178,2018-06-09 19:38:41+00:00,awake
+In vehicle,Other,0,False,1528569594,-1.0,32767,0.0,locked,0,Saturday,1179,2018-06-09 19:39:54+00:00,awake
+In vehicle,Other,0,False,1528569678,-1.0,32767,0.0,locked,0,Saturday,1181,2018-06-09 19:41:18+00:00,awake
+Still,Other,0,False,1528569708,-1.0,32767,0.0,locked,0,Saturday,1181,2018-06-09 19:41:48+00:00,awake
+In vehicle,Other,0,False,1528569738,-1.0,22886,0.0,locked,0,Saturday,1182,2018-06-09 19:42:18+00:00,awake
+Unknown,Other,0,False,1528569816,-1.0,15584,0.0,locked,0,Saturday,1183,2018-06-09 19:43:36+00:00,awake
+In vehicle,Other,0,False,1528569872,-1.0,15584,0.0,locked,0,Saturday,1184,2018-06-09 19:44:32+00:00,awake
+Still,Other,0,False,1528569902,-1.0,13723,0.0,locked,0,Saturday,1185,2018-06-09 19:45:02+00:00,awake
+Exercise,Other,0,False,1528569954,-1.0,13723,0.0,locked,0,Saturday,1185,2018-06-09 19:45:54+00:00,awake
+Unknown,Other,0,False,1528569984,-1.0,4293,0.0,locked,0,Saturday,1186,2018-06-09 19:46:24+00:00,awake
+In vehicle,Other,0,False,1528570028,-1.0,4293,0.0,locked,0,Saturday,1187,2018-06-09 19:47:08+00:00,awake
+Still,Other,0,False,1528570058,-1.0,17250,0.0,locked,0,Saturday,1187,2018-06-09 19:47:38+00:00,awake
+Unknown,Other,0,False,1528570127,-1.0,9870,0.0,locked,0,Saturday,1188,2018-06-09 19:48:47+00:00,awake
+Still,Other,0,False,1528570171,-1.0,9870,0.0,locked,0,Saturday,1189,2018-06-09 19:49:31+00:00,awake
+Unknown,Other,0,False,1528570201,-1.0,13433,0.0,locked,0,Saturday,1190,2018-06-09 19:50:01+00:00,awake
+Still,Other,0,False,1528570244,-1.0,13433,0.0,locked,0,Saturday,1190,2018-06-09 19:50:44+00:00,awake
+Still,Other,0,False,1528570275,-1.0,19641,0.0,locked,0,Saturday,1191,2018-06-09 19:51:15+00:00,awake
+Still,Other,0,False,1528570318,-1.0,19641,0.0,locked,0,Saturday,1191,2018-06-09 19:51:58+00:00,awake
+Still,Other,0,False,1528570353,-1.0,19858,0.0,locked,0,Saturday,1192,2018-06-09 19:52:33+00:00,awake
+Still,Other,0,False,1528570387,-1.0,19858,0.0,locked,0,Saturday,1193,2018-06-09 19:53:07+00:00,awake
+Still,Other,0,False,1528570417,-1.0,3953,0.0,locked,0,Saturday,1193,2018-06-09 19:53:37+00:00,awake
+In vehicle,Other,0,False,1528570470,-1.0,3953,0.0,locked,0,Saturday,1194,2018-06-09 19:54:30+00:00,awake
+Still,Other,0,False,1528570496,-1.0,15586,0.0,locked,0,Saturday,1194,2018-06-09 19:54:56+00:00,awake
+In vehicle,Other,0,False,1528570539,-1.0,15586,0.0,locked,0,Saturday,1195,2018-06-09 19:55:39+00:00,awake
+Still,Other,0,False,1528570617,-1.0,22405,0.0,locked,0,Saturday,1196,2018-06-09 19:56:57+00:00,awake
+Still,Other,0,False,1528570652,-1.0,28455,0.0,locked,0,Saturday,1197,2018-06-09 19:57:32+00:00,awake
+In vehicle,Other,0,False,1528570679,-1.0,28455,0.0,locked,0,Saturday,1197,2018-06-09 19:57:59+00:00,awake
+In vehicle,Other,0,False,1528570709,-1.0,32767,0.0,locked,0,Saturday,1198,2018-06-09 19:58:29+00:00,awake
+In vehicle,Other,0,False,1528570770,-1.0,28465,0.0,locked,0,Saturday,1199,2018-06-09 19:59:30+00:00,awake
+Exercise,Other,0,False,1528570847,-1.0,32767,0.0,locked,0,Saturday,1200,2018-06-09 20:00:47+00:00,awake
+Exercise,Other,0,False,1528570877,-1.0,32767,0.0,locked,0,Saturday,1201,2018-06-09 20:01:17+00:00,awake
+Exercise,Other,0,False,1528570907,-1.0,31690,0.0,locked,0,Saturday,1201,2018-06-09 20:01:47+00:00,awake
+Exercise,Other,0,False,1528570937,-1.0,31690,0.0,locked,0,Saturday,1202,2018-06-09 20:02:17+00:00,awake
+Exercise,Other,0,False,1528570997,-1.0,32767,0.0,locked,0,Saturday,1203,2018-06-09 20:03:17+00:00,awake
+Still,Other,0,False,1528571211,-1.0,32767,8.0,locked,0,Saturday,1206,2018-06-09 20:06:51+00:00,awake
+Still,Other,0,False,1528571241,-1.0,10638,8.0,locked,0,Saturday,1207,2018-06-09 20:07:21+00:00,awake
+Still,Other,0,False,1528571271,-1.0,10638,8.0,locked,0,Saturday,1207,2018-06-09 20:07:51+00:00,awake
+Still,Other,0,False,1528571336,-1.0,32767,0.0,locked,0,Saturday,1208,2018-06-09 20:08:56+00:00,awake
+Still,Other,0,False,1528571366,-1.0,32767,8.0,locked,0,Saturday,1209,2018-06-09 20:09:26+00:00,awake
+Still,Other,0,False,1528571396,-1.0,32767,0.0,not locked,0,Saturday,1209,2018-06-09 20:09:56+00:00,awake
+Still,Other,0,False,1528571426,-1.0,20187,0.0,locked,0,Saturday,1210,2018-06-09 20:10:26+00:00,awake
+Still,Other,0,False,1528571517,-1.0,15976,0.0,locked,0,Saturday,1211,2018-06-09 20:11:57+00:00,awake
+Still,Other,0,False,1528571577,-1.0,13393,0.0,locked,0,Saturday,1212,2018-06-09 20:12:57+00:00,awake
+Still,Other,0,False,1528571659,-1.0,16610,0.0,locked,0,Saturday,1214,2018-06-09 20:14:19+00:00,awake
+Still,Other,0,False,1528571689,-1.0,31513,0.0,locked,0,Saturday,1214,2018-06-09 20:14:49+00:00,awake
+Still,Other,0,False,1528571787,-1.0,31513,0.0,locked,0,Saturday,1216,2018-06-09 20:16:27+00:00,awake
+Still,Other,0,False,1528571817,-1.0,28346,0.0,locked,0,Saturday,1216,2018-06-09 20:16:57+00:00,awake
+Still,Other,0,False,1528571885,-1.0,28346,0.0,locked,0,Saturday,1218,2018-06-09 20:18:05+00:00,awake
+Still,Other,0,False,1528572158,-1.0,9304,0.0,locked,0,Saturday,1222,2018-06-09 20:22:38+00:00,awake
+Still,Other,0,False,1528572312,-1.0,18389,0.0,locked,0,Saturday,1225,2018-06-09 20:25:12+00:00,awake
+Still,Other,0,False,1528572347,-1.0,14464,0.0,locked,0,Saturday,1225,2018-06-09 20:25:47+00:00,awake
+Still,Other,0,False,1528572607,-1.0,5287,0.0,locked,0,Saturday,1230,2018-06-09 20:30:07+00:00,awake
+Still,Other,0,False,1528572664,-1.0,5287,0.0,locked,0,Saturday,1231,2018-06-09 20:31:04+00:00,awake
+Still,Other,0,False,1528572702,-1.0,18427,0.0,locked,0,Saturday,1231,2018-06-09 20:31:42+00:00,awake
+Still,Other,0,False,1528572772,-1.0,18427,0.0,locked,0,Saturday,1232,2018-06-09 20:32:52+00:00,awake
+Still,Other,0,False,1528572803,-1.0,9870,0.0,locked,0,Saturday,1233,2018-06-09 20:33:23+00:00,awake
+Still,Other,0,False,1528572861,-1.0,9870,0.0,locked,0,Saturday,1234,2018-06-09 20:34:21+00:00,awake
+Still,Other,0,False,1528572891,-1.0,15434,0.0,locked,0,Saturday,1234,2018-06-09 20:34:51+00:00,awake
+Still,Other,0,False,1528573015,-1.0,15434,0.0,locked,0,Saturday,1236,2018-06-09 20:36:55+00:00,awake
+Still,Other,0,False,1528573045,-1.0,6773,0.0,locked,0,Saturday,1237,2018-06-09 20:37:25+00:00,awake
+Still,Other,0,False,1528573335,-1.0,1733,0.0,locked,0,Saturday,1242,2018-06-09 20:42:15+00:00,awake
+Still,Other,0,False,1528573481,-1.0,13138,0.0,locked,0,Saturday,1244,2018-06-09 20:44:41+00:00,awake
+Still,Other,0,False,1528573511,-1.0,32767,0.0,locked,0,Saturday,1245,2018-06-09 20:45:11+00:00,awake
+Still,Other,0,False,1528573643,-1.0,32767,0.0,locked,0,Saturday,1247,2018-06-09 20:47:23+00:00,awake
+Still,Other,0,False,1528573673,-1.0,20343,0.0,locked,0,Saturday,1247,2018-06-09 20:47:53+00:00,awake
+Unknown,Other,0,False,1528636609,-1.0,0,8.0,not locked,0,Sunday,856,2018-06-10 14:16:49+00:00,awake
+Still,House,0,False,1528636638,-1.0,7595,8.0,not locked,0,Sunday,857,2018-06-10 14:17:18+00:00,awake
+Still,House,0,False,1528636668,-1.0,7595,8.0,not locked,0,Sunday,857,2018-06-10 14:17:48+00:00,awake
+Still,House,0,False,1528636728,-1.0,7793,8.0,not locked,0,Sunday,858,2018-06-10 14:18:48+00:00,awake
+Still,House,0,False,1528636758,-1.0,558,8.0,not locked,0,Sunday,859,2018-06-10 14:19:18+00:00,awake
+Still,House,0,False,1528636788,-1.0,558,8.0,not locked,0,Sunday,859,2018-06-10 14:19:48+00:00,awake
+Still,House,0,False,1528636848,-1.0,19827,8.0,not locked,0,Sunday,860,2018-06-10 14:20:48+00:00,awake
+Still,House,0,False,1528636878,-1.0,26739,8.0,locked,0,Sunday,861,2018-06-10 14:21:18+00:00,awake
+Unknown,Other,0,False,1528637383,-1.0,0,8.0,not locked,0,Sunday,869,2018-06-10 14:29:43+00:00,awake
+Unknown,House,0,False,1528637413,-1.0,31624,8.0,not locked,0,Sunday,870,2018-06-10 14:30:13+00:00,awake
+Unknown,House,0,False,1528637443,-1.0,31624,8.0,not locked,0,Sunday,870,2018-06-10 14:30:43+00:00,awake
+Still,House,0,False,1528637473,-1.0,24004,8.0,not locked,0,Sunday,871,2018-06-10 14:31:13+00:00,awake
+Still,House,0,False,1528637503,-1.0,24004,8.0,not locked,0,Sunday,871,2018-06-10 14:31:43+00:00,awake
+Still,House,0,False,1528637533,-1.0,4783,8.0,not locked,0,Sunday,872,2018-06-10 14:32:13+00:00,awake
+Still,House,0,False,1528637594,-1.0,5766,8.0,locked,0,Sunday,873,2018-06-10 14:33:14+00:00,awake
+Still,House,0,False,1528637629,-1.0,5766,8.0,locked,0,Sunday,873,2018-06-10 14:33:49+00:00,awake
+Still,House,0,False,1528637659,-1.0,936,8.0,locked,0,Sunday,874,2018-06-10 14:34:19+00:00,awake
+Still,House,0,False,1528637689,-1.0,936,8.0,locked,0,Sunday,874,2018-06-10 14:34:49+00:00,awake
+Still,House,0,False,1528637719,-1.0,477,8.0,locked,0,Sunday,875,2018-06-10 14:35:19+00:00,awake
+Still,House,0,False,1528637749,-1.0,477,8.0,locked,0,Sunday,875,2018-06-10 14:35:49+00:00,awake
+Still,House,0,False,1528637779,-1.0,972,8.0,locked,0,Sunday,876,2018-06-10 14:36:19+00:00,awake
+Still,House,0,False,1528637809,-1.0,972,8.0,locked,0,Sunday,876,2018-06-10 14:36:49+00:00,awake
+Still,House,0,False,1528637869,-1.0,3499,8.0,locked,0,Sunday,877,2018-06-10 14:37:49+00:00,awake
+Still,House,0,False,1528637899,-1.0,426,8.0,locked,0,Sunday,878,2018-06-10 14:38:19+00:00,awake
+Still,House,0,False,1528637929,-1.0,426,8.0,locked,0,Sunday,878,2018-06-10 14:38:49+00:00,awake
+Still,House,0,False,1528637959,-1.0,546,8.0,locked,0,Sunday,879,2018-06-10 14:39:19+00:00,awake
+Still,House,0,False,1528638067,-1.0,546,8.0,locked,0,Sunday,881,2018-06-10 14:41:07+00:00,awake
+Still,House,0,False,1528638097,-1.0,347,8.0,locked,0,Sunday,881,2018-06-10 14:41:37+00:00,awake
+Still,House,0,False,1528638253,-1.0,347,8.0,locked,0,Sunday,884,2018-06-10 14:44:13+00:00,awake
+Still,House,0,False,1528638273,-1.0,477,8.0,locked,0,Sunday,884,2018-06-10 14:44:33+00:00,awake
+Still,House,0,False,1528638350,-1.0,477,8.0,locked,0,Sunday,885,2018-06-10 14:45:50+00:00,awake
+Still,House,0,False,1528638380,-1.0,2769,8.0,locked,0,Sunday,886,2018-06-10 14:46:20+00:00,awake
+Still,House,0,False,1528638460,-1.0,547,8.0,locked,0,Sunday,887,2018-06-10 14:47:40+00:00,awake
+Still,House,0,False,1528638592,-1.0,547,8.0,locked,0,Sunday,889,2018-06-10 14:49:52+00:00,awake
+Still,House,0,False,1528638622,-1.0,162,8.0,locked,0,Sunday,890,2018-06-10 14:50:22+00:00,awake
+Still,House,0,False,1528638871,-1.0,162,8.0,locked,0,Sunday,894,2018-06-10 14:54:31+00:00,awake
+Still,House,0,False,1528638901,-1.0,987,8.0,locked,0,Sunday,895,2018-06-10 14:55:01+00:00,awake
+Still,House,0,False,1528639061,-1.0,987,8.0,locked,0,Sunday,897,2018-06-10 14:57:41+00:00,awake
+Still,House,0,False,1528639091,-1.0,936,8.0,locked,0,Sunday,898,2018-06-10 14:58:11+00:00,awake
+Still,House,0,False,1528639197,-1.0,936,8.0,locked,0,Sunday,899,2018-06-10 14:59:57+00:00,awake
+Still,House,0,False,1528639382,-1.0,1963,8.0,locked,0,Sunday,903,2018-06-10 15:03:02+00:00,awake
+Still,House,0,False,1528639623,-1.0,809,8.0,locked,0,Sunday,907,2018-06-10 15:07:03+00:00,awake
+Still,House,0,False,1528639653,-1.0,499,8.0,locked,0,Sunday,907,2018-06-10 15:07:33+00:00,awake
+Still,House,0,False,1528640046,-1.0,698,8.0,locked,0,Sunday,914,2018-06-10 15:14:06+00:00,awake
+Still,House,0,False,1528640445,-1.0,797,8.0,locked,0,Sunday,920,2018-06-10 15:20:45+00:00,awake
+Still,House,0,False,1528641097,-1.0,2706,8.0,locked,0,Sunday,931,2018-06-10 15:31:37+00:00,awake
+Still,House,0,False,1528641456,-1.0,8157,8.0,locked,0,Sunday,937,2018-06-10 15:37:36+00:00,awake
+Still,House,0,False,1528641594,-1.0,8157,8.0,locked,0,Sunday,939,2018-06-10 15:39:54+00:00,awake
+Still,House,0,False,1528641705,-1.0,951,8.0,locked,0,Sunday,941,2018-06-10 15:41:45+00:00,awake
+Still,House,0,False,1528642033,-1.0,14096,8.0,locked,0,Sunday,947,2018-06-10 15:47:13+00:00,awake
+Still,House,0,False,1528642348,-1.0,6789,0.0,locked,0,Sunday,952,2018-06-10 15:52:28+00:00,awake
+Still,House,0,False,1528642463,-1.0,23366,0.0,locked,0,Sunday,954,2018-06-10 15:54:23+00:00,awake
+Tilting,House,0,False,1528642507,-1.0,23366,0.0,locked,0,Sunday,955,2018-06-10 15:55:07+00:00,awake
+Still,House,0,False,1528642537,-1.0,7629,0.0,locked,0,Sunday,955,2018-06-10 15:55:37+00:00,awake
+Still,House,0,False,1528642794,-1.0,7629,0.0,locked,0,Sunday,959,2018-06-10 15:59:54+00:00,awake
+Still,House,0,False,1528642825,-1.0,2798,0.0,locked,0,Sunday,960,2018-06-10 16:00:25+00:00,awake
+Still,House,0,False,1528643121,-1.0,2798,0.0,locked,0,Sunday,965,2018-06-10 16:05:21+00:00,awake
+Still,House,0,False,1528643162,-1.0,32767,0.0,locked,0,Sunday,966,2018-06-10 16:06:02+00:00,awake
+Still,House,0,False,1528643457,-1.0,32767,0.0,locked,0,Sunday,970,2018-06-10 16:10:57+00:00,awake
+Still,House,0,False,1528644760,-1.0,493,0.0,locked,0,Sunday,992,2018-06-10 16:32:40+00:00,awake
+Still,House,0,False,1528644958,-1.0,832,0.0,locked,0,Sunday,995,2018-06-10 16:35:58+00:00,awake
+Still,House,0,False,1528645225,-1.0,832,0.0,locked,0,Sunday,1000,2018-06-10 16:40:25+00:00,awake
+Still,House,0,False,1528645260,-1.0,3534,0.0,locked,0,Sunday,1001,2018-06-10 16:41:00+00:00,awake
+Still,House,0,False,1528645551,-1.0,3534,0.0,locked,0,Sunday,1005,2018-06-10 16:45:51+00:00,awake
+Still,House,0,False,1528645588,-1.0,680,0.0,locked,0,Sunday,1006,2018-06-10 16:46:28+00:00,awake
+Still,House,0,False,1528645800,-1.0,568,0.0,locked,0,Sunday,1010,2018-06-10 16:50:00+00:00,awake
+Still,House,0,False,1528646093,-1.0,410,0.0,locked,0,Sunday,1014,2018-06-10 16:54:53+00:00,awake
+Still,House,0,False,1528646216,-1.0,410,0.0,locked,0,Sunday,1016,2018-06-10 16:56:56+00:00,awake
+Still,House,0,False,1528646261,-1.0,881,0.0,locked,0,Sunday,1017,2018-06-10 16:57:41+00:00,awake
+Still,House,0,False,1528646551,-1.0,9568,0.0,locked,0,Sunday,1022,2018-06-10 17:02:31+00:00,awake
+Still,House,0,False,1528646586,-1.0,370,0.0,locked,0,Sunday,1023,2018-06-10 17:03:06+00:00,awake
+Still,House,0,False,1528646797,-1.0,370,0.0,locked,0,Sunday,1026,2018-06-10 17:06:37+00:00,awake
+Still,House,0,False,1528646841,-1.0,2316,0.0,locked,0,Sunday,1027,2018-06-10 17:07:21+00:00,awake
+Still,House,0,False,1528646881,-1.0,2316,0.0,locked,0,Sunday,1028,2018-06-10 17:08:01+00:00,awake
+Still,House,0,False,1528646911,-1.0,721,0.0,locked,0,Sunday,1028,2018-06-10 17:08:31+00:00,awake
+Still,House,0,False,1528647035,-1.0,721,0.0,locked,0,Sunday,1030,2018-06-10 17:10:35+00:00,awake
+Still,House,0,False,1528647268,-1.0,407,0.0,locked,0,Sunday,1034,2018-06-10 17:14:28+00:00,awake
+Still,House,0,False,1528647456,-1.0,407,0.0,locked,0,Sunday,1037,2018-06-10 17:17:36+00:00,awake
+Still,House,0,False,1528647469,-1.0,482,0.0,locked,0,Sunday,1037,2018-06-10 17:17:49+00:00,awake
+Still,House,0,False,1528647702,-1.0,482,0.0,locked,0,Sunday,1041,2018-06-10 17:21:42+00:00,awake
+Still,House,0,False,1528648033,-1.0,16027,0.0,locked,0,Sunday,1047,2018-06-10 17:27:13+00:00,awake
+Still,House,0,False,1528649013,-1.0,4090,0.0,locked,0,Sunday,1063,2018-06-10 17:43:33+00:00,awake
+Still,House,0,False,1528649213,-1.0,1560,0.0,locked,0,Sunday,1066,2018-06-10 17:46:53+00:00,awake
+Still,House,0,False,1528649243,-1.0,714,0.0,locked,0,Sunday,1067,2018-06-10 17:47:23+00:00,awake
+Still,House,0,False,1528649754,-1.0,714,0.0,locked,0,Sunday,1075,2018-06-10 17:55:54+00:00,awake
+Still,House,0,False,1528649784,-1.0,3101,0.0,locked,0,Sunday,1076,2018-06-10 17:56:24+00:00,awake
+Still,House,0,False,1528649935,-1.0,3101,8.0,locked,0,Sunday,1078,2018-06-10 17:58:55+00:00,awake
+Unknown,House,0,False,1528649965,-1.0,18802,8.0,not locked,0,Sunday,1079,2018-06-10 17:59:25+00:00,awake
+Still,House,0,False,1528649995,-1.0,18802,8.0,not locked,0,Sunday,1079,2018-06-10 17:59:55+00:00,awake
+Still,House,0,False,1528650085,-1.0,5571,8.0,not locked,0,Sunday,1081,2018-06-10 18:01:25+00:00,awake
+Still,House,0,False,1528650115,-1.0,5571,8.0,not locked,0,Sunday,1081,2018-06-10 18:01:55+00:00,awake
+Still,House,0,False,1528650146,-1.0,8317,8.0,not locked,0,Sunday,1082,2018-06-10 18:02:26+00:00,awake
+Still,House,0,False,1528650236,-1.0,1335,8.0,not locked,0,Sunday,1083,2018-06-10 18:03:56+00:00,awake
+Still,House,0,False,1528650507,-1.0,4356,8.0,not locked,0,Sunday,1088,2018-06-10 18:08:27+00:00,awake
+Still,House,0,False,1528650929,-1.0,1898,8.0,locked,0,Sunday,1095,2018-06-10 18:15:29+00:00,awake
+Still,House,0,False,1528651278,-1.0,10465,8.0,not locked,0,Sunday,1101,2018-06-10 18:21:18+00:00,awake
+Still,House,0,False,1528651462,-1.0,4803,8.0,locked,0,Sunday,1104,2018-06-10 18:24:22+00:00,awake
+Still,House,0,False,1528651661,-1.0,4803,8.0,locked,0,Sunday,1107,2018-06-10 18:27:41+00:00,awake
+Still,House,0,False,1528651802,-1.0,1189,8.0,locked,0,Sunday,1110,2018-06-10 18:30:02+00:00,awake
+Still,House,0,False,1528651835,-1.0,6328,0.0,locked,0,Sunday,1110,2018-06-10 18:30:35+00:00,awake
+Still,House,0,False,1528652333,-1.0,6068,8.0,not locked,0,Sunday,1118,2018-06-10 18:38:53+00:00,awake
+Still,House,0,False,1528652363,-1.0,6068,8.0,not locked,0,Sunday,1119,2018-06-10 18:39:23+00:00,awake
+Still,House,0,False,1528652393,-1.0,6345,8.0,not locked,0,Sunday,1119,2018-06-10 18:39:53+00:00,awake
+Still,House,0,False,1528652633,-1.0,19587,8.0,not locked,0,Sunday,1123,2018-06-10 18:43:53+00:00,awake
+Still,House,0,False,1528652994,-1.0,6585,8.0,not locked,0,Sunday,1129,2018-06-10 18:49:54+00:00,awake
+Still,House,0,False,1528653114,-1.0,4520,8.0,not locked,0,Sunday,1131,2018-06-10 18:51:54+00:00,awake
+Unknown,House,0,False,1528653144,-1.0,4520,8.0,not locked,0,Sunday,1132,2018-06-10 18:52:24+00:00,awake
+Unknown,House,0,False,1528653264,-1.0,13739,8.0,not locked,0,Sunday,1134,2018-06-10 18:54:24+00:00,awake
+Still,House,0,False,1528653354,-1.0,7428,8.0,not locked,0,Sunday,1135,2018-06-10 18:55:54+00:00,awake
+Still,House,0,False,1528653576,-1.0,8021,8.0,not locked,0,Sunday,1139,2018-06-10 18:59:36+00:00,awake
+Still,House,0,False,1528653606,-1.0,14049,8.0,not locked,0,Sunday,1140,2018-06-10 19:00:06+00:00,awake
+Still,House,0,False,1528653756,-1.0,2317,0.0,not locked,0,Sunday,1142,2018-06-10 19:02:36+00:00,awake
+Still,House,0,False,1528653817,-1.0,3279,8.0,not locked,0,Sunday,1143,2018-06-10 19:03:37+00:00,awake
+Still,House,0,False,1528653907,-1.0,3499,8.0,not locked,0,Sunday,1145,2018-06-10 19:05:07+00:00,awake
+Unknown,House,0,False,1528653937,-1.0,3499,0.0,not locked,0,Sunday,1145,2018-06-10 19:05:37+00:00,awake
+Still,House,0,False,1528653967,-1.0,4045,8.0,not locked,0,Sunday,1146,2018-06-10 19:06:07+00:00,awake
+Still,House,0,False,1528654027,-1.0,4243,8.0,not locked,0,Sunday,1147,2018-06-10 19:07:07+00:00,awake
+Still,House,0,False,1528654057,-1.0,4243,8.0,not locked,0,Sunday,1147,2018-06-10 19:07:37+00:00,awake
+Still,House,0,False,1528654087,-1.0,5653,8.0,not locked,0,Sunday,1148,2018-06-10 19:08:07+00:00,awake
+Still,House,0,False,1528654148,-1.0,2732,0.0,not locked,0,Sunday,1149,2018-06-10 19:09:08+00:00,awake
+Still,House,0,False,1528654238,-1.0,2933,0.0,not locked,0,Sunday,1150,2018-06-10 19:10:38+00:00,awake
+Still,House,0,False,1528654268,-1.0,2945,0.0,not locked,0,Sunday,1151,2018-06-10 19:11:08+00:00,awake
+Still,House,0,False,1528654328,-1.0,506,8.0,not locked,0,Sunday,1152,2018-06-10 19:12:08+00:00,awake
+Still,House,0,False,1528654358,-1.0,506,0.0,not locked,0,Sunday,1152,2018-06-10 19:12:38+00:00,awake
+Still,House,0,False,1528654418,-1.0,3311,8.0,not locked,0,Sunday,1153,2018-06-10 19:13:38+00:00,awake
+Still,House,0,False,1528654449,-1.0,6961,8.0,not locked,0,Sunday,1154,2018-06-10 19:14:09+00:00,awake
+Still,House,0,False,1528654479,-1.0,6961,8.0,not locked,0,Sunday,1154,2018-06-10 19:14:39+00:00,awake
+Still,House,0,False,1528654599,-1.0,16567,8.0,not locked,0,Sunday,1156,2018-06-10 19:16:39+00:00,awake
+Still,House,0,False,1528654629,-1.0,32767,8.0,not locked,0,Sunday,1157,2018-06-10 19:17:09+00:00,awake
+Still,House,0,False,1528654659,-1.0,32767,8.0,not locked,0,Sunday,1157,2018-06-10 19:17:39+00:00,awake
+Still,House,0,False,1528654689,-1.0,6294,8.0,not locked,0,Sunday,1158,2018-06-10 19:18:09+00:00,awake
+Still,House,0,False,1528654719,-1.0,6294,8.0,not locked,0,Sunday,1158,2018-06-10 19:18:39+00:00,awake
+Still,House,0,False,1528654870,-1.0,29036,0.0,not locked,0,Sunday,1161,2018-06-10 19:21:10+00:00,awake
+Still,House,0,False,1528654960,-1.0,10523,8.0,not locked,0,Sunday,1162,2018-06-10 19:22:40+00:00,awake
+Still,House,0,False,1528654990,-1.0,1248,0.0,not locked,0,Sunday,1163,2018-06-10 19:23:10+00:00,awake
+Still,House,0,False,1528655020,-1.0,1248,8.0,not locked,0,Sunday,1163,2018-06-10 19:23:40+00:00,awake
+Still,House,0,False,1528655050,-1.0,11576,8.0,not locked,0,Sunday,1164,2018-06-10 19:24:10+00:00,awake
+Tilting,House,0,False,1528655080,-1.0,11576,8.0,not locked,0,Sunday,1164,2018-06-10 19:24:40+00:00,awake
+Still,House,0,False,1528655141,-1.0,2568,8.0,not locked,0,Sunday,1165,2018-06-10 19:25:41+00:00,awake
+Still,House,0,False,1528655291,-1.0,7610,8.0,not locked,0,Sunday,1168,2018-06-10 19:28:11+00:00,awake
+Still,House,0,False,1528655411,-1.0,4190,8.0,not locked,0,Sunday,1170,2018-06-10 19:30:11+00:00,awake
+Still,House,0,False,1528655502,-1.0,2845,8.0,not locked,0,Sunday,1171,2018-06-10 19:31:42+00:00,awake
+Still,House,0,False,1528655532,-1.0,6789,8.0,not locked,0,Sunday,1172,2018-06-10 19:32:12+00:00,awake
+Still,House,0,False,1528655592,-1.0,17409,8.0,not locked,0,Sunday,1173,2018-06-10 19:33:12+00:00,awake
+Still,House,0,False,1528655682,-1.0,2618,0.0,not locked,0,Sunday,1174,2018-06-10 19:34:42+00:00,awake
+Still,House,0,False,1528655742,-1.0,2240,0.0,not locked,0,Sunday,1175,2018-06-10 19:35:42+00:00,awake
+Still,House,0,False,1528655893,-1.0,2770,8.0,not locked,0,Sunday,1178,2018-06-10 19:38:13+00:00,awake
+Still,House,0,False,1528655953,-1.0,18870,8.0,not locked,0,Sunday,1179,2018-06-10 19:39:13+00:00,awake
+Still,House,0,False,1528656013,-1.0,25403,8.0,not locked,0,Sunday,1180,2018-06-10 19:40:13+00:00,awake
+Still,House,0,False,1528656043,-1.0,25403,8.0,not locked,0,Sunday,1180,2018-06-10 19:40:43+00:00,awake
+Still,House,0,False,1528656164,-1.0,10349,8.0,not locked,0,Sunday,1182,2018-06-10 19:42:44+00:00,awake
+Still,House,0,False,1528656194,-1.0,5878,8.0,not locked,0,Sunday,1183,2018-06-10 19:43:14+00:00,awake
+Still,House,0,False,1528656224,-1.0,5878,8.0,not locked,0,Sunday,1183,2018-06-10 19:43:44+00:00,awake
+Still,House,0,False,1528656254,-1.0,29109,8.0,not locked,0,Sunday,1184,2018-06-10 19:44:14+00:00,awake
+Still,House,0,False,1528656284,-1.0,29109,8.0,not locked,0,Sunday,1184,2018-06-10 19:44:44+00:00,awake
+Still,House,0,False,1528656344,-1.0,4287,8.0,not locked,0,Sunday,1185,2018-06-10 19:45:44+00:00,awake
+Still,House,0,False,1528656374,-1.0,17202,8.0,not locked,0,Sunday,1186,2018-06-10 19:46:14+00:00,awake
+Still,House,0,False,1528656404,-1.0,17202,8.0,not locked,0,Sunday,1186,2018-06-10 19:46:44+00:00,awake
+Still,House,0,False,1528656435,-1.0,2216,8.0,not locked,0,Sunday,1187,2018-06-10 19:47:15+00:00,awake
+Still,House,0,False,1528656465,-1.0,2216,8.0,not locked,0,Sunday,1187,2018-06-10 19:47:45+00:00,awake
+Still,House,0,False,1528656495,-1.0,3724,8.0,not locked,0,Sunday,1188,2018-06-10 19:48:15+00:00,awake
+Still,House,0,False,1528656555,-1.0,2920,8.0,not locked,0,Sunday,1189,2018-06-10 19:49:15+00:00,awake
+Still,House,0,False,1528656585,-1.0,2920,8.0,not locked,0,Sunday,1189,2018-06-10 19:49:45+00:00,awake
+Still,House,0,False,1528656645,-1.0,20925,8.0,not locked,0,Sunday,1190,2018-06-10 19:50:45+00:00,awake
+Still,House,0,False,1528656675,-1.0,1733,8.0,not locked,0,Sunday,1191,2018-06-10 19:51:15+00:00,awake
+Still,House,0,False,1528656856,-1.0,1684,8.0,not locked,0,Sunday,1194,2018-06-10 19:54:16+00:00,awake
+Still,House,0,False,1528656886,-1.0,1684,8.0,locked,0,Sunday,1194,2018-06-10 19:54:46+00:00,awake
+Still,House,0,False,1528657048,-1.0,1876,8.0,not locked,0,Sunday,1197,2018-06-10 19:57:28+00:00,awake
+Tilting,House,0,False,1528657079,-1.0,13344,8.0,not locked,0,Sunday,1197,2018-06-10 19:57:59+00:00,awake
+Still,House,0,False,1528657379,-1.0,30050,8.0,not locked,0,Sunday,1202,2018-06-10 20:02:59+00:00,awake
+Still,House,0,False,1528657530,-1.0,20129,8.0,not locked,0,Sunday,1205,2018-06-10 20:05:30+00:00,awake
+Still,House,0,False,1528657560,-1.0,24385,0.0,not locked,0,Sunday,1206,2018-06-10 20:06:00+00:00,awake
+Still,House,0,False,1528657590,-1.0,24385,0.0,not locked,0,Sunday,1206,2018-06-10 20:06:30+00:00,awake
+Still,House,0,False,1528657620,-1.0,16253,0.0,not locked,0,Sunday,1207,2018-06-10 20:07:00+00:00,awake
+Still,House,0,False,1528657650,-1.0,16253,8.0,not locked,0,Sunday,1207,2018-06-10 20:07:30+00:00,awake
+Tilting,House,0,False,1528657861,-1.0,17969,8.0,not locked,0,Sunday,1211,2018-06-10 20:11:01+00:00,awake
+Still,House,0,False,1528657891,-1.0,17969,8.0,not locked,0,Sunday,1211,2018-06-10 20:11:31+00:00,awake
+Still,House,0,False,1528657921,-1.0,14990,8.0,not locked,0,Sunday,1212,2018-06-10 20:12:01+00:00,awake
+Still,House,0,False,1528657951,-1.0,14990,8.0,not locked,0,Sunday,1212,2018-06-10 20:12:31+00:00,awake
+Still,House,0,False,1528657981,-1.0,14189,8.0,not locked,0,Sunday,1213,2018-06-10 20:13:01+00:00,awake
+Still,House,0,False,1528658011,-1.0,14189,8.0,not locked,0,Sunday,1213,2018-06-10 20:13:31+00:00,awake
+Tilting,House,0,False,1528658072,-1.0,11356,8.0,not locked,0,Sunday,1214,2018-06-10 20:14:32+00:00,awake
+Still,House,0,False,1528658102,-1.0,21645,8.0,not locked,0,Sunday,1215,2018-06-10 20:15:02+00:00,awake
+Still,House,0,False,1528658132,-1.0,21645,8.0,not locked,0,Sunday,1215,2018-06-10 20:15:32+00:00,awake
+Still,House,0,False,1528658162,-1.0,13910,8.0,not locked,0,Sunday,1216,2018-06-10 20:16:02+00:00,awake
+Still,House,0,False,1528658282,-1.0,4124,8.0,not locked,0,Sunday,1218,2018-06-10 20:18:02+00:00,awake
+Still,House,0,False,1528658312,-1.0,4124,8.0,not locked,0,Sunday,1218,2018-06-10 20:18:32+00:00,awake
+Still,House,0,False,1528658342,-1.0,18798,0.0,not locked,0,Sunday,1219,2018-06-10 20:19:02+00:00,awake
+Still,House,0,False,1528658372,-1.0,18798,0.0,not locked,0,Sunday,1219,2018-06-10 20:19:32+00:00,awake
+Still,House,0,False,1528658463,-1.0,6484,8.0,not locked,0,Sunday,1221,2018-06-10 20:21:03+00:00,awake
+Still,House,0,False,1528658523,-1.0,8308,8.0,not locked,0,Sunday,1222,2018-06-10 20:22:03+00:00,awake
+Still,House,0,False,1528658553,-1.0,8308,8.0,not locked,0,Sunday,1222,2018-06-10 20:22:33+00:00,awake
+Still,House,0,False,1528658583,-1.0,32767,8.0,not locked,0,Sunday,1223,2018-06-10 20:23:03+00:00,awake
+Still,House,0,False,1528658673,-1.0,26661,8.0,not locked,0,Sunday,1224,2018-06-10 20:24:33+00:00,awake
+Still,House,0,False,1528658703,-1.0,16508,8.0,not locked,0,Sunday,1225,2018-06-10 20:25:03+00:00,awake
+Tilting,House,0,False,1528658824,-1.0,18483,8.0,not locked,0,Sunday,1227,2018-06-10 20:27:04+00:00,awake
+Still,House,0,False,1528658914,-1.0,25757,8.0,not locked,0,Sunday,1228,2018-06-10 20:28:34+00:00,awake
+Still,House,0,False,1528658944,-1.0,16265,8.0,not locked,0,Sunday,1229,2018-06-10 20:29:04+00:00,awake
+Still,House,0,False,1528658974,-1.0,16265,8.0,not locked,0,Sunday,1229,2018-06-10 20:29:34+00:00,awake
+Tilting,House,0,False,1528659034,-1.0,21035,8.0,not locked,0,Sunday,1230,2018-06-10 20:30:34+00:00,awake
+Still,House,0,False,1528659095,-1.0,19196,8.0,not locked,0,Sunday,1231,2018-06-10 20:31:35+00:00,awake
+Still,House,0,False,1528659155,-1.0,15629,8.0,not locked,0,Sunday,1232,2018-06-10 20:32:35+00:00,awake
+Still,House,0,False,1528659185,-1.0,11683,8.0,not locked,0,Sunday,1233,2018-06-10 20:33:05+00:00,awake
+Still,House,0,False,1528659215,-1.0,11683,8.0,not locked,0,Sunday,1233,2018-06-10 20:33:35+00:00,awake
+Still,House,0,False,1528659245,-1.0,8083,8.0,not locked,0,Sunday,1234,2018-06-10 20:34:05+00:00,awake
+Still,House,0,False,1528659275,-1.0,8083,8.0,not locked,0,Sunday,1234,2018-06-10 20:34:35+00:00,awake
+Still,House,0,False,1528659305,-1.0,32767,8.0,not locked,0,Sunday,1235,2018-06-10 20:35:05+00:00,awake
+Still,House,0,False,1528659335,-1.0,32767,8.0,not locked,0,Sunday,1235,2018-06-10 20:35:35+00:00,awake
+Still,House,0,False,1528659456,-1.0,32767,8.0,not locked,0,Sunday,1237,2018-06-10 20:37:36+00:00,awake
+Still,House,0,False,1528659486,-1.0,13596,8.0,not locked,0,Sunday,1238,2018-06-10 20:38:06+00:00,awake
+Still,House,0,False,1528659546,-1.0,11330,8.0,not locked,0,Sunday,1239,2018-06-10 20:39:06+00:00,awake
+Still,House,0,False,1528659576,-1.0,11330,8.0,not locked,0,Sunday,1239,2018-06-10 20:39:36+00:00,awake
+Still,House,0,False,1528659606,-1.0,18562,8.0,not locked,0,Sunday,1240,2018-06-10 20:40:06+00:00,awake
+Tilting,House,0,False,1528659757,-1.0,11405,8.0,not locked,0,Sunday,1242,2018-06-10 20:42:37+00:00,awake
+Still,House,0,False,1528659787,-1.0,9770,8.0,not locked,0,Sunday,1243,2018-06-10 20:43:07+00:00,awake
+Still,House,0,False,1528659817,-1.0,9770,8.0,not locked,0,Sunday,1243,2018-06-10 20:43:37+00:00,awake
+Still,House,0,False,1528659907,-1.0,32767,8.0,not locked,0,Sunday,1245,2018-06-10 20:45:07+00:00,awake
