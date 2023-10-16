@@ -1,0 +1,45 @@
+activity,location,distanceHome,showActuation,timestamp,time_to_next_alarm,sound,proximity,phone_lock,light,day_of_week,minutes_day,timestamp_text,class,outside_range
+Unknown,Other,0,False,1526390220,590580000.0,0,8,not locked,122,Tuesday,857,2018-05-15 14:17:00+00:00,awake,0
+Still,Other,0,False,1528041804,-1.0,0,8,not locked,156,Sunday,1023,2018-06-03 17:03:24+00:00,awake,0
+Unknown,Other,0,False,1528041820,0.0,0,0,not locked,0,Sunday,1023,2018-06-03 17:03:40+00:00,awake,0
+Unknown,Other,0,False,1528041832,0.0,0,0,not locked,0,Sunday,1023,2018-06-03 17:03:52+00:00,awake,0
+Unknown,Other,0,False,1528042060,0.0,0,8,not locked,153,Sunday,1027,2018-06-03 17:07:40+00:00,awake,0
+Unknown,Other,0,False,1528042135,-1.0,0,8,not locked,171,Sunday,1028,2018-06-03 17:08:55+00:00,awake,0
+Unknown,Other,0,False,1528059288,0.0,0,8,not locked,0,Sunday,1314,2018-06-03 21:54:48+00:00,awake,0
+Unknown,Other,0,False,1528059297,0.0,0,8,not locked,0,Sunday,1314,2018-06-03 21:54:57+00:00,awake,0
+Unknown,Other,0,False,1528196709,0.0,0,8,not locked,17,Tuesday,725,2018-06-05 12:05:09+00:00,asleep,0
+Unknown,Other,0,False,1528205719,0.0,0,8,not locked,61,Tuesday,875,2018-06-05 14:35:19+00:00,asleep,0
+Unknown,University,0,False,1528205749,592200000.0,9026,0,not locked,56,Tuesday,875,2018-06-05 14:35:49+00:00,asleep,0
+Unknown,University,0,False,1528205779,592140000.0,9026,0,locked,20,Tuesday,876,2018-06-05 14:36:19+00:00,asleep,0
+Unknown,University,0,False,1528205809,592140000.0,21084,0,locked,12,Tuesday,876,2018-06-05 14:36:49+00:00,asleep,0
+Unknown,Other,0,False,1528205910,0.0,0,8,not locked,163,Tuesday,878,2018-06-05 14:38:30+00:00,asleep,0
+Unknown,University,0,False,1528205970,591960000.0,12978,8,not locked,39,Tuesday,879,2018-06-05 14:39:30+00:00,asleep,0
+Unknown,University,0,False,1528206000,591900000.0,12728,8,not locked,98,Tuesday,880,2018-06-05 14:40:00+00:00,asleep,0
+Unknown,Other,0,False,1528207162,590760000.0,0,8,not locked,194,Tuesday,899,2018-06-05 14:59:22+00:00,asleep,0
+Unknown,University,0,False,1528207192,590760000.0,16316,8,not locked,203,Tuesday,899,2018-06-05 14:59:52+00:00,asleep,0
+Unknown,University,0,False,1528207222,590700000.0,16316,8,not locked,207,Tuesday,900,2018-06-05 15:00:22+00:00,asleep,0
+Unknown,Other,0,False,1528207327,0.0,0,0,not locked,0,Tuesday,902,2018-06-05 15:02:07+00:00,asleep,0
+Unknown,Other,0,False,1528207607,0.0,0,0,not locked,0,Tuesday,906,2018-06-05 15:06:47+00:00,asleep,0
+Unknown,University,0,False,1528207637,590280000.0,13999,8,not locked,191,Tuesday,907,2018-06-05 15:07:17+00:00,asleep,0
+Unknown,University,0,False,1528207667,590280000.0,13999,8,not locked,191,Tuesday,907,2018-06-05 15:07:47+00:00,asleep,0
+Unknown,University,0,False,1528207697,590220000.0,14428,0,not locked,72,Tuesday,908,2018-06-05 15:08:17+00:00,asleep,0
+Unknown,University,0,False,1528207750,590160000.0,14428,0,locked,160,Tuesday,909,2018-06-05 15:09:10+00:00,asleep,0
+Unknown,Other,0,False,1528207970,0.0,0,0,not locked,0,Tuesday,912,2018-06-05 15:12:50+00:00,asleep,0
+Still,University,0,False,1528208000,589920000.0,13242,8,not locked,158,Tuesday,913,2018-06-05 15:13:20+00:00,asleep,0
+Still,University,0,False,1528208030,589920000.0,13242,8,not locked,169,Tuesday,913,2018-06-05 15:13:50+00:00,asleep,0
+Unknown,Other,0,False,1528208205,0.0,0,0,not locked,0,Tuesday,916,2018-06-05 15:16:45+00:00,asleep,0
+Unknown,Other,0,False,1528208225,0.0,0,0,not locked,0,Tuesday,917,2018-06-05 15:17:05+00:00,asleep,0
+Unknown,Other,0,False,1528208231,0.0,0,8,not locked,0,Tuesday,917,2018-06-05 15:17:11+00:00,asleep,0
+Unknown,University,0,False,1528208262,589680000.0,11329,8,locked,184,Tuesday,917,2018-06-05 15:17:42+00:00,asleep,0
+Unknown,Other,0,False,1528208640,0.0,0,0,not locked,167,Tuesday,924,2018-06-05 15:24:00+00:00,asleep,0
+Unknown,University,0,False,1528208842,589080000.0,32767,8,locked,162,Tuesday,927,2018-06-05 15:27:22+00:00,asleep,0
+Still,University,0,False,1528209380,588540000.0,32767,8,not locked,40,Tuesday,936,2018-06-05 15:36:20+00:00,asleep,0
+Still,University,0,False,1528209441,588480000.0,32767,8,not locked,0,Tuesday,937,2018-06-05 15:37:21+00:00,asleep,0
+Still,University,0,False,1528209471,588480000.0,10223,8,not locked,0,Tuesday,937,2018-06-05 15:37:51+00:00,asleep,0
+Still,University,0,False,1528209501,588420000.0,10223,8,not locked,1,Tuesday,938,2018-06-05 15:38:21+00:00,asleep,0
+Still,University,0,False,1528209531,588420000.0,4821,8,locked,0,Tuesday,938,2018-06-05 15:38:51+00:00,asleep,0
+Still,University,0,False,1528209569,588360000.0,4821,8,not locked,166,Tuesday,939,2018-06-05 15:39:29+00:00,asleep,0
+Still,University,0,False,1528209599,588360000.0,12489,8,not locked,168,Tuesday,939,2018-06-05 15:39:59+00:00,asleep,0
+Unknown,Other,0,False,1528225935,0.0,0,0,not locked,0,Tuesday,1212,2018-06-05 20:12:15+00:00,asleep,0
+Unknown,Other,0,False,1528226543,0.0,0,8,not locked,15,Tuesday,1222,2018-06-05 20:22:23+00:00,asleep,0
+Unknown,Other,0,False,1528235026,562920000.0,0,8,not locked,11,Tuesday,1363,2018-06-05 22:43:46+00:00,asleep,0

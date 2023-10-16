@@ -491,7 +491,10 @@ train_dataset_series
 # In[ ]:
 
 
+# batch_size
+validation_dataset_series = test_dataset_series.batch(BATCH_SIZE)
 
+validation_dataset_series
 
 
 # In[24]:
@@ -536,7 +539,9 @@ print()
 
 verbose, epochs, batch_size = VERBOSE, MAX_EPOCH, BATCH_SIZE  
 # fit network
-history = model.fit(train_dataset_series, epochs=epochs, verbose=verbose, batch_size=batch_size, callbacks=[checkpoint]) #, batch_size=batch_size, validation_split=0.1
+history = model.fit(train_dataset_series, epochs=epochs, verbose=verbose, 
+                    batch_size=batch_size, callbacks=[checkpoint],
+                    validation_data=validation_dataset_series) #, batch_size=batch_size, validation_split=0.1
 
 # generate time metrics
 current_time2 = datetime.datetime.now()
@@ -574,7 +579,7 @@ dfhistory
 
 
 columnsOutputMetrics = ['NN_type','units','epochs','batch_size','window_size','time_step_shift',
-           'start_time','end_time','time_s','time_m', "train_accuracy", "train_loss", 
+           'start_time','end_time','time_s','time_m', "train_accuracy", "train_loss", "val_accuracy", "val_loss",
            'class','accuracy','precision','recall','f1_score','cohen_kappa_score','roc_auc_score','confusion_matrix',
            'TP','FP','FN','TN']
 
@@ -626,8 +631,10 @@ for TEST_EPOCHS in EPOCHS_ARRAY_TEST:
     
     train_accuracy = history.history["loss"][TEST_EPOCHS-1]
     train_loss     = history.history["categorical_accuracy"][TEST_EPOCHS-1]
+    val_acc = history.history["val_loss"][TEST_EPOCHS-1]
+    val_loss     = history.history["val_categorical_accuracy"][TEST_EPOCHS-1]
     # generate general metrics
-    rowData = [current_time,current_time2,processing_time_s,(processing_time_s)/60,train_accuracy,train_loss]
+    rowData = [current_time,current_time2,processing_time_s,(processing_time_s)/60,train_accuracy,train_loss,val_acc,val_loss]
 
     y_pred_labels = pd.DataFrame(data=yhat_probs,columns=['awake','asleep'])
     y_test_labels = pd.DataFrame(data=y_test_data,columns=['awake','asleep'])
